@@ -1,0 +1,2763 @@
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite AAAAA!"
+"Test Sprite AAAAA sent out Sableye!"
+"Go! Charizard!"
+[Round order] Charizard (0), the opposing Sableye (1)
+
+===== Round 1 =====
+
+"The opposing Sableye has Mega Evolved into Mega Sableye!"
+"Charizard's Charizardite Y is reacting to Tester's Mega Ring!"
+"Charizard has Mega Evolved into Mega Charizard Y!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Sableye (1) used Protect
+"The opposing Sableye used Protect!"
+"The opposing Sableye protected itself!"
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+"The opposing Sableye protected itself!"
+
+[End of round 1]
+"The sunlight is strong."
+
+===== Round 2 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     +  7: damaging move (predicted damage 90 = 30% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     - 23: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 107
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 77
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 248 HP (303 -> 55)
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 86 HP (297 -> 211)
+
+[End of round 2]
+"The sunlight is strong."
+
+===== Round 3 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 10: damaging move (predicted damage 90 = 42% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 24: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Knock Off (target 0): score 110
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   * 100.0% to use Recover: score 124
+   => will use Recover
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 55 HP (55 -> 0)
+"The opposing Sableye fainted!"
+
+[End of round 3]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Weavile!"
+[Ability triggered] The opposing Weavile's Pressure
+"The opposing Weavile is exerting its pressure!"
+
+===== Round 4 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Charizard (0)...
+     + 15: function code modifier (against target)
+     + 22: damaging move (predicted damage 192 = 90% of target's HP)
+[AI] Weavile (1) is considering using Knock Off against Charizard (0)...
+     + 17: damaging move (predicted damage 147 = 69% of target's HP)
+[AI] Weavile (1) is considering using Ice Shard against Charizard (0)...
+     + 10: damaging move (predicted damage 92 = 43% of target's HP)
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 34: function code modifier (generic)
+[AI] Weavile (1) is considering using Subzero Slammer against Charizard (0)...
+     + 30: damaging move (predicted damage 359 = 170% of target's HP)
+     + 10: predicted to KO the target
+[AI] Weavile (1) is considering using Subzero Slammer against Charizard (0)...
+     + 26: damaging move (predicted damage 225 = 106% of target's HP)
+[AI] Move choices for Weavile (1):
+   *  33.3% to use Icicle Crash (target 0): score 137
+   *   0.0% to use Knock Off (target 0): score 117
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  19.0% to use Swords Dance: score 134
+   *  47.6% to use Subzero Slammer (target 0): score 140
+   *   0.0% to use Subzero Slammer (target 0): score 126
+   => will use Icicle Crash (target 0)
+
+[Round order] The opposing Weavile (1), Charizard (0)
+
+[Use move] The opposing Weavile (1) used Icicle Crash
+"The opposing Weavile used Icicle Crash!"
+[HP change] Charizard lost 169 HP (211 -> 42)
+[Midbattle Global] low HP music begins
+[Use move] Charizard (0) used Weather Ball
+[Ability triggered] The opposing Weavile's Pressure
+"Charizard used Weather Ball!"
+[HP change] The opposing Weavile lost 281 HP (281 -> 0)
+"It's super effective!"
+"The opposing Weavile fainted!"
+
+[End of round 4]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Hydreigon!"
+
+===== Round 5 =====
+
+[AI] Hydreigon (1) is considering Terastallizing into the Dark-type...
+     +  5: offensive advantage
+[AI] Hydreigon (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Hydreigon (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Hydreigon (1) is comparing Terastal score with party member Meowscarada (score: 0)...
+[AI] Hydreigon (1) will not Terastallize
+[AI] Hydreigon (1) is considering using Dark Pulse against Charizard (0)...
+     + 30: damaging move (predicted damage 134 = 319% of target's HP)
+     + 10: predicted to KO the target
+[AI] Hydreigon (1) is considering using Flamethrower against Charizard (0)...
+     + 30: damaging move (predicted damage 75 = 178% of target's HP)
+     + 10: predicted to KO the target
+[AI] Hydreigon (1) is considering using Substitute...
+     + 15: function code modifier (generic)
+[AI] Hydreigon (1) is considering using Nasty Plot...
+     + 12: raising the user's Special Attack by 2
+     + 34: function code modifier (generic)
+[AI] Move choices for Hydreigon (1):
+   *  41.7% to use Dark Pulse (target 0): score 140
+   *  41.7% to use Flamethrower (target 0): score 140
+   *   0.0% to use Substitute: score 115
+   *  16.7% to use Nasty Plot: score 134
+   => will use Flamethrower (target 0)
+
+[Round order] Charizard (0), the opposing Hydreigon (1)
+
+"Good job, Charizard! Come back!"
+"You're in charge, Hatterene!"
+[Midbattle Global] low HP music ended
+[Use move] The opposing Hydreigon (1) used Flamethrower
+"The opposing Hydreigon used Flamethrower!"
+[HP change] Hatterene lost 93 HP (318 -> 225)
+
+[End of round 5]
+"The sunlight faded."
+
+===== Round 6 =====
+
+[AI] Hydreigon (1) is considering Terastallizing into the Dark-type...
+[AI] Hydreigon (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Hydreigon (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Hydreigon (1) is comparing Terastal score with party member Meowscarada (score: 0)...
+[AI] Hydreigon (1) will not Terastallize
+[AI] Hydreigon (1) is considering using Dark Pulse against Hatterene (0)...
+     + 15: function code modifier (against target)
+     + 10: damaging move (predicted damage 90 = 40% of target's HP)
+[AI] Hydreigon (1) is considering using Flamethrower against Hatterene (0)...
+     + 23: function code modifier (against target)
+     +  7: damaging move (predicted damage 67 = 29% of target's HP)
+[AI] Hydreigon (1) is considering using Substitute...
+     + 15: function code modifier (generic)
+[AI] Hydreigon (1) is considering using Nasty Plot...
+     + 12: raising the user's Special Attack by 2
+     + 34: function code modifier (generic)
+[AI] Move choices for Hydreigon (1):
+   *   5.9% to use Dark Pulse (target 0): score 125
+   *  35.3% to use Flamethrower (target 0): score 130
+   *   0.0% to use Substitute: score 115
+   *  58.8% to use Nasty Plot: score 134
+   => will use Nasty Plot
+
+[Round order] The opposing Hydreigon (1), Hatterene (0)
+
+[Use move] The opposing Hydreigon (1) used Nasty Plot
+"The opposing Hydreigon used Nasty Plot!"
+[Stat change] The opposing Hydreigon's Special Attack changed by +2 (0 -> 2)
+"The opposing Hydreigon's Special Attack rose sharply!"
+[Use move] Hatterene (0) used Draining Kiss
+"Hatterene used Draining Kiss!"
+[HP change] The opposing Hydreigon lost 294 HP (294 -> 0)
+"It's super effective!"
+"The opposing Hydreigon fainted!"
+"The opposing Hydreigon had its energy drained!"
+[HP change] Hatterene gained 93 HP (225 -> 318)
+
+[End of round 6]
+"Test Sprite AAAAA sent out Meowscarada!"
+
+===== Round 7 =====
+
+[AI] Meowscarada (1) is considering Terastallizing into the Dark-type...
+[AI] Meowscarada (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Meowscarada (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Meowscarada (1) will not Terastallize
+[AI] Meowscarada (1) is considering using Flower Trick against Hatterene (0)...
+     + 13: damaging move (predicted damage 167 = 52% of target's HP)
+[AI] Meowscarada (1) is considering using Triple Axel against Hatterene (0)...
+     +  9: damaging move (predicted damage 125 = 39% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using Play Rough against Hatterene (0)...
+     +  4: lowering the target's Attack by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 94 = 29% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using U-turn against Hatterene (0)...
+     +  5: damaging move (predicted damage 74 = 23% of target's HP)
+[AI] Move choices for Meowscarada (1):
+   *  25.0% to use Flower Trick (target 0): score 113
+   *   0.0% to use Triple Axel (target 0): score 105
+   *  75.0% to use Play Rough (target 0): score 119
+   *   0.0% to use U-turn (target 0): score 105
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Meowscarada (1), Hatterene (0)
+
+[Use move] The opposing Meowscarada (1) used Play Rough
+"The opposing Meowscarada used Play Rough!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Fairy!"
+[HP change] Hatterene lost 121 HP (318 -> 197)
+[Use move] Hatterene (0) used Nuzzle
+"Hatterene used Nuzzle!"
+[HP change] The opposing Meowscarada lost 16 HP (314 -> 298)
+"The opposing Meowscarada is paralyzed! It may be unable to move!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Meowscarada (1) is considering Terastallizing into the Dark-type...
+[AI] Meowscarada (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Meowscarada (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Meowscarada (1) will not Terastallize
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) cannot choose to use Triple Axel
+[AI] Meowscarada (1) is considering using Play Rough against Hatterene (0)...
+     +  4: lowering the target's Attack by 1
+     + 10: function code modifier (against target)
+     + 17: damaging move (predicted damage 141 = 71% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Play Rough (target 0): score 123
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Meowscarada (1), Hatterene (0)
+
+"Hatterene, come back!"
+"Go for it, Ceruledge!"
+[Use move] The opposing Meowscarada (1) used Play Rough
+"The opposing Meowscarada used Play Rough!"
+[HP change] Ceruledge lost 78 HP (291 -> 213)
+"It's not very effective..."
+[Ability triggered] Ceruledge's Weak Armor
+[Stat change] Ceruledge's Defense changed by -1 (0 -> -1)
+"Ceruledge's Defense fell!"
+[Stat change] Ceruledge's Speed changed by +2 (0 -> 2)
+"Ceruledge's Speed rose sharply!"
+
+[End of round 8]
+
+===== Round 9 =====
+
+[AI] Meowscarada (1) is considering Terastallizing into the Dark-type...
+     +  5: defensive advantage
+[AI] Meowscarada (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Meowscarada (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Meowscarada (1) will not Terastallize
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) cannot choose to use Triple Axel
+[AI] Meowscarada (1) is considering using Play Rough against Ceruledge (0)...
+     +  6: lowering the target's Attack by 1
+     + 13: function code modifier (against target)
+     + 14: damaging move (predicted damage 121 = 56% of target's HP)
+     -  8: can trigger the target's ability
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Play Rough (target 0): score 115
+   => will use Play Rough (target 0)
+
+[Round order] Ceruledge (0), the opposing Meowscarada (1)
+
+[Use move] Ceruledge (0) used Swords Dance
+"Ceruledge used Swords Dance!"
+[Stat change] Ceruledge's Attack changed by +2 (0 -> 2)
+"Ceruledge's Attack rose sharply!"
+[Use move] The opposing Meowscarada (1) used Play Rough
+"The opposing Meowscarada used Play Rough!"
+[HP change] Ceruledge lost 118 HP (213 -> 95)
+[Ability triggered] Ceruledge's Weak Armor
+[Stat change] Ceruledge's Defense changed by -1 (-1 -> -2)
+"Ceruledge's Defense fell!"
+[Stat change] Ceruledge's Speed changed by +2 (2 -> 4)
+"Ceruledge's Speed rose sharply!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+[AI] Meowscarada (1) is considering Terastallizing into the Dark-type...
+     +  5: defensive advantage
+[AI] Meowscarada (1) is comparing Terastal score with party member Mandibuzz (score: 5)...
+[AI] Meowscarada (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Meowscarada (1) will not Terastallize
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) cannot choose to use Triple Axel
+[AI] Meowscarada (1) is considering using Play Rough against Ceruledge (0)...
+     +  4: lowering the target's Attack by 1
+     +  6: function code modifier (against target)
+     + 30: damaging move (predicted damage 161 = 169% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Play Rough (target 0): score 134
+   => will use Play Rough (target 0)
+
+[Round order] Ceruledge (0), the opposing Meowscarada (1)
+
+[Use move] Ceruledge (0) used Never-Ending Nightmare
+"Ceruledge surrounded itself with its Z-Power!"
+"Ceruledge unleashed its full force Z-Move!"
+"Ceruledge used Never-Ending Nightmare!"
+[HP change] The opposing Meowscarada lost 298 HP (298 -> 0)
+"The opposing Meowscarada fainted!"
+
+[End of round 10]
+"Test Sprite AAAAA sent out Mandibuzz!"
+
+===== Round 11 =====
+
+[AI] Mandibuzz (1) is considering Terastallizing into the Dark-type...
+     + 15: offensive advantage
+     +  5: defensive advantage
+[AI] Mandibuzz (1) is comparing Terastal score with party member Ting-Lu (score: 5)...
+[AI] Mandibuzz (1) will Terastallize
+[AI] Mandibuzz (1) is considering using Foul Play against Ceruledge (0)...
+     + 30: damaging move (predicted damage 1875 = 1973% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Mandibuzz (1) is considering using Roost...
+     - 80: move will fail
+[AI] Mandibuzz (1) is considering using Defog against Ceruledge (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 11: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Ceruledge (0)...
+     +  6: damaging move (predicted damage 25 = 26% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Move choices for Mandibuzz (1):
+   * 100.0% to use Foul Play (target 0): score 132
+   *   0.0% to use Roost: score 20
+   *   0.0% to use Defog (target 0): score 111
+   *   0.0% to use U-turn (target 0): score 98
+   => will use Foul Play (target 0)
+
+[Round order] Ceruledge (0), the opposing Mandibuzz (1)
+
+"The opposing Mandibuzz Terastallized into the Dark-type!"
+[Use move] Ceruledge (0) used Bitter Blade
+"Ceruledge used Bitter Blade!"
+[HP change] The opposing Mandibuzz lost 249 HP (423 -> 174)
+[HP change] Ceruledge lost 48 HP (95 -> 47)
+[Midbattle Global] low HP music begins
+"Ceruledge was hurt by the Rocky Helmet!"
+"The opposing Mandibuzz had its energy drained!"
+[HP change] Ceruledge gained 125 HP (47 -> 172)
+[Midbattle Global] low HP music ended
+[Use move] The opposing Mandibuzz (1) used Foul Play
+"The opposing Mandibuzz used Foul Play!"
+[HP change] Ceruledge lost 172 HP (172 -> 0)
+"It's super effective!"
+"Ceruledge fainted!"
+
+[End of round 11]
+"Just a little more! Hang in there, Heatran!"
+
+===== Round 12 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Heatran (0)...
+     +  8: damaging move (predicted damage 110 = 34% of target's HP)
+[AI] Mandibuzz (1) is considering using Roost...
+     + 17: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Heatran (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 12: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Heatran (0)...
+[AI] Move choices for Mandibuzz (1):
+   *   0.0% to use Foul Play (target 0): score 108
+   *  72.7% to use Roost: score 117
+   *  27.3% to use Defog (target 0): score 112
+   *   0.0% to use U-turn (target 0): score 100
+   => will use Defog (target 0)
+
+[Round order] Heatran (0), the opposing Mandibuzz (1)
+
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Mandibuzz lost 174 HP (174 -> 0)
+"The opposing Mandibuzz fainted!"
+
+[End of round 12]
+"Test Sprite AAAAA sent out Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+
+===== Round 13 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 528 = 163% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Heatran (0)...
+     + 12: damaging move (predicted damage 162 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Heatran (0)...
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 140
+   *   0.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Heatran (0), the opposing Ting-Lu (1)
+
+"Heatran, come back!"
+"You're in charge, Charizard!"
+[Midbattle Global] low HP music begins
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[Target immune] Charizard's type immunity
+"It doesn't affect Charizard..."
+
+[End of round 13]
+"The sunlight is strong."
+
+===== Round 14 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 21 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+     - 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   *   0.0% to use Ruination (target 0): score 112
+   * 100.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 90
+   => will use Stealth Rock
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Solar Beam
+"Charizard used Solar Beam!"
+"Charizard took in sunlight!"
+[HP change] The opposing Ting-Lu lost 226 HP (513 -> 287)
+"It's super effective!"
+[Use move] The opposing Ting-Lu (1) used Stealth Rock
+"The opposing Ting-Lu used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 14]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (287 -> 319)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 15 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 21 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   * 100.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Solar Beam
+"Charizard used Solar Beam!"
+"Charizard took in sunlight!"
+[HP change] The opposing Ting-Lu lost 192 HP (319 -> 127)
+"It's super effective!"
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Ting-Lu's attack missed!"
+
+[End of round 15]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (127 -> 159)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 16 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 21 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   * 100.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (42 -> 191)
+[Midbattle Global] low HP music ended
+"Charizard's HP was restored."
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Charizard lost 96 HP (191 -> 95)
+
+[End of round 16]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (159 -> 191)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 17 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 48 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   * 100.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (95 -> 244)
+"Charizard's HP was restored."
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Charizard lost 122 HP (244 -> 122)
+
+[End of round 17]
+"The sunlight faded."
+[HP change] The opposing Ting-Lu gained 32 HP (191 -> 223)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 18 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 61 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   *  57.1% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *  42.9% to use Whirlwind (target 0): score 110
+   => will use Whirlwind (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Solar Beam
+"Charizard used Solar Beam!"
+"Charizard took in sunlight!"
+[Use move] The opposing Ting-Lu (1) used Whirlwind
+"The opposing Ting-Lu used Whirlwind!"
+"Great Tusk was dragged out!"
+[HP change] Great Tusk lost 14 HP (433 -> 419)
+"Pointed stones dug into Great Tusk!"
+
+[End of round 18]
+[HP change] The opposing Ting-Lu gained 32 HP (223 -> 255)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 19 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     +  5: damaging move (predicted damage 89 = 21% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Ruination against Great Tusk (0)...
+     + 12: damaging move (predicted damage 210 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Great Tusk (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 97
+   *  20.0% to use Ruination (target 0): score 104
+   *   0.0% to use Stealth Rock: score 20
+   *  80.0% to use Whirlwind (target 0): score 110
+   => will use Ruination (target 0)
+
+[Round order] Great Tusk (0), the opposing Ting-Lu (1)
+
+[Use move] Great Tusk (0) used Rapid Spin
+"Great Tusk used Rapid Spin!"
+[HP change] The opposing Ting-Lu lost 45 HP (255 -> 210)
+[Stat change] Great Tusk's Speed changed by +1 (0 -> 1)
+"Great Tusk's Speed rose!"
+"Great Tusk blew away stealth rocks!"
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Great Tusk lost 210 HP (419 -> 209)
+
+[End of round 19]
+[HP change] The opposing Ting-Lu gained 32 HP (210 -> 242)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 20 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 10: damaging move (predicted damage 89 = 42% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Ruination against Great Tusk (0)...
+     + 12: damaging move (predicted damage 105 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Great Tusk (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 102
+   *   0.0% to use Ruination (target 0): score 104
+   * 100.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Stealth Rock
+
+[Round order] Great Tusk (0), the opposing Ting-Lu (1)
+
+"OK, Great Tusk! Come back!"
+"Just a little more! Hang in there, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Ting-Lu (1) used Stealth Rock
+"The opposing Ting-Lu used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 20]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (242 -> 274)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 21 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 61 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   *  57.1% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *  42.9% to use Whirlwind (target 0): score 110
+   => will use Whirlwind (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+"OK, Charizard! Come back!"
+"Go for it, Hatterene!"
+[HP change] Hatterene lost 40 HP (197 -> 157)
+"Pointed stones dug into Hatterene!"
+[Use move] The opposing Ting-Lu (1) used Whirlwind
+"The opposing Ting-Lu used Whirlwind!"
+[Ability triggered] Hatterene's Magic Bounce
+"Hatterene bounced the Whirlwind back!"
+"But it failed!"
+[Move failed] In function code SwitchOutTargetStatusMove's def pbFailsAgainstTarget?
+
+[End of round 21]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (274 -> 306)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 22 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 23: damaging move (predicted damage 146 = 92% of target's HP)
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 79 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     + 10: function code modifier (against target)
+     - 50: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 123
+   *   0.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Earthquake
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Hatterene lost 127 HP (157 -> 30)
+[Midbattle Global] low HP music begins
+[Use move] Hatterene (0) used Draining Kiss
+"Hatterene used Draining Kiss!"
+[HP change] The opposing Ting-Lu lost 112 HP (306 -> 194)
+"It's super effective!"
+"The opposing Ting-Lu had its energy drained!"
+[HP change] Hatterene gained 84 HP (30 -> 114)
+[Midbattle Global] low HP music ended
+
+[End of round 22]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (194 -> 226)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 23 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 146 = 128% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 57 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     + 10: function code modifier (against target)
+     - 50: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 140
+   *   0.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Earthquake
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Hatterene lost 114 HP (114 -> 0)
+"Hatterene fainted!"
+
+[End of round 23]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (226 -> 258)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+"Go for it, Great Tusk!"
+[HP change] Great Tusk lost 14 HP (209 -> 195)
+"Pointed stones dug into Great Tusk!"
+[Ability triggered] Great Tusk's Protosynthesis
+"The harsh sunlight activated Great Tusk's Protosynthesis!"
+"Great Tusk's Defense was heightened!"
+
+===== Round 24 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     +  8: damaging move (predicted damage 69 = 35% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Ruination against Great Tusk (0)...
+     + 12: damaging move (predicted damage 98 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Great Tusk (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 100
+   *  20.0% to use Ruination (target 0): score 104
+   *   0.0% to use Stealth Rock: score 20
+   *  80.0% to use Whirlwind (target 0): score 110
+   => will use Whirlwind (target 0)
+
+[Round order] Great Tusk (0), the opposing Ting-Lu (1)
+
+[Use move] Great Tusk (0) used Rapid Spin
+"Great Tusk used Rapid Spin!"
+[HP change] The opposing Ting-Lu lost 44 HP (258 -> 214)
+[Stat change] Great Tusk's Speed changed by +1 (0 -> 1)
+"Great Tusk's Speed rose!"
+"Great Tusk blew away stealth rocks!"
+[Use move] The opposing Ting-Lu (1) used Whirlwind
+"The opposing Ting-Lu used Whirlwind!"
+"Heatran was dragged out!"
+
+[End of round 24]
+"The sunlight faded."
+[HP change] The opposing Ting-Lu gained 32 HP (214 -> 246)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 25 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 528 = 163% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Heatran (0)...
+     + 12: damaging move (predicted damage 162 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Heatran (0)...
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 140
+   *   0.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Heatran (0), the opposing Ting-Lu (1)
+
+"Heatran, switch out! Come back!"
+"Just a little more! Hang in there, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[Target immune] Charizard's type immunity
+"It doesn't affect Charizard..."
+
+[End of round 25]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (246 -> 278)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 26 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 61 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   *   0.0% to use Ruination (target 0): score 112
+   * 100.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Stealth Rock
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+"OK, Charizard! Come back!"
+"Go for it, Raging Bolt!"
+[Ability triggered] Raging Bolt's Protosynthesis
+"The harsh sunlight activated Raging Bolt's Protosynthesis!"
+"Raging Bolt's Special Attack was heightened!"
+"Raging Bolt floats in the air with its Air Balloon!"
+[Use move] The opposing Ting-Lu (1) used Stealth Rock
+"The opposing Ting-Lu used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 26]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (278 -> 310)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 27 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Raging Bolt (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Raging Bolt (0)...
+     + 12: damaging move (predicted damage 210 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Raging Bolt (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 20
+   *  20.0% to use Ruination (target 0): score 104
+   *   0.0% to use Stealth Rock: score 20
+   *  80.0% to use Whirlwind (target 0): score 110
+   => will use Whirlwind (target 0)
+
+[Round order] Raging Bolt (0), the opposing Ting-Lu (1)
+
+[Use move] Raging Bolt (0) used Draco Meteor
+"Raging Bolt used Draco Meteor!"
+[HP change] The opposing Ting-Lu lost 216 HP (310 -> 94)
+[Stat change] Raging Bolt's Special Attack changed by -2 (0 -> -2)
+"Raging Bolt's Special Attack harshly fell!"
+[Use move] The opposing Ting-Lu (1) used Whirlwind
+"The opposing Ting-Lu used Whirlwind!"
+"Great Tusk was dragged out!"
+[HP change] Great Tusk lost 14 HP (195 -> 181)
+"Pointed stones dug into Great Tusk!"
+[Ability triggered] Great Tusk's Protosynthesis
+"The harsh sunlight activated Great Tusk's Protosynthesis!"
+"Great Tusk's Defense was heightened!"
+
+[End of round 27]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (94 -> 126)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 28 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     +  9: damaging move (predicted damage 69 = 38% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Ruination against Great Tusk (0)...
+     + 12: damaging move (predicted damage 91 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Great Tusk (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 101
+   *  20.0% to use Ruination (target 0): score 104
+   *   0.0% to use Stealth Rock: score 20
+   *  80.0% to use Whirlwind (target 0): score 110
+   => will use Whirlwind (target 0)
+
+[Round order] Great Tusk (0), the opposing Ting-Lu (1)
+
+[Use move] Great Tusk (0) used Ice Spinner
+"Great Tusk used Ice Spinner!"
+[HP change] The opposing Ting-Lu lost 125 HP (126 -> 1)
+"It's super effective!"
+[Use move] The opposing Ting-Lu (1) used Whirlwind
+"The opposing Ting-Lu used Whirlwind!"
+"Heatran was dragged out!"
+[HP change] Heatran lost 40 HP (323 -> 283)
+"Pointed stones dug into Heatran!"
+
+[End of round 28]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (1 -> 33)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 29 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 528 = 186% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Heatran (0)...
+     + 12: damaging move (predicted damage 142 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Whirlwind against Heatran (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 140
+   *   0.0% to use Ruination (target 0): score 112
+   *   0.0% to use Stealth Rock: score 20
+   *   0.0% to use Whirlwind (target 0): score 110
+   => will use Earthquake
+
+[Round order] Heatran (0), the opposing Ting-Lu (1)
+
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Ting-Lu lost 33 HP (33 -> 0)
+"The opposing Ting-Lu fainted!"
+
+===== Player won =====
+
+"You defeated Test Sprite AAAAA!"
+"AAA"
+
+"You got $10,000 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite AAAAA!"
+"Test Sprite AAAAA sent out Sableye!"
+"Go! Charizard!"
+[Round order] Charizard (0), the opposing Sableye (1)
+
+===== Round 1 =====
+
+[AI] Sableye (1) will Mega Evolve
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     +  6: damaging move (predicted damage 81 = 27% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 144
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+"Charizard's Charizardite Y is reacting to Tester's Mega Ring!"
+"Charizard has Mega Evolved into Mega Charizard Y!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+"The opposing Sableye's Sablenite is reacting to Test Sprite AAAAA's Mega Ring!"
+"The opposing Sableye has Mega Evolved into Mega Sableye!"
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 210 HP (303 -> 93)
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 89 HP (297 -> 208)
+
+[End of round 1]
+"The sunlight is strong."
+
+===== Round 2 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 10: damaging move (predicted damage 90 = 43% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 20: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 142
+   *   0.0% to use Will-O-Wisp (target 0): score 50
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 120
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 93 HP (93 -> 0)
+"The opposing Sableye fainted!"
+
+[End of round 2]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Mandibuzz!"
+
+===== Round 3 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Charizard (0)...
+     + 14: damaging move (predicted damage 122 = 58% of target's HP)
+[AI] Mandibuzz (1) is considering using Roost...
+     - 80: move will fail
+[AI] Mandibuzz (1) is considering using Defog against Charizard (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 16: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Charizard (0)...
+     +  1: damaging move (predicted damage 13 = 6% of target's HP)
+[AI] Move choices for Mandibuzz (1):
+   * 100.0% to use Foul Play (target 0): score 147
+   *   0.0% to use Roost: score 20
+   *   0.0% to use Defog (target 0): score 116
+   *   0.0% to use U-turn (target 0): score 134
+   => will use Foul Play (target 0)
+
+[Round order] Charizard (0), the opposing Mandibuzz (1)
+
+"Charizard, come back!"
+"You're in charge, Great Tusk!"
+[Ability triggered] Great Tusk's Protosynthesis
+"The harsh sunlight activated Great Tusk's Protosynthesis!"
+"Great Tusk's Defense was heightened!"
+[Use move] The opposing Mandibuzz (1) used Foul Play
+"The opposing Mandibuzz used Foul Play!"
+[HP change] Great Tusk lost 34 HP (433 -> 399)
+"It's not very effective..."
+[HP change] The opposing Mandibuzz lost 70 HP (423 -> 353)
+"The opposing Mandibuzz was hurt by the Rocky Helmet!"
+
+[End of round 3]
+"The sunlight is strong."
+
+===== Round 4 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Great Tusk (0)...
+     +  2: damaging move (predicted damage 38 = 9% of target's HP)
+     -  8: can trigger the target's item
+[AI] Mandibuzz (1) is considering using Roost...
+     - 10: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Great Tusk (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 17: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Great Tusk (0)...
+     -  8: can trigger the target's item
+[AI] Move choices for Mandibuzz (1):
+   *  56.2% to use Foul Play (target 0): score 132
+   *   0.0% to use Roost: score 90
+   *   0.0% to use Defog (target 0): score 117
+   *  43.8% to use U-turn (target 0): score 130
+   => will use Foul Play (target 0)
+
+[Round order] Great Tusk (0), the opposing Mandibuzz (1)
+
+[Use move] Great Tusk (0) used Stealth Rock
+"Great Tusk used Stealth Rock!"
+"Pointed stones float in the air around the opposing team!"
+[Use move] The opposing Mandibuzz (1) used Foul Play
+"The opposing Mandibuzz used Foul Play!"
+[HP change] Great Tusk lost 33 HP (399 -> 366)
+"It's not very effective..."
+[HP change] The opposing Mandibuzz lost 70 HP (353 -> 283)
+"The opposing Mandibuzz was hurt by the Rocky Helmet!"
+
+[End of round 4]
+"The sunlight is strong."
+
+===== Round 5 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Great Tusk (0)...
+     +  2: damaging move (predicted damage 38 = 10% of target's HP)
+     -  8: can trigger the target's item
+[AI] Mandibuzz (1) is considering using Roost...
+     - 10: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Great Tusk (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 24: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Great Tusk (0)...
+     -  8: can trigger the target's item
+     - 10: function code modifier (generic)
+[AI] Move choices for Mandibuzz (1):
+   *  56.2% to use Foul Play (target 0): score 126
+   *   0.0% to use Roost: score 90
+   *  43.8% to use Defog (target 0): score 124
+   *   0.0% to use U-turn (target 0): score 114
+   => will use Foul Play (target 0)
+
+[Round order] Great Tusk (0), the opposing Mandibuzz (1)
+
+"Great Tusk, come back!"
+"Go for it, Raging Bolt!"
+[Ability triggered] Raging Bolt's Protosynthesis
+"The harsh sunlight activated Raging Bolt's Protosynthesis!"
+"Raging Bolt's Special Attack was heightened!"
+"Raging Bolt floats in the air with its Air Balloon!"
+[Use move] The opposing Mandibuzz (1) used Foul Play
+"The opposing Mandibuzz used Foul Play!"
+[HP change] Raging Bolt lost 82 HP (419 -> 337)
+"Raging Bolt's Air Balloon popped!"
+[Item consumed] Raging Bolt consumed its held Air Balloon
+
+[End of round 5]
+"The sunlight faded."
+"The effects of Raging Bolt's Protosynthesis wore off!"
+
+===== Round 6 =====
+
+   => will switch with Ting-Lu
+
+[Round order] Raging Bolt (0), the opposing Mandibuzz (1)
+
+"Test Sprite AAAAA withdrew Mandibuzz!"
+"Test Sprite AAAAA sent out Ting-Lu!"
+[HP change] The opposing Ting-Lu lost 32 HP (513 -> 481)
+"Pointed stones dug into The opposing Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+[Use move] Raging Bolt (0) used Thunderbolt
+"Raging Bolt used Thunderbolt!"
+[Target immune] The opposing Ting-Lu's type immunity
+"It doesn't affect the opposing Ting-Lu..."
+
+[End of round 6]
+[HP change] The opposing Ting-Lu gained 32 HP (481 -> 513)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 7 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 22: damaging move (predicted damage 300 = 89% of target's HP)
+[AI] Ting-Lu (1) is considering using Ruination against Raging Bolt (0)...
+     + 12: damaging move (predicted damage 169 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Raging Bolt (0)...
+[AI] Move choices for Ting-Lu (1):
+   *  91.7% to use Earthquake: score 155
+   *   8.3% to use Ruination (target 0): score 145
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Raging Bolt (0), the opposing Ting-Lu (1)
+
+"Raging Bolt, come back!"
+"You're in charge, Hatterene!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Hatterene lost 192 HP (318 -> 126)
+"A critical hit!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 28: damaging move (predicted damage 146 = 115% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 63 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+     - 70: useless because a foe will Magic Bounce it
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     - 40: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 155
+   *   0.0% to use Ruination (target 0): score 129
+   *   0.0% to use Stealth Rock: score 60
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Earthquake
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Hatterene lost 126 HP (126 -> 0)
+"Hatterene fainted!"
+
+[End of round 8]
+"You're in charge, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+
+===== Round 9 =====
+
+   => will switch with Mandibuzz
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+"Charizard, switch out! Come back!"
+"You're in charge, Great Tusk!"
+[Ability triggered] Great Tusk's Protosynthesis
+"The harsh sunlight activated Great Tusk's Protosynthesis!"
+"Great Tusk's Defense was heightened!"
+"Test Sprite AAAAA withdrew Ting-Lu!"
+"Test Sprite AAAAA sent out Mandibuzz!"
+[HP change] The opposing Mandibuzz lost 106 HP (283 -> 177)
+"Pointed stones dug into The opposing Mandibuzz!"
+
+[End of round 9]
+"The sunlight is strong."
+
+===== Round 10 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Great Tusk (0)...
+     +  2: damaging move (predicted damage 38 = 10% of target's HP)
+     -  8: can trigger the target's item
+[AI] Mandibuzz (1) is considering using Roost...
+     + 17: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Great Tusk (0)...
+     +  3: lowering the target's evasiveness by 1
+     + 25: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Great Tusk (0)...
+     -  8: can trigger the target's item
+     - 10: function code modifier (generic)
+[AI] Move choices for Mandibuzz (1):
+   *  52.9% to use Foul Play (target 0): score 126
+   *   0.0% to use Roost: score 117
+   *  47.1% to use Defog (target 0): score 125
+   *   0.0% to use U-turn (target 0): score 114
+   => will use Defog (target 0)
+
+[Round order] Great Tusk (0), the opposing Mandibuzz (1)
+
+[Use move] Great Tusk (0) used Ice Spinner
+"Great Tusk used Ice Spinner!"
+[HP change] The opposing Mandibuzz lost 117 HP (177 -> 60)
+"It's super effective!"
+[HP change] Great Tusk lost 72 HP (366 -> 294)
+"Great Tusk was hurt by the Rocky Helmet!"
+[Use move] The opposing Mandibuzz (1) used Defog
+"The opposing Mandibuzz used Defog!"
+[Stat change] Great Tusk's evasiveness changed by -1 (0 -> -1)
+"Great Tusk's evasiveness fell!"
+"The opposing Mandibuzz blew away stealth rocks!"
+
+[End of round 10]
+"The sunlight is strong."
+
+===== Round 11 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Great Tusk (0)...
+     +  3: damaging move (predicted damage 38 = 12% of target's HP)
+     -  8: can trigger the target's item
+[AI] Mandibuzz (1) is considering using Roost...
+     + 25: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Great Tusk (0)...
+     +  2: lowering the target's evasiveness by 1
+     +  4: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Great Tusk (0)...
+     -  8: can trigger the target's item
+[AI] Move choices for Mandibuzz (1):
+   *  40.9% to use Foul Play (target 0): score 127
+   *  31.8% to use Roost: score 125
+   *   0.0% to use Defog (target 0): score 104
+   *  27.3% to use U-turn (target 0): score 124
+   => will use Foul Play (target 0)
+
+[Round order] Great Tusk (0), the opposing Mandibuzz (1)
+
+[Use move] Great Tusk (0) used Ice Spinner
+"Great Tusk used Ice Spinner!"
+[HP change] The opposing Mandibuzz lost 60 HP (60 -> 0)
+"It's super effective!"
+[HP change] Great Tusk lost 72 HP (294 -> 222)
+"Great Tusk was hurt by the Rocky Helmet!"
+"The opposing Mandibuzz fainted!"
+
+[End of round 11]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Weavile!"
+[Ability triggered] The opposing Weavile's Pressure
+"The opposing Weavile is exerting its pressure!"
+
+===== Round 12 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Great Tusk (0)...
+     + 15: function code modifier (against target)
+     + 17: damaging move (predicted damage 156 = 70% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Knock Off against Great Tusk (0)...
+     + 28: function code modifier (against target)
+     +  4: damaging move (predicted damage 44 = 19% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Ice Shard against Great Tusk (0)...
+     +  8: damaging move (predicted damage 75 = 33% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 34: function code modifier (generic)
+[AI] Weavile (1) is considering using Subzero Slammer against Great Tusk (0)...
+     + 30: damaging move (predicted damage 288 = 129% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Subzero Slammer against Great Tusk (0)...
+     + 20: damaging move (predicted damage 180 = 81% of target's HP)
+     -  8: can trigger the target's item
+[AI] Move choices for Weavile (1):
+   *  20.0% to use Icicle Crash (target 0): score 162
+   *  20.0% to use Knock Off (target 0): score 162
+   *   0.0% to use Ice Shard (target 0): score 138
+   *   0.0% to use Swords Dance: score 134
+   *  60.0% to use Subzero Slammer (target 0): score 170
+   *   0.0% to use Subzero Slammer (target 0): score 150
+   => will use Subzero Slammer (target 0)
+
+[Round order] The opposing Weavile (1), Great Tusk (0)
+
+"Great Tusk, come back!"
+"You're in charge, Ceruledge!"
+[Use move] The opposing Weavile (1) used Subzero Slammer
+"The opposing Weavile surrounded itself with its Z-Power!"
+"The opposing Weavile unleashed its full force Z-Move!"
+"The opposing Weavile used Subzero Slammer!"
+[HP change] Ceruledge lost 161 HP (291 -> 130)
+"It's not very effective..."
+[Ability triggered] Ceruledge's Weak Armor
+[Stat change] Ceruledge's Defense changed by -1 (0 -> -1)
+"Ceruledge's Defense fell!"
+[Stat change] Ceruledge's Speed changed by +2 (0 -> 2)
+"Ceruledge's Speed rose sharply!"
+
+[End of round 12]
+"The sunlight is strong."
+
+===== Round 13 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Ceruledge (0)...
+     + 26: damaging move (predicted damage 140 = 107% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Knock Off against Ceruledge (0)...
+     + 30: damaging move (predicted damage 429 = 330% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Ice Shard against Ceruledge (0)...
+     + 12: damaging move (predicted damage 66 = 50% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 34: function code modifier (generic)
+[AI] Move choices for Weavile (1):
+   *   0.0% to use Icicle Crash (target 0): score 149
+   * 100.0% to use Knock Off (target 0): score 163
+   *   0.0% to use Ice Shard (target 0): score 135
+   *   0.0% to use Swords Dance: score 134
+   => will use Knock Off (target 0)
+
+[Round order] Ceruledge (0), the opposing Weavile (1)
+
+[Use move] Ceruledge (0) used Bitter Blade
+[Ability triggered] The opposing Weavile's Pressure
+"Ceruledge used Bitter Blade!"
+[HP change] The opposing Weavile lost 281 HP (281 -> 0)
+"It's super effective!"
+"The opposing Weavile fainted!"
+"The opposing Weavile had its energy drained!"
+[HP change] Ceruledge gained 141 HP (130 -> 271)
+
+[End of round 13]
+"The sunlight faded."
+"Test Sprite AAAAA sent out Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+
+===== Round 14 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 498 = 183% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Ting-Lu (1) is considering using Ruination against Ceruledge (0)...
+     + 12: damaging move (predicted damage 136 = 50% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Ceruledge (0)...
+     + 15: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 170
+   *   0.0% to use Ruination (target 0): score 142
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 115
+   => will use Earthquake
+
+[Round order] Ceruledge (0), the opposing Ting-Lu (1)
+
+"Ceruledge, come back!"
+"You're in charge, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[Target immune] Charizard's type immunity
+"It doesn't affect Charizard..."
+
+[End of round 14]
+"The sunlight is strong."
+
+===== Round 15 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 104 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 52
+   * 100.0% to use Ruination (target 0): score 144
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Ting-Lu lost 195 HP (513 -> 318)
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Charizard lost 104 HP (208 -> 104)
+
+[End of round 15]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (318 -> 350)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 16 =====
+
+   => will switch with Hydreigon
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+"Test Sprite AAAAA withdrew Ting-Lu!"
+"Test Sprite AAAAA sent out Hydreigon!"
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Hydreigon lost 172 HP (294 -> 122)
+"It's not very effective..."
+
+[End of round 16]
+"The sunlight is strong."
+[HP change] The opposing Hydreigon gained 18 HP (122 -> 140)
+"The opposing Hydreigon restored a little HP using its Leftovers!"
+
+===== Round 17 =====
+
+[AI] Hydreigon (1) is considering using Dark Pulse against Charizard (0)...
+     + 30: damaging move (predicted damage 134 = 128% of target's HP)
+     + 10: predicted to KO the target
+[AI] Hydreigon (1) is considering using Flamethrower against Charizard (0)...
+     + 18: damaging move (predicted damage 75 = 72% of target's HP)
+[AI] Hydreigon (1) is considering using Substitute...
+     + 10: function code modifier (generic)
+[AI] Hydreigon (1) is considering using Nasty Plot...
+     + 12: raising the user's Special Attack by 2
+     + 21: function code modifier (generic)
+[AI] Move choices for Hydreigon (1):
+   *  25.0% to use Dark Pulse (target 0): score 158
+   *  75.0% to use Flamethrower (target 0): score 166
+   *   0.0% to use Substitute: score 110
+   *   0.0% to use Nasty Plot: score 121
+   => will use Flamethrower (target 0)
+
+[Round order] Charizard (0), the opposing Hydreigon (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Hydreigon lost 140 HP (140 -> 0)
+"It's not very effective..."
+"The opposing Hydreigon fainted!"
+
+[End of round 17]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Meowscarada!"
+
+===== Round 18 =====
+
+[AI] Meowscarada (1) is considering using Flower Trick against Charizard (0)...
+     + 11: damaging move (predicted damage 48 = 46% of target's HP)
+[AI] Meowscarada (1) is considering using Triple Axel against Charizard (0)...
+     + 30: damaging move (predicted damage 147 = 141% of target's HP)
+     + 10: predicted to KO the target
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using Play Rough against Charizard (0)...
+     lowering the target's Attack isn't worthwhile
+     + 13: damaging move (predicted damage 56 = 53% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using U-turn against Charizard (0)...
+     +  5: damaging move (predicted damage 22 = 21% of target's HP)
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 135
+   * 100.0% to use Triple Axel (target 0): score 160
+   *   0.0% to use Play Rough (target 0): score 133
+   *   0.0% to use U-turn (target 0): score 129
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Charizard (0)
+
+"OK, Charizard! Come back!"
+"You're in charge, Heatran!"
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Ice!"
+[HP change] Heatran lost 7 HP (323 -> 316)
+[HP change] Heatran lost 14 HP (316 -> 302)
+[HP change] Heatran lost 20 HP (302 -> 282)
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 18]
+"The sunlight faded."
+
+===== Round 19 =====
+
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel against Heatran (0)...
+     +  3: damaging move (predicted damage 43 = 15% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use Play Rough
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Triple Axel (target 0): score 139
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Heatran (0)
+
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[HP change] Heatran lost 7 HP (282 -> 275)
+[HP change] Heatran lost 13 HP (275 -> 262)
+[HP change] Heatran lost 20 HP (262 -> 242)
+"It's not very effective..."
+"Hit 3 times!"
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Meowscarada lost 314 HP (314 -> 0)
+"It's super effective!"
+"The opposing Meowscarada fainted!"
+
+[End of round 19]
+"Test Sprite AAAAA sent out Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+
+===== Round 20 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 528 = 218% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Heatran (0)...
+     + 12: damaging move (predicted damage 121 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Heatran (0)...
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 172
+   *   0.0% to use Ruination (target 0): score 144
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Heatran (0), the opposing Ting-Lu (1)
+
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Ting-Lu lost 119 HP (350 -> 231)
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Heatran lost 242 HP (242 -> 0)
+"It's super effective!"
+"Heatran fainted!"
+
+[End of round 20]
+[HP change] The opposing Ting-Lu gained 32 HP (231 -> 263)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+"Go for it, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+
+===== Round 21 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 52 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 41
+   *  58.8% to use Ruination (target 0): score 133
+   *  41.2% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Ting-Lu lost 209 HP (263 -> 54)
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Charizard lost 52 HP (104 -> 52)
+[Midbattle Global] low HP music begins
+
+[End of round 21]
+"The sunlight is strong."
+[HP change] The opposing Ting-Lu gained 32 HP (54 -> 86)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 22 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 26 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+     - 10: function code modifier (against target)
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 18
+   *   0.0% to use Ruination (target 0): score 110
+   * 100.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 75
+   => will use Stealth Rock
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Ting-Lu lost 86 HP (86 -> 0)
+"The opposing Ting-Lu fainted!"
+
+===== Player won =====
+
+"You defeated Test Sprite AAAAA!"
+"AAA"
+
+"You got $10,000 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite AAAAA!"
+"Test Sprite AAAAA sent out Sableye!"
+"Go! Charizard!"
+[Round order] Charizard (0), the opposing Sableye (1)
+
+===== Round 1 =====
+
+[AI] Sableye (1) will Mega Evolve
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     +  6: damaging move (predicted damage 81 = 27% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 144
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+"Charizard's Charizardite Y is reacting to Tester's Mega Ring!"
+"Charizard has Mega Evolved into Mega Charizard Y!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+"The opposing Sableye's Sablenite is reacting to Test Sprite AAAAA's Mega Ring!"
+"The opposing Sableye has Mega Evolved into Mega Sableye!"
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 248 HP (303 -> 55)
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 88 HP (297 -> 209)
+
+[End of round 1]
+"The sunlight is strong."
+
+===== Round 2 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 10: damaging move (predicted damage 90 = 43% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 24: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 142
+   *   0.0% to use Will-O-Wisp (target 0): score 50
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 124
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 55 HP (55 -> 0)
+"The opposing Sableye fainted!"
+
+[End of round 2]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Mandibuzz!"
+
+===== Round 3 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite AAAAA!"
+"Test Sprite AAAAA sent out Meowscarada!"
+"Go! Charizard!"
+[Round order] The opposing Meowscarada (1), Charizard (0)
+
+===== Round 1 =====
+
+[AI] Meowscarada (1) is considering using Flower Trick against Charizard (0)...
+     +  4: damaging move (predicted damage 48 = 16% of target's HP)
+[AI] Meowscarada (1) is considering using Triple Axel against Charizard (0)...
+     + 12: damaging move (predicted damage 147 = 49% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using Play Rough against Charizard (0)...
+     lowering the target's Attack isn't worthwhile
+     +  4: damaging move (predicted damage 56 = 18% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using U-turn against Charizard (0)...
+     +  1: damaging move (predicted damage 22 = 7% of target's HP)
+[AI] Move choices for Meowscarada (1):
+   *  28.0% to use Flower Trick (target 0): score 152
+   *  44.0% to use Triple Axel (target 0): score 156
+   *  12.0% to use Play Rough (target 0): score 148
+   *  16.0% to use U-turn (target 0): score 149
+   => will use U-turn (target 0)
+
+[Round order] The opposing Meowscarada (1), Charizard (0)
+
+"Charizard's Charizardite Y is reacting to Tester's Mega Ring!"
+"Charizard has Mega Evolved into Mega Charizard Y!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Meowscarada (1) used U-turn
+"The opposing Meowscarada used U-turn!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Bug!"
+[HP change] Charizard lost 31 HP (297 -> 266)
+"It's not very effective..."
+"The opposing Meowscarada went back to Test Sprite AAAAA!"
+"Test Sprite AAAAA sent out Mandibuzz!"
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Mandibuzz lost 347 HP (423 -> 76)
+
+[End of round 1]
+"The sunlight is strong."
+
+===== Round 2 =====
+
+[AI] Mandibuzz (1) is considering using Foul Play against Charizard (0)...
+     + 11: damaging move (predicted damage 122 = 45% of target's HP)
+[AI] Mandibuzz (1) is considering using Roost...
+     + 24: function code modifier (generic)
+[AI] Mandibuzz (1) is considering using Defog against Charizard (0)...
+     +  3: lowering the target's evasiveness by 1
+     +  7: function code modifier (against target)
+[AI] Mandibuzz (1) is considering using U-turn against Charizard (0)...
+     +  1: damaging move (predicted damage 13 = 4% of target's HP)
+[AI] Move choices for Mandibuzz (1):
+   * 100.0% to use Foul Play (target 0): score 144
+   *   0.0% to use Roost: score 124
+   *   0.0% to use Defog (target 0): score 107
+   *   0.0% to use U-turn (target 0): score 134
+   => will use Foul Play (target 0)
+
+[Round order] Charizard (0), the opposing Mandibuzz (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Mandibuzz lost 76 HP (76 -> 0)
+"The opposing Mandibuzz fainted!"
+
+[End of round 2]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Hydreigon!"
+
+===== Round 3 =====
+
+[AI] Hydreigon (1) is considering using Dark Pulse against Charizard (0)...
+     + 12: damaging move (predicted damage 134 = 50% of target's HP)
+[AI] Hydreigon (1) is considering using Flamethrower against Charizard (0)...
+     +  7: damaging move (predicted damage 75 = 28% of target's HP)
+[AI] Hydreigon (1) is considering using Substitute...
+     + 15: function code modifier (generic)
+[AI] Hydreigon (1) is considering using Nasty Plot...
+     + 12: raising the user's Special Attack by 2
+     + 34: function code modifier (generic)
+[AI] Move choices for Hydreigon (1):
+   *   0.0% to use Dark Pulse (target 0): score 141
+   * 100.0% to use Flamethrower (target 0): score 166
+   *   0.0% to use Substitute: score 115
+   *   0.0% to use Nasty Plot: score 134
+   => will use Flamethrower (target 0)
+
+[Round order] Charizard (0), the opposing Hydreigon (1)
+
+"Charizard, come back!"
+"You're in charge, Hatterene!"
+[Use move] The opposing Hydreigon (1) used Flamethrower
+"The opposing Hydreigon used Flamethrower!"
+[HP change] Hatterene lost 95 HP (318 -> 223)
+
+[End of round 3]
+"The sunlight is strong."
+
+===== Round 4 =====
+
+[AI] Hydreigon (1) is considering using Dark Pulse against Hatterene (0)...
+     + 15: function code modifier (against target)
+     + 10: damaging move (predicted damage 90 = 40% of target's HP)
+[AI] Hydreigon (1) is considering using Flamethrower against Hatterene (0)...
+     + 23: function code modifier (against target)
+     + 11: damaging move (predicted damage 101 = 45% of target's HP)
+[AI] Hydreigon (1) is considering using Substitute...
+     + 15: function code modifier (generic)
+[AI] Hydreigon (1) is considering using Nasty Plot...
+     + 12: raising the user's Special Attack by 2
+     + 34: function code modifier (generic)
+[AI] Move choices for Hydreigon (1):
+   *   0.0% to use Dark Pulse (target 0): score 161
+   * 100.0% to use Flamethrower (target 0): score 200
+   *   0.0% to use Substitute: score 115
+   *   0.0% to use Nasty Plot: score 134
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Hydreigon (1), Hatterene (0)
+
+[Use move] The opposing Hydreigon (1) used Flamethrower
+"The opposing Hydreigon used Flamethrower!"
+[HP change] Hatterene lost 91 HP (223 -> 132)
+[Use move] Hatterene (0) used Draining Kiss
+"Hatterene used Draining Kiss!"
+[HP change] The opposing Hydreigon lost 294 HP (294 -> 0)
+"It's super effective!"
+"The opposing Hydreigon fainted!"
+"The opposing Hydreigon had its energy drained!"
+[HP change] Hatterene gained 186 HP (132 -> 318)
+
+[End of round 4]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+
+===== Round 5 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 11: damaging move (predicted damage 146 = 45% of target's HP)
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 159 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+     - 70: useless because a foe will Magic Bounce it
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     - 40: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   *  47.4% to use Earthquake: score 145
+   *  52.6% to use Ruination (target 0): score 146
+   *   0.0% to use Stealth Rock: score 60
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Ruination (target 0)
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+"Hatterene, come back!"
+"You're in charge, Charizard!"
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Charizard lost 133 HP (266 -> 133)
+
+[End of round 5]
+"The sunlight faded."
+
+===== Round 6 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Charizard (0)...
+     + 12: damaging move (predicted damage 67 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Charizard (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 47
+   *  90.9% to use Ruination (target 0): score 139
+   *   9.1% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Charizard (0), the opposing Ting-Lu (1)
+
+"OK, Charizard! Come back!"
+"You're in charge, Hatterene!"
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Hatterene lost 159 HP (318 -> 159)
+
+[End of round 6]
+
+===== Round 7 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 22: damaging move (predicted damage 146 = 91% of target's HP)
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 80 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+     - 70: useless because a foe will Magic Bounce it
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     - 40: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 145
+   *   0.0% to use Ruination (target 0): score 135
+   *   0.0% to use Stealth Rock: score 60
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Earthquake
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Hatterene lost 138 HP (159 -> 21)
+[Midbattle Global] low HP music begins
+[Use move] Hatterene (0) used Draining Kiss
+"Hatterene used Draining Kiss!"
+[HP change] The opposing Ting-Lu lost 114 HP (513 -> 399)
+"It's super effective!"
+"The opposing Ting-Lu had its energy drained!"
+[HP change] Hatterene gained 86 HP (21 -> 107)
+[Midbattle Global] low HP music ended
+
+[End of round 7]
+[HP change] The opposing Ting-Lu gained 32 HP (399 -> 431)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 8 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 146 = 136% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Hatterene (0)...
+     + 12: damaging move (predicted damage 54 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+     - 70: useless because a foe will Magic Bounce it
+[AI] Ting-Lu (1) is considering using Whirlwind against Hatterene (0)...
+     - 40: useless because target will Magic Bounce it
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 157
+   *   0.0% to use Ruination (target 0): score 129
+   *   0.0% to use Stealth Rock: score 60
+   *   0.0% to use Whirlwind (target 0): score 60
+   => will use Earthquake
+
+[Round order] The opposing Ting-Lu (1), Hatterene (0)
+
+"OK, Hatterene! Come back!"
+"Go for it, Raging Bolt!"
+"Raging Bolt floats in the air with its Air Balloon!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+"Raging Bolt's Air Balloon makes Ground moves miss!"
+
+[End of round 8]
+[HP change] The opposing Ting-Lu gained 32 HP (431 -> 463)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 9 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     move will not affect Raging Bolt (0)
+     - 80: move will fail
+[AI] Ting-Lu (1) is considering using Ruination against Raging Bolt (0)...
+     + 12: damaging move (predicted damage 210 = 50% of target's HP)
+     -  8: can trigger the target's item
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Raging Bolt (0)...
+[AI] Move choices for Ting-Lu (1):
+   *   0.0% to use Earthquake: score 59
+   * 100.0% to use Ruination (target 0): score 143
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Ruination (target 0)
+
+[Round order] Raging Bolt (0), the opposing Ting-Lu (1)
+
+[Use move] Raging Bolt (0) used Calm Mind
+"Raging Bolt used Calm Mind!"
+[Stat change] Raging Bolt's Special Attack changed by +1 (0 -> 1)
+"Raging Bolt's Special Attack rose!"
+[Stat change] Raging Bolt's Special Defense changed by +1 (0 -> 1)
+"Raging Bolt's Special Defense rose!"
+[Use move] The opposing Ting-Lu (1) used Ruination
+"The opposing Ting-Lu used Ruination!"
+[HP change] Raging Bolt lost 210 HP (419 -> 209)
+"Raging Bolt's Air Balloon popped!"
+[Item consumed] Raging Bolt consumed its held Air Balloon
+
+[End of round 9]
+[HP change] The opposing Ting-Lu gained 32 HP (463 -> 495)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 10 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 300 = 143% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Raging Bolt (0)...
+     + 12: damaging move (predicted damage 105 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Raging Bolt (0)...
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 169
+   *   0.0% to use Ruination (target 0): score 141
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Raging Bolt (0), the opposing Ting-Lu (1)
+
+[Use move] Raging Bolt (0) used Draco Meteor
+"Raging Bolt used Draco Meteor!"
+[HP change] The opposing Ting-Lu lost 255 HP (495 -> 240)
+[Stat change] Raging Bolt's Special Attack changed by -2 (1 -> -1)
+"Raging Bolt's Special Attack harshly fell!"
+[Use move] The opposing Ting-Lu (1) used Earthquake
+"The opposing Ting-Lu used Earthquake!"
+[HP change] Raging Bolt lost 209 HP (209 -> 0)
+"It's super effective!"
+"Raging Bolt fainted!"
+
+[End of round 10]
+[HP change] The opposing Ting-Lu gained 32 HP (240 -> 272)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+"Go for it, Great Tusk!"
+
+===== Round 11 =====
+
+   => will switch with Weavile
+
+[Round order] Great Tusk (0), the opposing Ting-Lu (1)
+
+"Test Sprite AAAAA withdrew Ting-Lu!"
+"Test Sprite AAAAA sent out Weavile!"
+[Ability triggered] The opposing Weavile's Pressure
+"The opposing Weavile is exerting its pressure!"
+[Use move] Great Tusk (0) used Ice Spinner
+[Ability triggered] The opposing Weavile's Pressure
+"Great Tusk used Ice Spinner!"
+[HP change] The opposing Weavile lost 61 HP (281 -> 220)
+"It's not very effective..."
+
+[End of round 11]
+
+===== Round 12 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Great Tusk (0)...
+     + 15: function code modifier (against target)
+     + 11: damaging move (predicted damage 201 = 46% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Knock Off against Great Tusk (0)...
+     + 28: function code modifier (against target)
+     +  3: damaging move (predicted damage 58 = 13% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Ice Shard against Great Tusk (0)...
+     +  5: damaging move (predicted damage 96 = 22% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 29: function code modifier (generic)
+[AI] Weavile (1) is considering using Subzero Slammer against Great Tusk (0)...
+     + 21: damaging move (predicted damage 372 = 85% of target's HP)
+     -  8: can trigger the target's item
+[AI] Weavile (1) is considering using Subzero Slammer against Great Tusk (0)...
+     + 13: damaging move (predicted damage 234 = 54% of target's HP)
+     -  8: can trigger the target's item
+[AI] Move choices for Weavile (1):
+   *  33.3% to use Icicle Crash (target 0): score 168
+   *  57.1% to use Knock Off (target 0): score 173
+   *   0.0% to use Ice Shard (target 0): score 147
+   *   0.0% to use Swords Dance: score 129
+   *   9.5% to use Subzero Slammer (target 0): score 163
+   *   0.0% to use Subzero Slammer (target 0): score 155
+   => will use Knock Off (target 0)
+
+[Round order] The opposing Weavile (1), Great Tusk (0)
+
+"Great Tusk, come back!"
+"Go for it, Ceruledge!"
+[Use move] The opposing Weavile (1) used Knock Off
+"The opposing Weavile used Knock Off!"
+[HP change] Ceruledge lost 282 HP (291 -> 9)
+[Midbattle Global] low HP music begins
+"It's super effective!"
+[Ability triggered] Ceruledge's Weak Armor
+[Stat change] Ceruledge's Defense changed by -1 (0 -> -1)
+"Ceruledge's Defense fell!"
+[Stat change] Ceruledge's Speed changed by +2 (0 -> 2)
+"Ceruledge's Speed rose sharply!"
+
+[End of round 12]
+
+===== Round 13 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Ceruledge (0)...
+     + 30: damaging move (predicted damage 140 = 1555% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Knock Off against Ceruledge (0)...
+     + 30: damaging move (predicted damage 429 = 4766% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Ice Shard against Ceruledge (0)...
+     +  8: target at low HP and move has priority over faster target
+     + 30: damaging move (predicted damage 66 = 733% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 29: function code modifier (generic)
+[AI] Weavile (1) is considering using Subzero Slammer against Ceruledge (0)...
+     + 30: damaging move (predicted damage 262 = 2911% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Weavile (1) is considering using Subzero Slammer against Ceruledge (0)...
+     + 30: damaging move (predicted damage 164 = 1822% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Move choices for Weavile (1):
+   *  11.1% to use Icicle Crash (target 0): score 131
+   *  11.1% to use Knock Off (target 0): score 131
+   *  55.6% to use Ice Shard (target 0): score 139
+   *   0.0% to use Swords Dance: score 129
+   *  11.1% to use Subzero Slammer (target 0): score 131
+   *  11.1% to use Subzero Slammer (target 0): score 131
+   => will use Ice Shard (target 0)
+
+[Round order] The opposing Weavile (1), Ceruledge (0)
+
+[Use move] The opposing Weavile (1) used Ice Shard
+"The opposing Weavile used Ice Shard!"
+[HP change] Ceruledge lost 9 HP (9 -> 0)
+[Midbattle Global] low HP music ended
+"It's not very effective..."
+"Ceruledge fainted!"
+
+[End of round 13]
+"Go for it, Heatran!"
+
+===== Round 14 =====
+
+   => will switch with Ting-Lu
+
+[Round order] Heatran (0), the opposing Weavile (1)
+
+"Test Sprite AAAAA withdrew Weavile!"
+"Test Sprite AAAAA sent out Ting-Lu!"
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+"The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!"
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Ting-Lu lost 172 HP (272 -> 100)
+
+[End of round 14]
+[HP change] The opposing Ting-Lu gained 32 HP (100 -> 132)
+"The opposing Ting-Lu restored a little HP using its Leftovers!"
+
+===== Round 15 =====
+
+[AI] Ting-Lu (1) is considering using Earthquake...
+     + 30: damaging move (predicted damage 528 = 163% of target's HP)
+     + 10: predicted to KO the target
+[AI] Ting-Lu (1) is considering using Ruination against Heatran (0)...
+     + 12: damaging move (predicted damage 162 = 50% of target's HP)
+[AI] Ting-Lu (1) is considering using Stealth Rock...
+     + 30: function code modifier (generic)
+[AI] Ting-Lu (1) is considering using Whirlwind against Heatran (0)...
+[AI] Move choices for Ting-Lu (1):
+   * 100.0% to use Earthquake: score 178
+   *   0.0% to use Ruination (target 0): score 150
+   *   0.0% to use Stealth Rock: score 130
+   *   0.0% to use Whirlwind (target 0): score 100
+   => will use Earthquake
+
+[Round order] Heatran (0), the opposing Ting-Lu (1)
+
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Ting-Lu lost 132 HP (132 -> 0)
+"The opposing Ting-Lu fainted!"
+
+[End of round 15]
+"Test Sprite AAAAA sent out Sableye!"
+
+===== Round 16 =====
+
+[AI] Sableye (1) will Mega Evolve
+[AI] Sableye (1) is considering using Knock Off against Heatran (0)...
+     + 36: function code modifier (against target)
+     +  7: damaging move (predicted damage 95 = 29% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Heatran (0)...
+     move will not affect Heatran (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 184
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Heatran (0), the opposing Sableye (1)
+
+"Heatran, come back!"
+"You're in charge, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+"The opposing Sableye's Sablenite is reacting to Test Sprite AAAAA's Mega Ring!"
+"The opposing Sableye has Mega Evolved into Mega Sableye!"
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 87 HP (133 -> 46)
+[Midbattle Global] low HP music begins
+
+[End of round 16]
+"The sunlight is strong."
+
+===== Round 17 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 30: damaging move (predicted damage 90 = 195% of target's HP)
+     + 10: predicted to KO the target
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 138
+   *   0.0% to use Will-O-Wisp (target 0): score 35
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (46 -> 195)
+[Midbattle Global] low HP music ended
+"Charizard's HP was restored."
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 77 HP (195 -> 118)
+
+[End of round 17]
+"The sunlight is strong."
+
+===== Round 18 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 19: damaging move (predicted damage 90 = 76% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 140
+   *   0.0% to use Will-O-Wisp (target 0): score 50
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (118 -> 267)
+"Charizard's HP was restored."
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 86 HP (267 -> 181)
+
+[End of round 18]
+"The sunlight is strong."
+
+===== Round 19 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 12: damaging move (predicted damage 90 = 49% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     - 80: move will fail
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 144
+   *   0.0% to use Will-O-Wisp (target 0): score 50
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 20
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[HP change] The opposing Sableye lost 210 HP (303 -> 93)
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 77 HP (181 -> 104)
+
+[End of round 19]
+"The sunlight is strong."
+
+===== Round 20 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 21: damaging move (predicted damage 90 = 86% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 20: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 142
+   *   0.0% to use Will-O-Wisp (target 0): score 50
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 120
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (104 -> 253)
+"Charizard's HP was restored."
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 77 HP (253 -> 176)
+
+[End of round 20]
+"The sunlight faded."
+
+===== Round 21 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 12: damaging move (predicted damage 90 = 51% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 20: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 139
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 120
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Weather Ball
+"Charizard used Weather Ball!"
+[Target immune] The opposing Sableye's type immunity
+"It doesn't affect the opposing Sableye..."
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 81 HP (176 -> 95)
+
+[End of round 21]
+
+===== Round 22 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 23: damaging move (predicted damage 90 = 94% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 20: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 144
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 120
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Roost
+"Charizard used Roost!"
+[HP change] Charizard gained 149 HP (95 -> 244)
+"Charizard's HP was restored."
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 83 HP (244 -> 161)
+
+[End of round 22]
+
+===== Round 23 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 13: damaging move (predicted damage 90 = 55% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 20: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 140
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 120
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Scorching Sands
+"Charizard used Scorching Sands!"
+[HP change] The opposing Sableye lost 68 HP (93 -> 25)
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Charizard lost 78 HP (161 -> 83)
+
+[End of round 23]
+
+===== Round 24 =====
+
+[AI] Sableye (1) is considering using Knock Off against Charizard (0)...
+     + 27: damaging move (predicted damage 90 = 108% of target's HP)
+[AI] Sableye (1) is considering using Will-O-Wisp against Charizard (0)...
+     move will not affect Charizard (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Protect...
+     +  7: function code modifier (generic)
+[AI] Sableye (1) is considering using Recover...
+     + 27: function code modifier (generic)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 148
+   *   0.0% to use Will-O-Wisp (target 0): score 20
+   *   0.0% to use Protect: score 107
+   *   0.0% to use Recover: score 127
+   => will use Knock Off (target 0)
+
+[Round order] Charizard (0), the opposing Sableye (1)
+
+[Use move] Charizard (0) used Scorching Sands
+"Charizard used Scorching Sands!"
+[HP change] The opposing Sableye lost 25 HP (25 -> 0)
+"The opposing Sableye fainted!"
+
+[End of round 24]
+"Test Sprite AAAAA sent out Meowscarada!"
+
+===== Round 25 =====
+
+[AI] Meowscarada (1) is considering using Flower Trick against Charizard (0)...
+     + 14: damaging move (predicted damage 48 = 57% of target's HP)
+[AI] Meowscarada (1) is considering using Triple Axel against Charizard (0)...
+     + 30: damaging move (predicted damage 147 = 177% of target's HP)
+     + 10: predicted to KO the target
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using Play Rough against Charizard (0)...
+     lowering the target's Attack isn't worthwhile
+     + 16: damaging move (predicted damage 56 = 67% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) is considering using U-turn against Charizard (0)...
+     +  6: damaging move (predicted damage 22 = 26% of target's HP)
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 138
+   * 100.0% to use Triple Axel (target 0): score 160
+   *   0.0% to use Play Rough (target 0): score 136
+   *   0.0% to use U-turn (target 0): score 130
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Charizard (0)
+
+"OK, Charizard! Come back!"
+"You're in charge, Heatran!"
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Ice!"
+[HP change] Heatran lost 6 HP (323 -> 317)
+[HP change] Heatran lost 14 HP (317 -> 303)
+[HP change] Heatran lost 20 HP (303 -> 283)
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 25]
+
+===== Round 26 =====
+
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel against Heatran (0)...
+     +  3: damaging move (predicted damage 43 = 15% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use Play Rough
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Triple Axel (target 0): score 139
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Heatran (0)
+
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[HP change] Heatran lost 7 HP (283 -> 276)
+[HP change] Heatran lost 13 HP (276 -> 263)
+[HP change] Heatran lost 19 HP (263 -> 244)
+"It's not very effective..."
+"Hit 3 times!"
+[Use move] Heatran (0) used Earth Power
+"Heatran used Earth Power!"
+[HP change] The opposing Meowscarada lost 126 HP (314 -> 188)
+
+[End of round 26]
+
+===== Round 27 =====
+
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel against Heatran (0)...
+     +  4: damaging move (predicted damage 43 = 17% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use Play Rough
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Triple Axel (target 0): score 140
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Heatran (0)
+
+"Heatran, come back!"
+"Go for it, Charizard!"
+[Ability triggered] Charizard's Drought
+"The sunlight turned harsh!"
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[HP change] Charizard lost 57 HP (83 -> 26)
+[Midbattle Global] low HP music begins
+"A critical hit!"
+[HP change] Charizard lost 26 HP (26 -> 0)
+[Midbattle Global] low HP music ended
+"Charizard fainted!"
+"Hit 2 times!"
+
+[End of round 27]
+"The sunlight is strong."
+"Go for it, Heatran!"
+
+===== Round 28 =====
+
+[AI] Meowscarada (1) cannot choose to use Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel against Heatran (0)...
+     +  4: damaging move (predicted damage 43 = 17% of target's HP)
+     -  4: move is less suitable to be Choiced into
+[AI] Meowscarada (1) cannot choose to use Play Rough
+[AI] Meowscarada (1) cannot choose to use U-turn
+[AI] Move choices for Meowscarada (1):
+   * 100.0% to use Triple Axel (target 0): score 140
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Heatran (0)
+
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[HP change] Heatran lost 6 HP (244 -> 238)
+[HP change] Heatran lost 14 HP (238 -> 224)
+[HP change] Heatran lost 20 HP (224 -> 204)
+"It's not very effective..."
+"Hit 3 times!"
+[Use move] Heatran (0) used Eruption
+"Heatran used Eruption!"
+[HP change] The opposing Meowscarada lost 188 HP (188 -> 0)
+"It's super effective!"
+"The opposing Meowscarada fainted!"
+
+[End of round 28]
+"The sunlight is strong."
+"Test Sprite AAAAA sent out Weavile!"
+[Ability triggered] The opposing Weavile's Pressure
+"The opposing Weavile is exerting its pressure!"
+
+===== Round 29 =====
+
+[AI] Weavile (1) is considering using Icicle Crash against Heatran (0)...
+     +  4: damaging move (predicted damage 37 = 18% of target's HP)
+[AI] Weavile (1) is considering using Knock Off against Heatran (0)...
+     + 36: function code modifier (against target)
+     + 20: damaging move (predicted damage 171 = 83% of target's HP)
+[AI] Weavile (1) is considering using Ice Shard against Heatran (0)...
+     +  2: damaging move (predicted damage 18 = 8% of target's HP)
+[AI] Weavile (1) is considering using Swords Dance...
+     + 12: raising the user's Attack by 2
+     + 29: function code modifier (generic)
+[AI] Weavile (1) is considering using Subzero Slammer against Heatran (0)...
+     +  8: damaging move (predicted damage 69 = 33% of target's HP)
+[AI] Weavile (1) is considering using Subzero Slammer against Heatran (0)...
+     +  5: damaging move (predicted damage 44 = 21% of target's HP)
+[AI] Move choices for Weavile (1):
+   *   0.0% to use Icicle Crash (target 0): score 146
+   * 100.0% to use Knock Off (target 0): score 198
+   *   0.0% to use Ice Shard (target 0): score 144
+   *   0.0% to use Swords Dance: score 129
+   *   0.0% to use Subzero Slammer (target 0): score 150
+   *   0.0% to use Subzero Slammer (target 0): score 147
+   => will use Knock Off (target 0)
+
+[Round order] Heatran (0), the opposing Weavile (1)
+
+[Use move] Heatran (0) used Eruption
+[Ability triggered] The opposing Weavile's Pressure
+"Heatran used Eruption!"
+[HP change] The opposing Weavile lost 220 HP (220 -> 0)
+"It's super effective!"
+"The opposing Weavile fainted!"
+
+===== Player won =====
+
+"You defeated Test Sprite AAAAA!"
+"AAA"
+
+"You got $10,000 for winning!"
