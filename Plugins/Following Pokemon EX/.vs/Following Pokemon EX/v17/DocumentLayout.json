@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Compatibility.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script Additions\\Compatibility.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Following Event.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:New Event Type\\Following Event.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Animations.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script Additions\\Animations.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Refresh.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script Additions\\Refresh.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Field Moves.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script Additions\\Field Moves.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\004_Disappearing.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Configuration\\004_Disappearing.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\001_Dialogue_Item.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Configuration\\001_Dialogue_Item.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Misc.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:New Event Type\\Misc.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Event Sprite.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:New Event Type\\Event Sprite.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Internal Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main Module\\Internal Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\User Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main Module\\User Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Event_Sprite Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main Module\\Event_Sprite Commands.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\003_Dialogue_Generic.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Configuration\\003_Dialogue_Generic.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\002_Dialogue_Specific.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Configuration\\002_Dialogue_Specific.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Internal Commands.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Internal Commands.rb",
+              "RelativeDocumentMoniker": "Main Module\\Internal Commands.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Internal Commands.rb",
+              "RelativeToolTip": "Main Module\\Internal Commands.rb",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvysAAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event Sprite.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Event Sprite.rb",
+              "RelativeDocumentMoniker": "New Event Type\\Event Sprite.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Event Sprite.rb",
+              "RelativeToolTip": "New Event Type\\Event Sprite.rb",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvz8AAAA8AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:12.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animations.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Animations.rb",
+              "RelativeDocumentMoniker": "Script Additions\\Animations.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Animations.rb",
+              "RelativeToolTip": "Script Additions\\Animations.rb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compatibility.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Compatibility.rb",
+              "RelativeDocumentMoniker": "Script Additions\\Compatibility.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Compatibility.rb",
+              "RelativeToolTip": "Script Additions\\Compatibility.rb",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF4AAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:31.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field Moves.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Field Moves.rb",
+              "RelativeDocumentMoniker": "Script Additions\\Field Moves.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Field Moves.rb",
+              "RelativeToolTip": "Script Additions\\Field Moves.rb",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAJEAAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Refresh.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Refresh.rb",
+              "RelativeDocumentMoniker": "Script Additions\\Refresh.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Script Additions\\Refresh.rb",
+              "RelativeToolTip": "Script Additions\\Refresh.rb",
+              "ViewState": "AQIAABABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:39.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event_Sprite Commands.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Event_Sprite Commands.rb",
+              "RelativeDocumentMoniker": "Main Module\\Event_Sprite Commands.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\Event_Sprite Commands.rb",
+              "RelativeToolTip": "Main Module\\Event_Sprite Commands.rb",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:04.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "003_Dialogue_Generic.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\003_Dialogue_Generic.rb",
+              "RelativeDocumentMoniker": "Configuration\\003_Dialogue_Generic.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\003_Dialogue_Generic.rb",
+              "RelativeToolTip": "Configuration\\003_Dialogue_Generic.rb",
+              "ViewState": "AQIAAE4BAAAAAAAAAAAAAFoBAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:00:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "004_Disappearing.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\004_Disappearing.rb",
+              "RelativeDocumentMoniker": "Configuration\\004_Disappearing.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\004_Disappearing.rb",
+              "RelativeToolTip": "Configuration\\004_Disappearing.rb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "002_Dialogue_Specific.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\002_Dialogue_Specific.rb",
+              "RelativeDocumentMoniker": "Configuration\\002_Dialogue_Specific.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\002_Dialogue_Specific.rb",
+              "RelativeToolTip": "Configuration\\002_Dialogue_Specific.rb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:00:22.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Misc.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Misc.rb",
+              "RelativeDocumentMoniker": "New Event Type\\Misc.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Misc.rb",
+              "RelativeToolTip": "New Event Type\\Misc.rb",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvz0AAABBAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:24.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Following Event.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Following Event.rb",
+              "RelativeDocumentMoniker": "New Event Type\\Following Event.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\New Event Type\\Following Event.rb",
+              "RelativeToolTip": "New Event Type\\Following Event.rb",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:17.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "001_Dialogue_Item.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\001_Dialogue_Item.rb",
+              "RelativeDocumentMoniker": "Configuration\\001_Dialogue_Item.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Configuration\\001_Dialogue_Item.rb",
+              "RelativeToolTip": "Configuration\\001_Dialogue_Item.rb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-25T23:58:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User Commands.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\User Commands.rb",
+              "RelativeDocumentMoniker": "Main Module\\User Commands.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\Following Pokemon EX\\Main Module\\User Commands.rb",
+              "RelativeToolTip": "Main Module\\User Commands.rb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-26T00:07:07.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
