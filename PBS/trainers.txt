@@ -1,0 +1,2036 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = true
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,CatKid,1]
+LoseText = Meow meow.
+Pokemon = SKITTY,4
+    Moves = FAKEOUT,TACKLE,GROWL,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,CatKid,2]
+LoseText = Meow meow.
+Pokemon = SKITTY,13
+    Moves = FAKEOUT,TACKLE,SING,DISARMINGVOICE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PURRLOIN,15
+    Moves = SCRATCH,GROWL,SANDATTACK,FAKEOUT
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Camby,1]
+LoseText = Aw man, you found a way out...
+Pokemon = BUDEW,5
+    Moves = ABSORB,STUNSPORE,GROWTH,SPIKES
+    AbilityIndex = 1
+    Gender = male
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Camby,2]
+LoseText = Aw man, you found a way out...
+Pokemon = BUDEW,14
+    Moves = ABSORB,STUNSPORE,GROWTH,SPIKES
+    AbilityIndex = 1
+    Gender = male
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = STARLY,13
+    Moves = TACKLE,QUICKATTACK,WINGATTACK,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Joey,1]
+LoseText = You defeated my mighty bird...
+Pokemon = STARLY,6
+    Moves = TACKLE,QUICKATTACK,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Joey,2]
+LoseText = You defeated my mighty birds...
+Pokemon = STARLY,13
+    Moves = WINGATTACK,TACKLE,QUICKATTACK,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = TAILLOW,14
+    Moves = WINGATTACK,QUICKATTACK,GROWL,FOCUSENERGY
+    AbilityIndex = 2
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Paul,1]
+LoseText = Hmph!
+Pokemon = WOOPER,5
+    Moves = WATERGUN,TAILWHIP,RAINDANCE
+    AbilityIndex = 1
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUIZEL,6
+    Moves = TACKLE,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Paul,2]
+LoseText = Hmph!
+Pokemon = WOOPER,14
+    Moves = WATERGUN,MUDSHOT,MIST,RAINDANCE
+    AbilityIndex = 1
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUIZEL,15
+    Moves = WATERGUN,QUICKATTACK,TACKLE,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,Ashton,1]
+LoseText = Whew, what a battle!
+Pokemon = IGGLYBUFF,4
+    Moves = POUND,COPYCAT,SING,DEFENSECURL
+    AbilityIndex = 1
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUDEW,5
+    Moves = ABSORB,GROWTH,STUNSPORE,WORRYSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,Ashton,2]
+LoseText = Whew, what a battle!
+Pokemon = JIGGLYPUFF,15
+    Moves = ROUND,DISARMINGVOICE,SING,DEFENSECURL
+    AbilityIndex = 1
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUDEW,15
+    Moves = ABSORB,GROWTH,STUNSPORE,WORRYSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER,Mimi,1]
+LoseText = Pokémon from the dark grass are pretty cool, huh!
+Pokemon = RALTS,6
+    Moves = CONFUSION,DISARMINGVOICE,GROWL,DOUBLETEAM
+    AbilityIndex = 1
+    Gender = male
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FOONGUS,6
+    Moves = ABSORB,ASTONISH,GROWTH
+    AbilityIndex = 1
+    Gender = male
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER,Mimi,2]
+LoseText = Pokémon from the dark grass are pretty cool, huh!
+Pokemon = RALTS,15
+    Moves = CONFUSION,DRAININGKISS,DOUBLETEAM,HYPNOSIS
+    AbilityIndex = 1
+    Gender = male
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FOONGUS,15
+    Moves = MEGADRAIN,ASTONISH,GROWTH,STUNSPORE
+    AbilityIndex = 1
+    Gender = male
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Kirby,1]
+LoseText = Wasn't that sooo much fun!
+Pokemon = PAWMI,5
+    Moves = THUNDERSHOCK,SCRATCH,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 20,20,20,20,20,20
+#-------------------------------
+[YOUNGSTER,Kirby,2]
+LoseText = Wasn't that sooo much fun!
+Pokemon = PAWMI,14
+    Moves = THUNDERSHOCK,NUZZLE,QUICKATTACK,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 40,40,40,40,40,40
+Pokemon = TINKATINK,13
+    Moves = METALCLAW,FAIRYWIND,COVET,BABYDOLLEYES
+    AbilityIndex = 0
+    Gender = female
+    Nature = LONELY
+    IV = 10,10,10,10,10,10
+    EV = 40,40,40,40,40,40
+#-------------------------------
+[COOLTRAINER_M,Hyper,1]
+LoseText = What?! Did I not have enough damage output?
+Pokemon = PANCHAM,7
+    Moves = ARMTHRUST,TACKLE,LEER
+    AbilityIndex = 1
+    Gender = female
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[COOLTRAINER_M,Hyper,2]
+LoseText = What?! Did I not have enough damage output?
+Pokemon = PANCHAM,16
+    Moves = LOWSWEEP,TACKLE,LEER,TAUNT
+    AbilityIndex = 1
+    Gender = female
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Ore,1]
+LoseText = Hmph! Seems like you're pretty strong!
+Pokemon = TEPIG,7
+    Moves = TACKLE,EMBER,TAILWHIP
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Ore,2]
+LoseText = Hmph! Seems like you're pretty strong!
+Pokemon = TEPIG,15
+    Moves = TACKLE,FLAMECHARGE,TAILWHIP,DEFENSECURL
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ODDISH,15
+    Moves = MEGADRAIN,ACID,GROWTH,POISONPOWDER
+    AbilityIndex = 2
+    Gender = female
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Adam,1]
+LoseText = Looks like we have more training to do!
+Pokemon = MASCHIFF,7
+    Moves = TACKLE,SNARL,SCARYFACE,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Adam,2]
+LoseText = Looks like we have more training to do!
+Pokemon = MASCHIFF,16
+    Moves = BITE,TACKLE,HONECLAWS,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Cheese,1]
+LoseText = My Pokémon still did their best!
+Pokemon = SCORBUNNY,7
+    Moves = EMBER,TACKLE,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Cheese,2]
+LoseText = My Pokémon still did their best!
+Pokemon = SCORBUNNY,15
+    Moves = EMBER,DOUBLEKICK,QUICKATTACK,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BUGCATCHER,Rick,1]
+LoseText = Jeez, guess I'm not the strongest yet...
+Pokemon = DEWPIDER,6
+    Moves = WATERGUN,INFESTATION,BUGBITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BUGCATCHER,Rick,2]
+LoseText = Jeez, guess I'm not the strongest yet...
+Pokemon = DEWPIDER,13
+    Moves = BUBBLEBEAM,INFESTATION,BUGBITE,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_F,Amanda,1]
+LoseText = We've gotta keep training!
+Pokemon = YAMPER,5
+    Moves = NUZZLE,TACKLE,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = LILLIPUP,6
+    Moves = TACKLE,BITE,WORKUP,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_F,Amanda,2]
+LoseText = We've gotta keep training!
+Pokemon = YAMPER,14
+    Moves = NUZZLE,TACKLE,BITE,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = LILLIPUP,14
+    Moves = RETALIATE,BITE,WORKUP,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Aaron,1]
+LoseText = Looks like I have more training to do...
+Pokemon = FLETCHLING,7
+    Moves = PECK,EMBER,GROWL
+    AbilityIndex = 2
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Aaron,2]
+LoseText = Looks like I have more training to do...
+Pokemon = FLETCHLING,15
+    Moves = PECK,EMBER,FLAIL,GROWL
+    AbilityIndex = 2
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Felicia,1]
+LoseText = Looks like I'm not a professional battler, though!
+Pokemon = STUFFUL,7
+    Moves = TACKLE,BABYDOLLEYES,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Felicia,2]
+LoseText = Looks like I'm not a professional battler, though!
+Pokemon = STUFFUL,14
+    Moves = BRUTALSWING,TACKLE,PAYBACK,BABYDOLLEYES
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Bartchy,1]
+LoseText = What?! Impossible!
+Pokemon = ROWLET,8
+    Moves = TACKLE,LEAFAGE,ASTONISH,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Bartchy,2]
+LoseText = What?! Impossible!
+Pokemon = GIBLE,13
+    Moves = SANDTOMB,TACKLE,DRAGONBREATH,SANDATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ROWLET,14
+    Moves = LEAFAGE,TACKLE,SHADOWSNEAK,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Rosa,1]
+LoseText = I should have brought more water.
+Pokemon = VULPIX,7
+    Moves = EMBER,TAILWHIP,DISABLE
+    AbilityIndex = 2
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Rosa,2]
+LoseText = I should have brought more water.
+Pokemon = VULPIX,15
+    Moves = EMBER,TAILWHIP,QUICKATTACK,DISABLE
+    AbilityIndex = 2
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Lavy,1]
+LoseText = Thanks! That was a good battle!
+Pokemon = ZUBAT,9
+    Moves = ABSORB,ASTONISH,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = MISDREAVUS,7
+    Moves = CONFUSION,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Lavy,2]
+LoseText = Thanks! That was a good battle!
+Pokemon = ZUBAT,14
+    Moves = ABSORB,ASTONISH,SUPERSONIC,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = MISDREAVUS,15
+    Moves = CONFUSION,ASTONISH,GROWL,CONFUSERAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PARASOLLADY,Lisa,1]
+LoseText = aaa
+Pokemon = POLIWAG,8
+    Moves = WATERGUN,POUND,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = GOLDEEN,7
+    Moves = PECK,TAILWHIP,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PARASOLLADY,Lisa,2]
+LoseText = aaa
+Pokemon = POLIWAG,14
+    Moves = WATERGUN,POUND,HYPNOSIS,MUDSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = GOLDEEN,14
+    Moves = PECK,TAILWHIP,SUPERSONIC,WATERPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Diziet,1]
+LoseText = Guess I'll make like a tree and leaf.
+Pokemon = VULPIX,4
+    Moves = EMBER,TAILWHIP,DISABLE
+    AbilityIndex = 2
+    Gender = female
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CHIKORITA,5
+    Moves = TACKLE,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Diziet,2]
+LoseText = Guess I'll make like a tree and leaf.
+Pokemon = VULPIX,13
+    Moves = EMBER,TAILWHIP,QUICKATTACK,DISABLE
+    AbilityIndex = 2
+    Gender = female
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CHIKORITA,14
+    Moves = RAZORLEAF,GROWL,POISONPOWDER,SYNTHESIS
+    AbilityIndex = 2
+    Gender = male
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,Meno,1]
+LoseText = I see! Whatever your goal is, you can achieve it!
+Pokemon = MAGIKARP,3
+    Moves = SPLASH
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BULBASAUR,5
+    Moves = VINEWHIP,TACKLE,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,Meno,2]
+LoseText = I see! Whatever your goal is, you can achieve it!
+Pokemon = MAGIKARP,12
+    Moves = SPLASH
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BULBASAUR,15
+    Moves = RAZORLEAF,TACKLE,GROWTH,POISONPOWDER
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Silica,1]
+LoseText = Fire-types are still the best companions!
+Pokemon = LITTEN,7
+    Moves = EMBER,SCRATCH,LICK,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = EEVEE,6
+    Moves = COVET,TACKLE,GROWL,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Silica,2]
+LoseText = Fire-types are still the best companions!
+Pokemon = LITTEN,14
+    Moves = EMBER,BITE,FURYSWIPES,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = EEVEE,14
+    Moves = COVET,QUICKATTACK,GROWL,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Sam,1]
+LoseText = aaa
+Pokemon = MANKEY,7
+    Moves = COVET,FURYSWIPES,LEER,FOCUSENERGY
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = TRUBBISH,8
+    Moves = POUND,ACIDSPRAY,POISONGAS
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Sam,2]
+LoseText = aaa
+Pokemon = MANKEY,15
+    Moves = LOWKICK,COVET,LEER,FOCUSENERGY
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = TRUBBISH,15
+    Moves = ACIDSPRAY,CLEARSMOG,AMNESIA,POISONGAS
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Toby,1]
+LoseText = aaa
+Pokemon = VAROOM,8
+    Moves = LICK,SMOG,POISONGAS,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Toby,2]
+LoseText = aaa
+Pokemon = VAROOM,15
+    Moves = SLUDGE,ASSURANCE,POISONGAS,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ESPURR,14
+    Moves = CONFUSION,FAKEOUT,DISARMINGVOICE,SCRATCH
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PARASOLLADY,Talia,1]
+LoseText = If you get soaked, then you just have to learn to dance in the rain!
+Pokemon = WINGULL,9
+    Moves = RAINDANCE,WATERGUN,QUICKATTACK,GROWL
+    AbilityIndex = 2
+    Gender = female
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CASTFORM,10
+    Moves = TACKLE,WATERGUN,EMBER,POWDERSNOW
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PARASOLLADY,TALIA,2]
+LoseText = If you get soaked, then you just have to learn to dance in the rain!
+Pokemon = WINGULL,15
+    Moves = RAINDANCE,WATERGUN,WINGATTACK,GROWL
+    AbilityIndex = 2
+    Gender = female
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CASTFORM,16
+    Moves = HEADBUTT,WATERGUN,EMBER,POWDERSNOW
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Keith,1]
+LoseText = Shucks...
+Pokemon = FINIZEN,8
+    Moves = WATERGUN,ASTONISH,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Keith,2]
+LoseText = Shucks...
+Pokemon = FINIZEN,15
+    Moves = WATERGUN,AQUAJET,ASTONISH,FOCUSENERGY
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CHEWTLE,15
+    Moves = WATERGUN,TACKLE,BITE,PROTECT
+    AbilityIndex = 1
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Lucas,1]
+LoseText = Hey, that was a close battle! Nice job!
+Pokemon = GROWLITHE,7
+    Moves = EMBER,LEER,HOWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CYCLIST_M,Lucas,2]
+LoseText = Hey, that was a close battle! Nice job!
+Pokemon = GROWLITHE,14
+    Moves = FLAMEWHEEL,BITE,LEER,HOWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FEEBAS,15
+    Moves = TACKLE,SPLASH
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER2,Sora,1]
+LoseText = Wow, what are you feeding your Pokémon?
+Pokemon = DUNSPARCE,6
+    Moves = FLAIL,DEFENSECURL,MUDSLAP
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER2,Sora,2]
+LoseText = Wow, what are you feeding your Pokémon?
+Pokemon = SKITTY,12
+    Moves = TACKLE,GROWL,SING,ATTRACT
+    AbilityIndex = 1
+    Gender = female
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = DUNSPARCE,14
+    Moves = FLAIL,ROLLOUT,DEFENSECURL,GLARE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Chabukis,1]
+LoseText = Looks like I'm the clown here...
+Pokemon = POPPLIO,6
+    Moves = POUND,WATERGUN,DISARMINGVOICE,PERISHSONG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Chabukis,2]
+LoseText = Looks like I'm the clown here...
+Pokemon = POPPLIO,14
+    Moves = WATERGUN,DISARMINGVOICE,BABYDOLLEYES,PERISHSONG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PHANPY,13
+    Moves = FLAIL,ROLLOUT,DEFENSECURL,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BLACKBELT,ColdOre,1]
+LoseText = Hmmm... I see...
+Pokemon = MACHOP,8
+    Moves = LOWKICK,BULLETPUNCH,LEER,FOCUSENERGY
+    AbilityIndex = 0
+    Gender = male
+    Nature = LONELY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BLACKBELT,ColdOre,2]
+LoseText = Hmmm... I see...
+Pokemon = MACHOP,15
+    Moves = TACKLE,MUDSLAP,HARDEN,STEALTHROCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ROGGENROLA,14
+    Moves = TACKLE,MUDSLAP,HARDEN,STEALTHROCK
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Benson,1]
+LoseText = I had virtually no rehearsal for that!
+Pokemon = COMBEE,7
+    Moves = GUST,STRUGGLEBUG,BUGBITE,SWEETSCENT
+    AbilityIndex = 2
+    Gender = female
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUDEW,8
+    Moves = ABSORB,GROWTH,STUNSPORE,WORRYSEED
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Benson,2]
+LoseText = I had virtually no rehearsal for that!
+Pokemon = COMBEE,14
+    Moves = GUST,STRUGGLEBUG,BUGBITE,SWEETSCENT
+    AbilityIndex = 2
+    Gender = female
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BUDEW,15
+    Moves = ABSORB,GROWTH,STUNSPORE,WORRYSEED
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[TWINS,Melody & Harmony,1]
+LoseText = Oh no!
+Pokemon = JIGGLYPUFF,7
+    Moves = DISARMINGVOICE,SING,ECHOEDVOICE,COPYCAT
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+Pokemon = WHISMUR,7
+    Moves = ROUND,POUND,ECHOEDVOICE,ASTONISH
+    AbilityIndex = 0
+    Gender = female
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[TWINS,Melody & Harmony,2]
+LoseText = Oh no!
+Pokemon = JIGGLYPUFF,16
+    Moves = DISARMINGVOICE,SING,ECHOEDVOICE,ROUND
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+Pokemon = WHISMUR,16
+    Moves = ROUND,POUND,ECHOEDVOICE,ASTONISH
+    AbilityIndex = 0
+    Gender = female
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Ronan,1]
+LoseText = Laughter is the best medicine!
+Pokemon = TOGEPI,8
+    Moves = POUND,SWEETKISS,GROWL,LIFEDEW
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Ronan,2]
+LoseText = Laughter is the best medicine!
+Pokemon = TOGETIC,15
+    Moves = POUND,FAIRYWIND,LIFEDEW,CHARM
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,George,1]
+LoseText = Looks like the sun doesn't bother you, huh?
+Pokemon = CHARMANDER,7
+    Moves = EMBER,SCRATCH,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = QUIET
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,George,2]
+LoseText = Looks like the sun doesn't bother you, huh?
+Pokemon = VULPIX,12
+    Moves = EMBER,QUICKATTACK,SPITE,DISABLE
+    AbilityIndex = 2
+    Gender = female
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CHARMANDER,13
+    Moves = EMBER,DRAGONBREATH,SCRATCH,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = QUIET
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Warren,1]
+LoseText = That's a little disappointing...
+Pokemon = TREECKO,8
+    Moves = POUND,QUICKATTACK,LEAFAGE,LEER
+    AbilityIndex = 2
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FEEBAS,6
+    Moves = SPLASH
+    AbilityIndex = 1
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Warren,2]
+LoseText = That's a little disappointing...
+Pokemon = TREECKO,15
+    Moves = MEGADRAIN,QUICKATTACK,DETECT,LEER
+    AbilityIndex = 2
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FEEBAS,12
+    Moves = SPLASH
+    AbilityIndex = 1
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Russ,1]
+LoseText = Looks like we have more training to do!
+Pokemon = LITWICK,8
+    Moves = EMBER,ASTONISH,SMOG
+    AbilityIndex = 1
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Russ,2]
+LoseText = Looks like we have more training to do!
+Pokemon = ROLYCOLY,14
+    Moves = TACKLE,RAPIDSPIN,SMACKDOWN
+    AbilityIndex = 1
+    Gender = male
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = LITWICK,14
+    Moves = EMBER,SMOG,ASTONISH,CONFUSERAY
+    AbilityIndex = 1
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Dawn,1]
+LoseText = Aww man...
+Pokemon = EEVEE,6
+    Moves = COVET,TACKLE,TAILWHIP,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = HOPPIP,7
+    Moves = TACKLE,ABSORB,TAILWHIP
+    AbilityIndex = 2
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Dawn,2]
+LoseText = Aww man...
+Pokemon = EEVEE,15
+    Moves = QUICKATTACK,COVET,BABYDOLLEYES,TAILWHIP
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = HOPPIP,14
+    Moves = BULLETSEED,FAIRYWIND,TAILWHIP,SLEEPPOWDER
+    AbilityIndex = 2
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Pap,1]
+LoseText = Good pants don't make me better at battling, I suppose.
+Pokemon = SEWADDLE,8
+    Moves = TACKLE,BUGBITE,STRINGSHOT
+    AbilityIndex = 1
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Pap,2]
+LoseText = Good pants don't make me better at battling, I suppose.
+Pokemon = SCRAGGY,14
+    Moves = HEADBUTT,PAYBACK,LEER,SUNNYDAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = SEWADDLE,15
+    Moves = TACKLE,STRINGSHOT,BUGBITE,RAZORLEAF
+    AbilityIndex = 1
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Cali,1]
+LoseText = Looks like you don't beat around the bush, huh?
+Pokemon = SPRIGATITO,8
+    Moves = SCRATCH,TAILWHIP,LEAFAGE,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Cali,2]
+LoseText = Looks like you don't beat around the bush, huh?
+Pokemon = SEWADDLE,15
+    Moves = RAZORLEAF,BUGBITE,TACKLE,STRINGSHOT
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = SPRIGATITO,15
+    Moves = LEAFAGE,SCRATCH,BITE,HONECLAWS
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[COOLTRAINER_M,Charno,1]
+LoseText = Yes! I won a battle!
+Pokemon = COTTONEE,9
+    Moves = ABSORB,FAIRYWIND,STUNSPORE
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[COOLTRAINER_M,Charno,2]
+LoseText = Yes! I won a battle!
+Pokemon = ELEKID,13
+    Moves = THUNDERSHOCK,CHARGE,SWIFT,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = COTTONEE,15
+    Moves = MEGADRAIN,FAIRYWIND,STUNSPORE,RAZORLEAF
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Weterpete,1]
+LoseText = aaa
+Pokemon = SNIVY,8
+    Moves = TACKLE,VINEWHIP,WRAP,LEER
+    AbilityIndex = 2
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Weterpete,2]
+LoseText = aaa
+Pokemon = PIDGEY,13
+    Moves = TACKLE,QUICKATTACK,GUST,SANDATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = SNIVY,14
+    Moves = TACKLE,VINEWHIP,WRAP,LEER
+    AbilityIndex = 2
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGCOUPLE,Claude & Lucy,1]
+LoseText = aaa
+Pokemon = PICHU,7
+    Moves = THUNDERSHOCK,TAILWHIP,PLAYNICE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BLITZLE,7
+    Moves = QUICKATTACK,TAILWHIP
+    AbilityIndex = 1
+    Gender = female
+    Nature = LONELY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGCOUPLE,Claude & Lucy,2]
+LoseText = aaa
+Pokemon = PIKACHU,14
+    Moves = ELECTROBALL,NUZZLE,TAILWHIP,PLAYNICE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = BLITZLE,14
+    Moves = SHOCKWAVE,QUICKATTACK,CHARGE,TAILWHIP
+    AbilityIndex = 1
+    Gender = female
+    Nature = LONELY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Monika,1]
+LoseText = Oh, nevermind... I was just imagining the danger...
+Pokemon = GASTLY,9
+    Moves = LICK,CONFUSERAY,HYPNOSIS,MEANLOOK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Monika,2]
+LoseText = Oh, nevermind... I was just imagining the danger...
+Pokemon = GASTLY,14
+    Moves = LICK,PAYBACK,HYPNOSIS,CONFUSERAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = LITWICK,14
+    Moves = EMBER,ASTONISH,SMOG,CONFUSERAY
+    AbilityIndex = 2
+    Gender = female
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CRUSHGIRL,Claressa,1]
+LoseText = It seems we were no match for your power!
+Pokemon = RIOLU,9
+    Moves = METALCLAW,QUICKATTACK,FEINT,ENDURE
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CRUSHGIRL,Claressa,2]
+LoseText = It seems we were no match for your power!
+Pokemon = MACHOP,14
+    Moves = LOWKICK,BULLETPUNCH,COUNTER,FOCUSENERGY
+    AbilityIndex = 1
+    Gender = female
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = RIOLU,15
+    Moves = METALCLAW,QUICKATTACK,FEINT,COUNTER
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Alastor,1]
+LoseText = I couldn't sense this loss...
+Pokemon = FENNEKIN,9
+    Moves = EMBER,SCRATCH,TAILWHIP
+    AbilityIndex = 2
+    Gender = male
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Alastor,2]
+LoseText = I couldn't sense this loss...
+Pokemon = MISDREAVUS,14
+    Moves = ASTONISH,CONFUSION,GROWL,CONFUSERAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FENNEKIN,15
+    Moves = EMBER,PSYBEAM,FLAMECHARGE,SCRATCH
+    AbilityIndex = 2
+    Gender = male
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,J.O.J.O,1]
+LoseText = Guess not all old schoolers can keep up with today's power...
+Pokemon = MEOWTH,7
+    Moves = FAKEOUT,FEINT,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = CYNDAQUIL,8
+    Moves = TACKLE,LEER,SMOKESCREEN
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,J.O.J.O,2]
+LoseText = Guess not all old schoolers can keep up with today's power...
+Pokemon = MEOWTH,13
+    Moves = FAKEOUT,SCRATCH,FEINT,GROWL
+    AbilityIndex = 2
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = QUILAVA,15
+    Moves = EMBER,QUICKATTACK,LEER,SMOKESCREEN
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[COOLTRAINER_M,Pedro,1]
+Items = ZRING
+LoseText = So, what do you think?
+Pokemon = ROGGENROLA,17
+    Moves = SMACKDOWN,MUDSLAP,HARDEN,STEALTHROCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = ROCKRUFF,18
+    Moves = ROCKTHROW,BULLDOZE,TACKLE,LEER
+    AbilityIndex = 0
+    Item = ROCKIUMZ
+    Gender = male
+    Nature = JOLLY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Gustav,1]
+LoseText = Hey! I said I love winning battles, not losing!
+Pokemon = TRAPINCH,7
+    Moves = ASTONISH,SANDATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Gustav,2]
+LoseText = Hey! I said I love winning battles, not losing!
+Pokemon = TRAPINCH,14
+    Moves = MUDSLAP,SANDATTACK,BITE,ASTONISH
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Jackie,1]
+LoseText = Wasn't my Pokémon cool, too?
+Pokemon = WOOBAT,8
+    Moves = GUST,CONFUSION,ATTRACT
+    AbilityIndex = 1
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_F,Jackie,2]
+LoseText = Wasn't my Pokémon cool, too?
+Pokemon = WOOBAT,15
+    Moves = AIRCUTTER,ATTRACT,CONFUSION,ENDEAVOR
+    AbilityIndex = 1
+    Gender = female
+    Nature = BOLD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Damp,1]
+LoseText = Aw man...
+Pokemon = HORSEA,8
+    Moves = WATERGUN,LEER,SMOKESCREEN
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[CAMPER,Damp,2]
+LoseText = Aw man...
+Pokemon = HORSEA,15
+    Moves = WATERGUN,TWISTER,FOCUSENERGY,LEER
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = NIDORANmA,14
+    Moves = POISONSTING,PECK,LEER,FOCUSENERGY
+    AbilityIndex = 0
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Willow,1]
+LoseText = Aww... that's disappointing...
+Pokemon = HAPPINY,7
+    Moves = POUND,DEFENSECURL,COPYCAT
+    AbilityIndex = 1
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = NIDORANmA,7
+    Moves = POISONSTING,LEER,PECK
+    AbilityIndex = 2
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Willow,2]
+LoseText = Aww... that's disappointing...
+Pokemon = HAPPINY,14
+    Moves = DISARMINGVOICE,POUND,SWEETKISS,DEFENSECURL
+    AbilityIndex = 1
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = NIDORANmA,14
+    Moves = POISONSTING,PECK,FURYATTACK,FOCUSENERGY
+    AbilityIndex = 2
+    Nature = NAUGHTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMANIAC,Aliosha,1]
+LoseText = Good battle, lad.
+Pokemon = DODUO,7
+    Moves = PECK,GROWL,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMANIAC,Aliosha,2]
+LoseText = Good battle, lad.
+Pokemon = MAGIKARP,12
+    Moves = SPLASH
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = DODUO,15
+    Moves = PLUCK,QUICKATTACK,FURYATTACK,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Lacks,1]
+LoseText = Guess slow and steady doesn't always win!
+Pokemon = INKAY,9
+    Moves = PECK,PAYBACK,WRAP,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Lacks,2]
+LoseText = Guess slow and steady doesn't always win!
+Pokemon = INKAY,14
+    Moves = PAYBACK,PLUCK,WRAP,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Walter,1]
+LoseText = aaa
+Pokemon = GLIGAR,8
+    Moves = POISONSTING,HARDEN,SANDATTACK
+    AbilityIndex = 2
+    Gender = female
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Walter,2]
+LoseText = aaa
+Pokemon = GLIGAR,16
+    Moves = QUICKATTACK,FURYCUTTER,HARDEN,KNOCKOFF
+    AbilityIndex = 2
+    Gender = female
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BLACKBELT,Charlie,1]
+LoseText = Well done.
+Pokemon = SKORUPI,7
+    Moves = POISONSTING,LEER,HONECLAWS,FELLSTINGER
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BLACKBELT,Charlie,2]
+LoseText = Well done.
+Pokemon = SKORUPI,17
+    Moves = POISONFANG,BITE,HONECLAWS,FELLSTINGER
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[COOLTRAINER_F,Ruby,1]
+Items = MEGARING
+LoseText = aaa
+Pokemon = MIENFOO,18
+    Moves = FAKEOUT,REVERSAL,POUND,DETECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = SABLEYE,19
+    Moves = SHADOWSNEAK,THIEF,DISABLE,RECOVER
+    AbilityIndex = 2
+    Item = SABLENITE
+    Gender = male
+    Nature = IMPISH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Emily,1]
+LoseText = aaa
+Pokemon = SANDSHREW,6
+    Moves = POISONSTING,SCRATCH,DEFENSECURL,SANDATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ZUBAT,8
+    Moves = ASTONISH,ABSORB,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Emily,2]
+LoseText = aaa
+Pokemon = SANDSHREW,14
+    Moves = ROLLOUT,SCRATCH,FURYCUTTER,DEFENSECURL
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = ZUBAT,15
+    Moves = POISONFANG,ABSORB,MEANLOOK,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Cavern,1]
+LoseText = Fine, you win!
+Pokemon = NOIBAT,9
+    Moves = GUST,ABSORB,TACKLE,SUPERSONIC
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BIRDKEEPER,Cavern,2]
+LoseText = Fine, you win!
+Pokemon = NOIBAT,16
+    Moves = GUST,ABSORB,TACKLE,SUPERSONIC
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PIDGEY,16
+    Moves = GUST,TACKLE,SANDATTACK,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[DOCTORDUO,Sadie & Raj,1]
+Items = MEGARING
+LoseText = Looks like your Pokémon are healthy and strong!
+Pokemon = AUDINO,19
+    Moves = DRAININGKISS,YAWN,TRICKROOM,HELPINGHAND
+    AbilityIndex = 0
+    Item = AUDINITE
+    Gender = female
+    Nature = BOLD
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = UMBREON,18
+    Moves = SNARL,SUBSTITUTE,FOULPLAY,HELPINGHAND
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = male
+    Nature = CALM
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Leia,1]
+LoseText = You are strong! I will allow you to see the Pokémon!
+Pokemon = GOSSIFLEUR,9
+    Moves = LEAFAGE,RAPIDSPIN,SWEETSCENT,SING
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FLABEBE,9
+    Moves = FAIRYWIND,VINEWHIP,TACKLE
+    AbilityIndex = 0
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Leia,2]
+LoseText = You are strong! I will allow you to see the Pokémon!
+Pokemon = GOSSIFLEUR,15
+    Moves = RAZORLEAF,RAPIDSPIN,SWEETSCENT,SING
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FLABEBE,15
+    Moves = FAIRYWIND,RAZORLEAF,TACKLE,SAFEGUARD
+    AbilityIndex = 0
+    Nature = BRAVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Appius,1]
+LoseText = How can this be?
+Pokemon = SKRELP,8
+    Moves = TACKLE,ACID,SMOKESCREEN
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[FISHERMAN,Appius,2]
+LoseText = How can this be?
+Pokemon = SKRELP,15
+    Moves = TACKLE,SMOKESCREEN,ACID,WATERGUN
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[HIKER,Owca,1]
+LoseText = What did you think of my Pokémon?
+Pokemon = MAREEP,8
+    Moves = TACKLE,GROWL,THUNDERWAVE,THUNDERSHOCK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+    Shiny = true
+#-------------------------------
+[HIKER,Owca,2]
+LoseText = What did you think of my Pokémon?
+Pokemon = MAREEP,13
+    Moves = TACKLE,GROWL,THUNDERWAVE,THUNDERSHOCK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+    Shiny = true
+#-------------------------------
+[POKEMONBREEDER2,Mike,1]
+LoseText = Hard work makes ya stronger!
+Pokemon = BUNNELBY,7
+    Moves = TACKLE,MUDSLAP,LEER,FOCUSENERGY
+    AbilityIndex = 1
+    Gender = female
+    Nature = QUIET
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER2,Mike,2]
+LoseText = Hard work makes ya stronger!
+Pokemon = BUNNELBY,14
+    Moves = QUICKATTACK,MUDSHOT,FOCUSENERGY,LEER
+    AbilityIndex = 1
+    Gender = female
+    Nature = QUIET
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,Tess,1]
+LoseText = Well... I suppose we can't beat everybody by ourselves.
+Pokemon = MAWILE,7
+    Moves = FAIRYWIND,ASTONISH,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BEAUTY,Tess,2]
+LoseText = Well... I suppose we can't beat everybody by ourselves.
+Pokemon = MAWILE,15
+    Moves = FAIRYWIND,BITE,ASTONISH,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Crunchy,1]
+LoseText = I don't enjoy losing, but I'll make an exception just this once.
+Pokemon = SHUPPET,8
+    Moves = ASTONISH,NIGHTSHADE,SCREECH
+    AbilityIndex = 2
+    Gender = male
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEFAN_M,Crunchy,2]
+LoseText = I don't enjoy losing, but I'll make an exception just this once.
+Pokemon = SHUPPET,15
+    Moves = ASTONISH,NIGHTSHADE,SCREECH,SPITE
+    AbilityIndex = 2
+    Gender = male
+    Nature = IMPISH
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,Luka,1]
+LoseText = Guess maybe I'm the only one that's scared right now...
+Pokemon = PHANTUMP,8
+    Moves = BRANCHPOKE,ASTONISH,TACKLE,LEECHSEED
+    AbilityIndex = 2
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BACKPACKER_M,Luka,2]
+LoseText = Guess maybe I'm the only one that's scared right now...
+Pokemon = PHANTUMP,14
+    Moves = BRANCHPOKE,ASTONISH,TACKLE,LEECHSEED
+    AbilityIndex = 2
+    Gender = male
+    Nature = NAIVE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BUGCATCHER,Borrison,1]
+LoseText = I lost, but that doesn't soil the perfect combination!
+Pokemon = CATERPIE,6
+    Moves = TACKLE,STRINGSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = SURSKIT,7
+    Moves = WATERGUN,QUICKATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[BUGCATCHER,Borrison,2]
+LoseText = I lost, but that doesn't soil the perfect combination!
+Pokemon = BUTTERFREE,13
+    Moves = GUST,TACKLE,SLEEPPOWDER,STRINGSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = SURSKIT,14
+    Moves = WATERGUN,QUICKATTACK,SWEETSCENT,SOAK
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER2,Tobias,1]
+LoseText = Hmm... Thank you, stranger.
+Pokemon = FROAKIE,7
+    Moves = POUND,GROWL,WATERGUN
+    AbilityIndex = 2
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONBREEDER2,Tobias,2]
+LoseText = Hmm... Thank you, stranger.
+Pokemon = CLEFFA,12
+    Moves = DISARMINGVOICE,POUND,SWEETKISS,SING
+    AbilityIndex = 1
+    Gender = male
+    Nature = CALM
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = FROAKIE,14
+    Moves = WATERPULSE,LICK,GROWL,QUICKATTACK
+    AbilityIndex = 2
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Lucas,1]
+LoseText = I need to be stronger to find the monster!
+Pokemon = ZORUA,8
+    Moves = SCRATCH,LEER,TORMENT,HONECLAWS
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONRANGER_M,Lucas,2]
+LoseText = I need to be stronger to find the monster!
+Pokemon = ZORUA,13
+    Moves = FURYSWIPES,LEER,TORMENT,HONECLAWS
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = GASTLY,13
+    Moves = LICK,CONFUSERAY,HYPNOSIS,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Yash,1]
+LoseText = The spirits!
+Pokemon = MISDREAVUS,7
+    Moves = CONFUSION,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Yash,2]
+LoseText = The spirits!
+Pokemon = MISDREAVUS,14
+    Moves = ASTONISH,CONFUSION,GROWL,CONFUSERAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Placeholder,1]
+LoseText = aaa
+Pokemon = GASTLY,5
+#-------------------------------
+[TEST,AAAAA]
+Items = MEGARING,TERAORB,ZRING
+LoseText = AAA
+Pokemon = MEOWSCARADA,100
+    Moves = FLOWERTRICK,TRIPLEAXEL,PLAYROUGH,UTURN
+    AbilityIndex = 2
+    Item = CHOICESCARF
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    TeraType = DARK
+Pokemon = MANDIBUZZ,100
+    Moves = FOULPLAY,ROOST,DEFOG,UTURN
+    AbilityIndex = 1
+    Item = ROCKYHELMET
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+    EV = 248,0,244,16,0,0
+    TeraType = DARK
+Pokemon = TINGLU,100
+    Moves = EARTHQUAKE,RUINATION,STEALTHROCK,WHIRLWIND
+    Item = LEFTOVERS
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 248,0,8,0,0,252
+    TeraType = DARK
+Pokemon = SABLEYE,100
+    Moves = KNOCKOFF,WILLOWISP,PROTECT,RECOVER
+    AbilityIndex = 2
+    Item = SABLENITE
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 248,0,144,0,0,116
+Pokemon = WEAVILE,100
+    Moves = ICICLECRASH,KNOCKOFF,ICESHARD,SWORDSDANCE
+    AbilityIndex = 0
+    Item = ICIUMZ
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,4
+    TeraType = DARK
+Pokemon = HYDREIGON,100
+    Moves = DARKPULSE,FLAMETHROWER,SUBSTITUTE,NASTYPLOT
+    Item = LEFTOVERS
+    Nature = TIMID
+    IV = 0,31,31,31,31,31
+    EV = 0,0,0,252,252,4
+    TeraType = DARK

@@ -1,0 +1,2047 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[002] # Lappet Town
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[005] # old Route 1
+Land,21
+    40,PIDGEY,11,14
+    40,RATTATA,11,14
+    9,PIDGEY,11,13
+    9,RATTATA,11,13
+    1,PIDGEY,14
+    1,RATTATA,14
+LandNight,21
+    39,RATTATA,10,14
+    30,HOOTHOOT,10,13
+    20,SPINARAK,8,12
+    9,HOOTHOOT,10,14
+    1,HOOTHOOT,14
+    1,RATTATA,15
+PokeRadar,20
+    100,STARLY,12,15
+#-------------------------------
+[005,1] # old Route 1
+Land,21
+    40,PIDGEY,15,18
+    40,RATTATA,14,18
+    10,SENTRET,13,17
+    5,PIDGEY,14,16
+    5,RATTATA,13,16
+LandNight,21
+    40,RATTATA,14,18
+    30,HOOTHOOT,14,17
+    20,SPINARAK,12,16
+    10,CLEFAIRY,11,15
+#-------------------------------
+[021] # oldRoute 2
+Land,21
+    50,RATTATA,12,15
+    30,POOCHYENA,11,15
+    10,SHINX,10,11
+    10,SHINX,10,12
+Water,2
+    60,MAGIKARP,7,10
+    30,GOLDEEN,11,14
+    10,STARYU,12,15
+OldRod
+    70,MAGIKARP,7,10
+    30,MAGIKARP,9,15
+GoodRod
+    60,GOLDEEN,12,14
+    20,FINNEON,12,15
+    20,MAGIKARP,12,17
+SuperRod
+    40,FINNEON,12,15
+    40,GOLDEEN,12,14
+    15,STARYU,12,15
+    5,STARYU,14,17
+HeadbuttLow
+    50,PINECO,11,13
+    30,LEDYBA,6,8
+    19,SPINARAK,9,12
+    1,MUNCHLAX,11,14
+HeadbuttHigh
+    50,PINECO,11,13
+    30,WURMPLE,6,8
+    20,SPINARAK,9,12
+PokeRadar,10
+    100,STANTLER,14
+#-------------------------------
+[028] # Natural Park
+Land,21
+    20,CATERPIE,10
+    20,SUNKERN,12
+    20,WEEDLE,10
+    15,PIDGEY,12,14
+    15,PIDGEY,10,14
+    5,KAKUNA,10
+    5,METAPOD,10
+LandNight,21
+    30,HOOTHOOT,10,14
+    30,SPINARAK,10,15
+    20,PINECO,9,13
+    10,DROWZEE,9,15
+    10,NATU,12,14
+LandMorning,21
+    25,CATERPIE,10,12
+    25,WEEDLE,10,12
+    20,PIDGEY,10,14
+    15,KAKUNA,10
+    15,METAPOD,10
+BugContest,21
+    20,CATERPIE,7,18
+    20,WEEDLE,7,18
+    10,KAKUNA,9,18
+    10,METAPOD,9,18
+    10,PARAS,10,17
+    10,VENONAT,10,16
+    5,BEEDRILL,12,15
+    5,BUTTERFREE,12,15
+    5,PINSIR,13,14
+    5,SCYTHER,13,14
+PokeRadar,40
+    50,BEEDRILL,15,18
+    50,BUTTERFREE,15,18
+#-------------------------------
+[031] # oldRoute 3
+Land,21
+    30,NIDORANfE,12,15
+    30,NIDORANmA,12,15
+    20,PIKACHU,14,17
+    10,EEVEE,15
+    10,PONYTA,13,15
+Water,2
+    60,SURSKIT,13,14
+    35,LOTAD,14
+    5,LOTAD,15
+OldRod
+    70,MAGIKARP,6,11
+    30,MAGIKARP,10,17
+GoodRod
+    60,POLIWAG,12,15
+    20,PSYDUCK,11,14
+    20,WOOPER,13,17
+SuperRod
+    40,CHINCHOU,11,12
+    40,REMORAID,12,14
+    20,LUVDISC,10,16
+RockSmash,50
+    60,NOSEPASS,13,14
+    40,GEODUDE,12,15
+HeadbuttLow
+    30,PINECO,14,17
+    25,COMBEE,15,17
+    20,PINECO,14,16
+    10,HERACROSS,16,18
+    9,HERACROSS,16,17
+    5,COMBEE,15,16
+    1,MUNCHLAX,13,18
+HeadbuttHigh
+    50,SEEDOT,14,17
+    30,SHROOMISH,14,17
+    20,BURMY,12,15
+#-------------------------------
+[034] # Ice Cave
+Cave,5
+    40,SWINUB,16,18
+    20,SNEASEL,14,16
+    20,SNORUNT,12,15
+    10,SMOOCHUM,11,14
+    10,SNOVER,14
+#-------------------------------
+[039] # oldRoute 4
+Land,21
+    50,SHELLOS_1,12,15
+    40,GRIMER,13,15
+    10,MURKROW,12,14
+#-------------------------------
+[041] # oldRoute 5
+Land,21
+    50,GRIMER,13,15
+    40,SPEAROW,13,16
+    10,SLUGMA,13,14
+#-------------------------------
+[044] # oldRoute 6
+Land,21
+    50,SHELLOS_1,12,15
+    40,GRIMER,13,15
+    10,MURKROW,12,14
+#-------------------------------
+[047] # oldRoute 7
+Land,21
+    50,SHELLOS,12,15
+    30,BIDOOF,14,17
+    10,MURKROW,12,14
+    10,WURMPLE,9,12
+RockSmash,50
+    90,NOSEPASS,13,14
+    10,GEODUDE,12,15
+#-------------------------------
+[049] # Rock Cave 1F
+Cave,5
+    20,MAGNETON,14,17
+    20,MAGNETON,14,16
+    20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
+    10,GEODUDE,13,15
+    10,MAWILE,14,16
+#-------------------------------
+[050] # Rock Cave B1F
+Cave,5
+    20,MAGNETON,14,17
+    20,MAGNETON,14,16
+    20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
+    10,BURMY,14,16
+    10,GEODUDE,13,15
+#-------------------------------
+[051] # Dungeon
+Cave,5
+    20,CHINGLING,1
+    20,CLEFFA,1
+    20,IGGLYBUFF,1
+    20,PICHU,1
+    10,RIOLU,1
+    10,TYROGUE,1
+#-------------------------------
+[066] # Safari Zone outside
+Land,21
+    20,ABRA,12,15
+    20,DODUO,13,15
+    20,NIDORANfE,15,16
+    20,NIDORANmA,15,16
+    10,HOPPIP,13,17
+    10,TANGELA,14,16
+#-------------------------------
+[068] # Safari Zone
+Land,21
+    20,EXEGGCUTE,15,18
+    20,RHYHORN,16,18
+    10,AIPOM,14,17
+    10,GIRAFARIG,16,17
+    10,VENONAT,15,18
+    10,VENONAT,15,17
+    5,HERACROSS,15,17
+    5,TAUROS,15,16
+    4,PINSIR,16
+    4,SCYTHER,16
+    1,CHANSEY,17
+    1,KANGASKHAN,19
+Water,2
+    60,PSYDUCK,16,18
+    30,MARILL,15,18
+    5,BUIZEL,15,17
+    5,SLOWPOKE,14,16
+OldRod
+    70,MAGIKARP,17,21
+    30,MAGIKARP,17,20
+GoodRod
+    60,MAGIKARP,16,20
+    20,FEEBAS,16,20
+    20,POLIWAG,17,18
+SuperRod
+    40,GOLDEEN,16,18
+    40,REMORAID,17,19
+    15,CARVANHA,16,17
+    4,FINNEON,15,18
+    1,DRATINI,17
+#-------------------------------
+[069] # oldRoute 8
+Land,21
+    20,MAREEP,16,18
+    20,ODDISH,15,17
+    13,BONSLY,14,16
+    10,DITTO,16,18
+    10,DITTO,15,17
+    10,LOTAD,15,18
+    10,LOTAD,15,17
+    5,BONSLY,14,17
+    1,BONSLY,15
+    1,BONSLY,15,16
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[070] # Route 8 underwater
+Land,21
+    20,CHINCHOU,17,21
+    20,CLAMPERL,18,20
+    20,SHELLDER,18,20
+    10,CLAMPERL,18,19
+    10,CORSOLA,17,20
+    10,RELICANTH,16,19
+    10,SHELLDER,18,19
+#-------------------------------
+[075] # Tiall Region
+Land,21
+    20,GEODUDE_1,11,14
+    20,RATTATA_1,11,14
+    10,CUBONE,11,14
+    10,DIGLETT_1,11,14
+    10,MEOWTH_1,11,14
+    10,PIKACHU,11,14
+    10,SANDSHREW_1,11,14
+    10,VULPIX_1,11,14
+#-------------------------------
+[032] # Route 1 Pre-Gym 1
+Land,21
+    15,PIDGEY,2,6
+    15,HOPPIP,2,4
+    15,LILLIPUP,2,5
+    15,FIDOUGH,3,5
+    10,PAWMI,2,4
+    10,EKANS,2,6
+    7,PETILIL,2,4
+    7,COTTONEE,2,5
+    20,TIMBURR,3,5
+    1,RALTS,3,6
+#-------------------------------
+[032,1] # Route 1 Gym 1 - Gym 2
+Land,21
+    15,LILLIPUP,14,15
+    15,FIDOUGH,13,14
+    15,PAWMI,13,14
+    15,PIDGEY,13,16
+    10,EKANS,14,16
+    10,HOPPIP,12,14
+    7,PETILIL,14,15
+    7,COTTONEE,14,15
+    5,TIMBURR,13,15
+    1,RALTS,12,16
+#-------------------------------
+[032,2] # Route 1 After Gym 2
+Land,21
+    16,HERDIER,19,21
+    16,FIDOUGH,21,23
+    16,PAWMO,20,22
+    12,COTTONEE,20,23
+    11,TIMBURR,21
+    11,WATTREL,20,21
+    6,PETILIL,20,23
+    6,PETILIL_1,20,23
+    6,KIRLIA,20,22
+#-------------------------------
+[079] # Route 2 Pre-Gym 1
+Land,21
+    15,CATERPIE,2,4
+    15,WEEDLE,2,4
+    10,PIDGEY,2,6
+    10,STARLY,3,6
+    10,LILLIPUP,2,5
+    10,IGGLYBUFF,2,4
+    7,SEWADDLE,2,5
+    7,MINCCINO,3,5
+    7,YAMPER,2,4
+    7,MASCHIFF,2,5
+    1,ABRA,3,6
+    1,BUNEARY,3,6
+DarkGrass,21
+    20,AUDINO,4,10
+    15,STARLY,4,8
+    15,MASCHIFF,4,8
+    10,ABRA,5,10
+    10,BUNEARY,4,10
+    5,STUFFUL,3,10
+    5,FOONGUS,4,8
+    5,RALTS,3,9
+SuperRod
+    20,MAGIKARP,1,7
+    20,PSYDUCK,2,4
+    15,LOTAD,2,4
+    15,TYMPOLE,2,7
+    10,POLIWAG,3,6
+    10,BUIZEL,3,7
+    10,WOOPER,2,5
+#-------------------------------
+[079,1] # Route 2 Gym 1 - Gym 2
+Land,21
+    12,PIDGEY,12,16
+    12,STARLY,13,16
+    12,LILLIPUP,14,15
+    11,IGGLYBUFF,13,14
+    8,METAPOD,12,14
+    8,KAKUNA,12,14
+    8,SEWADDLE,12,14
+    8,MINCCINO,13,16
+    8,YAMPER,13,15
+    8,MASCHIFF,14
+    2,ABRA,14,16
+    2,BUNEARY,13,14
+    1,FOONGUS,13,15
+DarkGrass,21
+    19,AUDINO,13,19
+    14,MINCCINO,14,18
+    14,YAMPER,15,17
+    14,HERDIER,15,19
+    9,KADABRA,16,17
+    9,BUNEARY,14,16
+    9,FOONGUS,15,18
+    4,STUFFUL,14,19
+    4,RALTS,14,17
+    2,FLITTLE,15,19
+    2,LITLEO,15,18
+SuperRod
+    20,MAGIKARP,1,16
+    20,TYMPOLE,13,15
+    15,BUIZEL,14
+    15,LOTAD,13,16
+    10,POLIWAG,14,15
+    10,PSYDUCK,13,15
+    10,WOOPER,14,16
+#-------------------------------
+[079,2] # Route 2 After Gym 2
+Land,21
+    13,HERDIER,20,23
+    12,STARAVIA,21,22
+    12,JIGGLYPUFF,19,21
+    12,SWADLOON,20,22
+    8,BEEDRILL,20,21
+    8,BUTTERFREE,20,21
+    8,MINCCINO,21
+    8,MASCHIFF,21,22
+    8,PIDGEOTTO,19,23
+    4,KADABRA,21,23
+    4,BUNEARY,20,21
+    2,FOONGUS,21,23
+    1,FLITTLE,19,22
+DarkGrass,21
+    20,AUDINO,20,25
+    16,STARAVIA,23,24
+    16,SWADLOON,22,24
+    10,KADABRA,23,25
+    10,MASCHIFF,23,24
+    10,FOONGUS,23,25
+    6,FLITTLE,22,23
+    4,STUFFUL,24
+    4,KIRLIA,23,25
+    4,LITLEO,21,25
+SuperRod
+    20,MAGIKARP,1,23
+    20,LOMBRE,20,23
+    15,WOOPER,21,22
+    15,TYMPOLE,19,21
+    10,POLIWAG,21,23
+    10,PSYDUCK,20,21
+    10,BUIZEL,19,22
+#-------------------------------
+[084] # route 3 Pre-Gym 1
+Land,21
+    15,TAILLOW,3,5
+    15,BELLSPROUT,2,5
+    10,CATERPIE,2,6
+    10,WEEDLE,2,6
+    10,SHINX,3,6
+    10,SENTRET,2,5
+    8,SIZZLIPEDE,3,5
+    8,VULPIX,3,6
+    5,NIDORANfE,2,5
+    5,NIDORANmA,2,5
+    2,CHARCADET,2,6
+    2,EEVEE,2,6
+DarkGrass,21
+    15,AUDINO,4,9
+    10,VULPIX,5,9
+    10,SHINX,4,9
+    10,SIZZLIPEDE,6,8
+    10,NIDORANfE,4,8
+    10,NIDORANmA,4,8
+    10,CHARCADET,5,9
+    10,EEVEE,5,9
+    5,RIOLU,5,9
+    5,NATU,4,8
+    5,TOGEPI,4,8
+#-------------------------------
+[084,1] # Route 3 Gym 1 - Gym 2
+Land,21
+    15,TAILLOW,13,16
+    15,BELLSPROUT,12,14
+    10,SHINX,14
+    10,SIZZLIPEDE,13,15
+    10,VULPIX,14,15
+    7,KAKUNA,12,16
+    7,METAPOD,12,16
+    7,SENTRET,13,14
+    5,NIDORANfE,14,15
+    5,NIDORANmA,14,15
+    4,CHARCADET,14
+    4,EEVEE,13,15
+    1,NATU,14,16
+DarkGrass,21
+    15,AUDINO,13,19
+    15,LUXIO,16,19
+    15,CHARCADET,16,17
+    10,VULPIX,15,17
+    10,SIZZLIPEDE,15,18
+    10,EEVEE,15,17
+    5,NIDORINA,16,18
+    5,NIDORINO,16,18
+    5,RIOLU,17,19
+    5,NATU,16,18
+    5,TOGEPI,15,19
+#-------------------------------
+[084,2] # Route 3 After Gym 2
+Land,21
+    16,LUXIO,20,23
+    12,TAILLOW,20,21
+    12,SIZZLIPEDE,21,22
+    10,WEEPINBELL,21,23
+    10,VULPIX,20,22
+    10,CHARCADET,21,23
+    5,NIDORINA,20,22
+    5,NIDORINO,20,22
+    3,BEEDRILL,19,22
+    3,BUTTERFREE,19,22
+    3,NATU,21,22
+    1,TOGEPI,19,23
+DarkGrass,21
+    15,AUDINO,20,25
+    15,LUXIO,22,25
+    15,EEVEE,23,24
+    12,VULPIX,22,23
+    12,CHARCADET,23,24
+    8,NATU,23,24
+    8,TOGEPI,21,25
+    5,RIOLU,23
+    5,TEDDIURSA,19,24
+    5,SCYTHER,21,25
+#-------------------------------
+[078] # Route 4 Pre-Gym 1
+Land,21
+    10,ZIGZAGOON,3,8
+    10,ELECTRIKE,3,7
+    10,ROOKIDEE,4,8
+    10,FLETCHLING,3,8
+    10,DEERLING,3,7
+    10,SENTRET,4,7
+    10,SKIDDO,3,7
+    6,BLIPBUG,3,6
+    5,MIENFOO,4,8
+    5,EKANS,3,6
+    5,GROWLITHE,3,7
+    4,NIDORANfE,4,8
+    4,NIDORANmA,4,8
+    1,RIOLU,5,8
+DarkGrass,21
+    100,AUDINO,1
+#-------------------------------
+[078,1] # Route 4 Gym 1 - Gym 2
+Land,21
+    12,ROOKIDEE,13,16
+    12,FLETCHLING,12,15
+    12,ELECTRIKE,14,16
+    12,DEERLING,13,15
+    12,SKIDDO,12,14
+    7,SENTRET,14
+    7,ZIGZAGOON,13,14
+    4,GROWLITHE,14,15
+    4,MIENFOO,15
+    4,EKANS,13,15
+    4,DOTTLER,14,16
+    4,NIDORANfE,13,15
+    4,NIDORANmA,13,15
+    1,RIOLU,14,16
+    1,BOUNSWEET,14,16
+DarkGrass,21
+    20,AUDINO,13,19
+    19,ROOKIDEE,15,19
+    19,FURRET,16
+    14,GROWLITHE,15,17
+    14,MIENFOO,16,18
+    5,RIOLU,17,18
+    5,BOUNSWEET,16,17
+    1,FLITTLE,16,19
+    1,BRAMBLIN,15,17
+    1,CUTIEFLY,14,19
+    1,TANDEMAUS,16,18
+#-------------------------------
+[078,2] # Route 4 After Gym 2
+Land,21
+    10,CORVISQUIRE,19,22
+    10,FLETCHINDER,21
+    10,ELECTRIKE,20,21
+    10,GROWLITHE,21,22
+    8,MIENFOO,21,23
+    8,DEERLING,20,22
+    8,SKIDDO,21
+    7,DOTTLER,19,21
+    6,LINOONE,20,23
+    6,FURRET,19,22
+    4,NIDORINA,20,22
+    4,NIDORINO,20,22
+    4,RIOLU,20,23
+    4,STEENEE,21,22
+    1,FLITTLE,19,23
+DarkGrass,21
+    20,AUDINO,20,25
+    14,FLETCHINDER,23,24
+    14,MIENFOO,23,25
+    14,ELECTRIKE,22,23
+    9,DEERLING,22,24
+    9,RIOLU,22,25
+    9,STEENEE,23,24
+    5,FLITTLE,22,24
+    2,BRAMBLIN,21,23
+    2,CUTIEFLY,23,24
+    2,TANDEMAUS,22,25
+#-------------------------------
+[094] # Route 5 Pre-Gym 1
+Land,21
+    15,SENTRET,4,6
+    15,BLIPBUG,4,6
+    15,FLETCHLING,4,7
+    10,VULPIX,3,6
+    10,DEERLING,3,6
+    10,NATU,3,7
+    10,SCRAGGY,5,6
+    4,TINKATINK,4,7
+    4,SHUPPET,4,6
+    4,RALTS,5,7
+    1,PANSAGE,4,6
+    1,PANSEAR,4,6
+    1,PANPOUR,4,6
+DarkGrass,21
+    20,AUDINO,3,8
+    15,SCRAGGY,6,7
+    15,NATU,4,8
+    10,TINKATINK,4,8
+    10,SHUPPET,5,7
+    10,RALTS,6,8
+    5,SHROOMISH,5,7
+    5,MIENFOO,6,8
+    5,PAWMI,5,7
+    5,BUNNELBY,4,7
+#-------------------------------
+[094,1] # Route 5 Gym 1 - Gym 2
+Land,21
+    15,FLETCHLING,13,16
+    15,DOTTLER,14
+    15,NATU,13,15
+    9,SENTRET,12,16
+    9,VULPIX,13,15
+    9,DEERLING,14,15
+    9,SCRAGGY,13,15
+    5,TINKATINK,13,14
+    5,SHUPPET,14
+    5,RALTS,14,16
+    2,SHROOMISH,12,16
+    2,NYMBLE,11,15
+DarkGrass,21
+    19,AUDINO,13,19
+    14,SCRAGGY,16,18
+    14,NATU,15,17
+    10,TINKATINK,16,17
+    10,RALTS,16,17
+    10,NYMBLE,17
+    7,SHROOMISH,15,18
+    7,BUNNELBY,15,17
+    4,MIENFOO,15,18
+    4,PAWMI,16,19
+    1,SCYTHER,15,19
+#-------------------------------
+[094,2] # Route 5 After Gym 2
+Land,21
+    12,FLETCHINDER,20,22
+    12,NATU,21
+    12,VULPIX,20,21
+    9,TINKATINK,21,23
+    9,SCRAGGY,20,22
+    8,DOTTLER,20,21
+    8,DEERLING,20,21
+    6,FURRET,21
+    6,KIRLIA,21,22
+    6,SHROOMISH,20,21
+    4,SHUPPET,20,23
+    4,BUNNELBY,21
+    4,NYMBLE,19,23
+DarkGrass,21
+    19,AUDINO,20,25
+    14,TINKATUFF,24
+    14,KIRLIA,23,24
+    10,SCRAGGY,22,24
+    10,NATU,23,24
+    10,NYMBLE,22,25
+    7,SHROOMISH,22,23
+    7,BUNNELBY,24
+    4,MIENFOO,23,24
+    4,PAWMO,21,25
+    1,SCYTHER,24
+#-------------------------------
+[112] # Route 6 Pre-Gym 1
+Land,21
+    24,STARLY,4,7
+    23,TAILLOW,5,8
+    12,MINCCINO,4,8
+    12,SKITTY,4,6
+    6,ESPURR,3,7
+    6,TRUBBISH,5,7
+    6,KOFFING,5,7
+    6,SCRAGGY,6,8
+    2,SOLOSIS,4,8
+    2,BUNEARY,5,7
+    1,MANKEY,5,7
+DarkGrass,21
+    20,AUDINO,5,10
+    15,ESPURR,5,9
+    15,SCRAGGY,8,10
+    15,SOLOSIS,6,10
+    15,BUNEARY,7,9
+    10,KOFFING,7,9
+    5,MANKEY,7,9
+    1,VAROOM,6,8
+    1,CHARCADET,7,10
+    1,HATENNA,6,9
+    1,PAWNIARD,7,10
+    1,TANDEMAUS,7,9
+#-------------------------------
+[112,1] # Route 6 Gym 1 - Gym 2
+Land,21
+    15,MINCCINO,14
+    15,STARLY,13,15
+    15,TAILLOW,14,15
+    8,ESPURR,13,16
+    8,SKITTY,13
+    8,TRUBBISH,13,15
+    8,KOFFING,14,15
+    8,SCRAGGY,13,15
+    8,SOLOSIS,14,16
+    3,BUNEARY,15
+    3,MANKEY,14,16
+    1,HATENNA,12,16
+DarkGrass,21
+    20,AUDINO,13,19
+    15,ESPURR,16,18
+    15,SCRAGGY,15,17
+    15,SOLOSIS,16,17
+    11,KOFFING,17
+    11,BUNEARY,16,18
+    6,MANKEY,16,18
+    3,HATENNA,15,18
+    1,VAROOM,14,19
+    1,CHARCADET,17
+    1,PAWNIARD,15,18
+    1,TANDEMAUS,15,19
+#-------------------------------
+[112,2] # Route 6 After Gym 2
+Land,21
+    14,ESPURR,19,23
+    14,STARAVIA,20,22
+    14,MINCCINO,21
+    10,TAILLOW,21,22
+    10,SOLOSIS,20,22
+    10,SCRAGGY,20,23
+    6,MANKEY,21
+    6,BUNEARY,21,23
+    6,TRUBBISH,19,22
+    6,KOFFING,19,21
+    3,HATENNA,21,22
+    1,PAWNIARD,20,23
+DarkGrass,21
+    20,AUDINO,20,25
+    15,STARAVIA,22,24
+    15,ESPURR,22,25
+    10,SCRAGGY,24
+    10,SOLOSIS,23,24
+    8,BUNEARY,23
+    8,MANKEY,22,23
+    6,HATENNA,23,24
+    2,VAROOM,21,24
+    2,CHARCADET,22,25
+    2,PAWNIARD,23,25
+    2,TANDEMAUS,21,24
+#-------------------------------
+[042] # Route 7 Pre-Gym 1
+Land,21
+    17,SKITTY,5,7
+    16,BLIPBUG,4,7
+    16,FLETCHLING,3,6
+    16,ELECTRIKE,4,6
+    10,ROOKIDEE,4,7
+    10,GROWLITHE,4,6
+    5,TINKATINK,5,7
+    2,DEERLING,4,6
+    2,FOMANTIS,3,6
+    2,HELIOPTILE,4,7
+    2,CUBONE,2,5
+    2,MIENFOO,4,7
+DarkGrass,21
+    16,AUDINO,5,8
+    12,ROOKIDEE,5,8
+    12,GROWLITHE,5,7
+    12,FLETCHLING,4,7
+    8,TINKATINK,6,8
+    8,FOMANTIS,4,7
+    8,HELIOPTILE,5,8
+    8,CUBONE,4,7
+    8,MIENFOO,5,8
+    2,ROCKRUFF,4,8
+    2,NACLI,4,7
+    2,DWEBBLE,5,8
+    2,MANKEY,5,7
+SuperRod
+    20,MAGIKARP,1,8
+    20,GOLDEEN,5,7
+    20,CHEWTLE,4,7
+    20,SURSKIT,5,8
+    10,STARYU,4,8
+    10,FINIZEN,5,8
+Water,4
+    100,MAGIKARP,1
+#-------------------------------
+[042,1] # Route 7 Gym 1 - Gym 2
+Land,21
+    15,FLETCHLING,14,16
+    15,GROWLITHE,15
+    15,ROOKIDEE,14,15
+    15,ELECTRIKE,13,15
+    8,SKITTY,13,14
+    8,DOTTLER,12,14
+    8,TINKATINK,14,15
+    3,FOMANTIS,13,15
+    3,DEERLING,14,15
+    3,HELIOPTILE,14
+    3,CUBONE,13,16
+    3,MIENFOO,14,16
+    1,MANKEY,13,15
+DarkGrass,21
+    16,AUDINO,13,19
+    11,ROOKIDEE,16,18
+    11,GROWLITHE,16,19
+    11,FLETCHLING,15,18
+    8,TINKATINK,16,17
+    8,FOMANTIS,15,17
+    8,HELIOPTILE,16,17
+    8,CUBONE,15,18
+    8,MIENFOO,16,18
+    5,MANKEY,15,18
+    2,ROCKRUFF,14,19
+    2,NACLI,14,18
+    2,DWEBBLE,15,19
+SuperRod
+    20,MAGIKARP,1,16
+    20,CHEWTLE,14,15
+    15,GOLDEEN,12,15
+    15,STARYU,14
+    15,SURSKIT,13,14
+    10,FINIZEN,14,16
+    5,CLAUNCHER,13,15
+#-------------------------------
+[042,2] # Route 7 After Gym 2
+Land,21
+    14,FLETCHINDER,20,22
+    14,CORVISQUIRE,21,23
+    14,ELECTRIKE,19,21
+    10,TINKATINK,20,21
+    10,DOTTLER,19,21
+    7,GROWLITHE,21,23
+    7,GROWLITHE_1,21,23
+    4,FOMANTIS,21
+    4,DEERLING,20,21
+    4,HELIOPTILE,20,22
+    4,MIENFOO,21,22
+    3,CUBONE,20,23
+    3,CUBONE_1,20,23
+    2,MANKEY,19,23
+DarkGrass,21
+    15,AUDINO,20,25
+    12,CORVISQUIRE,23,25
+    12,FLETCHINDER,22,24
+    8,TINKATINK,22,23
+    8,HELIOPTILE,23,24
+    8,MIENFOO,23,24
+    6,GROWLITHE,23,25
+    6,GROWLITHE_1,23,25
+    5,MANKEY,21,24
+    4,CUBONE,22,25
+    4,CUBONE_1,22,25
+    4,ROCKRUFF,23
+    4,NACLI,20,25
+    4,DWEBBLE,22,24
+SuperRod
+    20,MAGIKARP,1,23
+    20,STARYU,20,22
+    15,CHEWTLE,21,23
+    15,SURSKIT,21
+    15,FINIZEN,20,22
+    10,CLAUNCHER,21,22
+    5,BARBOACH,19,23
+#-------------------------------
+[105] # Route 8 Pre-Gym 1
+Land,21
+    13,GOSSIFLEUR,4,8
+    13,BOUNSWEET,5,7
+    13,ODDISH,5,8
+    13,COMBEE,3,6
+    8,BUDEW,4,7
+    8,CHERUBI,3,7
+    8,WATTREL,3,7
+    8,EXEGGCUTE,5,7
+    8,DEERLING,4,8
+    2,FLABEBE,5,8
+    2,PETILIL,4,7
+    2,COTTONEE,4,7
+    2,CUTIEFLY,4,8
+DarkGrass,21
+    20,AUDINO,6,9
+    20,BELLSPROUT,5,8
+    10,GOSSIFLEUR,5,9
+    10,BOUNSWEET,6,8
+    10,WATTREL,5,8
+    6,FLABEBE,6,9
+    6,PETILIL,5,8
+    6,COTTONEE,5,8
+    6,CUTIEFLY,5,9
+    3,TANDEMAUS,6,8
+    3,FLITTLE,6,8
+SuperRod
+    20,MAGIKARP,1,9
+    15,FEEBAS,1,9
+    15,CHINCHOU,5,8
+    15,TYNAMO,6,9
+    15,DEWPIDER,6,8
+    10,STARYU,5,8
+    10,FINIZEN,6,8
+Water,4
+    100,MAGIKARP,1
+#-------------------------------
+[105,1] # Route 8 Gym 1 - Gym 2
+Land,21
+    14,GOSSIFLEUR,14,15
+    14,BOUNSWEET,14
+    14,ODDISH,13,15
+    10,BUDEW,13,14
+    10,WATTREL,14,16
+    8,EXEGGCUTE,13,15
+    8,DEERLING,13,14
+    5,COMBEE,12,14
+    5,CHERUBI,13,14
+    3,FLABEBE,13,16
+    3,PETILIL,13,15
+    3,COTTONEE,13,15
+    3,CUTIEFLY,13,16
+DarkGrass,21
+    19,AUDINO,13,19
+    19,BELLSPROUT,14,18
+    10,GOSSIFLEUR,16,18
+    10,BOUNSWEET,16,17
+    8,WATTREL,16,18
+    6,FLABEBE,15,18
+    6,DEERLING,15,17
+    6,CUTIEFLY,15,18
+    3,TANDEMAUS,16,18
+    3,FLITTLE,15,19
+SuperRod
+    20,MAGIKARP,1,16
+    15,FEEBAS,1,16
+    15,CHINCHOU,15
+    15,TYNAMO,13,15
+    15,DEWPIDER,13,14
+    10,STARYU,13,16
+    10,FINIZEN,14,15
+#-------------------------------
+[105,2] # Route 8 After Gym 2
+Land,21
+    15,WATTREL,20,23
+    12,STEENEE,21
+    12,GOSSIFLEUR,20,22
+    11,ODDISH,21,22
+    11,BUDEW,19,20
+    8,DEERLING,21
+    8,FLOETTE,21,22
+    6,EXEGGCUTE,20,23
+    6,EXEGGCUTE_1,20,23
+    4,COTTONEE,21,23
+    2,PETILIL,21,23
+    2,PETILIL_1,21,23
+    2,CUTIEFLY,20,22
+    1,TANDEMAUS,20,23
+DarkGrass,21
+    20,AUDINO,20,25
+    20,WEEPINBELL,22,24
+    11,STEENEE,23,25
+    11,WATTREL,22,24
+    11,GLOOM,23,24
+    6,FLOETTE,23,24
+    6,CUTIEFLY,22,24
+    6,TANDEMAUS,21,25
+    6,FLITTLE,23,24
+    3,APPLIN,20,24
+SuperRod
+    20,MAGIKARP,1,23
+    15,FEEBAS,1,23
+    15,CHINCHOU,21
+    15,TYNAMO,20,22
+    15,DEWPIDER,21,23
+    10,STARYU,21,22
+    10,FINIZEN,20,22
+#-------------------------------
+[110] # Route 9 Pre-Gym 1
+Land,21
+    14,BELLSPROUT,5,8
+    14,PICHU,3,8
+    14,EXEGGCUTE,5,7
+    8,MAGNEMITE,5,8
+    7,WATTREL,3,7
+    7,HELIOPTILE,4,7
+    7,BLITZLE,6,8
+    7,MAREEP,5,7
+    7,SHINX,4,7
+    7,TADBULB,5,7
+    2,COTTONEE,4,7
+    2,PETILIL,4,7
+    2,PLUSLE,5,6
+    2,MINUN,5,6
+DarkGrass,21
+    19,AUDINO,6,9
+    16,TADBULB,6,8
+    16,ODDISH,5,8
+    10,PICHU,3,9
+    10,HELIOPTILE,5,8
+    10,SHINX,5,8
+    10,BLITZLE,6,9
+    3,GRUBBIN,5,8
+    3,EMOLGA,6,8
+    3,DEDENNE,6,8
+#-------------------------------
+[110,1] # Route 9 Gym 1 - Gym 2
+Land,21
+    14,BELLSPROUT,13,14
+    14,PICHU,12,16
+    14,EXEGGCUTE,14,15
+    7,MAGNEMITE,14
+    7,TADBULB,13,14
+    7,HELIOPTILE,14,15
+    7,BLITZLE,13,15
+    7,MAREEP,13,14
+    7,SHINX,14
+    6,WATTREL,13,14
+    2,GRUBBIN,12,16
+    2,EMOLGA,14,15
+    2,DEDENNE,14,15
+    2,COTTONEE,13,14
+    2,PETILIL,13,14
+DarkGrass,21
+    19,AUDINO,13,19
+    16,MAGNEMITE,16,17
+    16,ODDISH,15,18
+    10,PICHU,16,19
+    10,TADBULB,15,16
+    10,MAREEP,15,17
+    10,SHINX,16,17
+    3,GRUBBIN,15,19
+    3,EMOLGA,15,19
+    3,DEDENNE,16,18
+#-------------------------------
+[110,2] # Route 9 After Gym 2
+Land,21
+    14,WEEPINBELL,21,22
+    8,FLAAFFY,20,23
+    8,LUXIO,21,22
+    7,PICHU,20,23
+    7,PICHU_1,20,23
+    7,EXEGGCUTE,21,22
+    7,EXEGGCUTE_1,21,22
+    6,HELIOPTILE,19,21
+    6,BLITZLE,21
+    6,MAGNEMITE,20,22
+    6,TADBULB,21
+    6,WATTREL,21,22
+    4,CHARJABUG,21,23
+    4,EMOLGA,21,22
+    4,DEDENNE,21,22
+DarkGrass,21
+    19,AUDINO,20,25
+    16,MAGNEMITE,20,23
+    16,GLOOM,23
+    10,TADBULB,23,25
+    10,FLAAFFY,22,24
+    10,LUXIO,23,24
+    5,PICHU,23,25
+    5,PICHU_1,23,25
+    5,CHARJABUG,23,24
+    5,EMOLGA,24
+    5,DEDENNE,24
+#-------------------------------
+[111] # Route 8-9 Middle part Pre-Gym 1
+Land,21
+    14,BELLSPROUT,5,8
+    14,PICHU,3,8
+    14,EXEGGCUTE,5,7
+    8,MAGNEMITE,5,8
+    7,WATTREL,3,7
+    7,HELIOPTILE,4,7
+    7,BLITZLE,6,8
+    7,MAREEP,5,7
+    7,SHINX,4,7
+    7,TADBULB,5,7
+    2,COTTONEE,4,7
+    2,PETILIL,4,7
+    2,PLUSLE,5,6
+    2,MINUN,5,6
+DarkGrass,21
+    19,AUDINO,6,9
+    16,TADBULB,6,8
+    16,ODDISH,5,8
+    10,PICHU,3,9
+    10,HELIOPTILE,5,8
+    10,SHINX,5,8
+    10,BLITZLE,6,9
+    3,GRUBBIN,5,8
+    3,EMOLGA,6,8
+    3,DEDENNE,6,8
+#-------------------------------
+[111,1] # Route 8-9 middle part Gym 1 - Gym 2
+Land,21
+    14,BELLSPROUT,13,14
+    14,PICHU,12,16
+    14,EXEGGCUTE,14,15
+    7,MAGNEMITE,14
+    7,TADBULB,13,14
+    7,HELIOPTILE,14,15
+    7,BLITZLE,13,15
+    7,MAREEP,13,14
+    7,SHINX,14
+    6,WATTREL,13,14
+    2,GRUBBIN,12,16
+    2,EMOLGA,14,15
+    2,DEDENNE,14,15
+    2,COTTONEE,13,14
+    2,PETILIL,13,14
+DarkGrass,21
+    19,AUDINO,13,19
+    16,MAGNEMITE,16,17
+    16,ODDISH,15,18
+    10,PICHU,16,19
+    10,TADBULB,15,16
+    10,MAREEP,15,17
+    10,SHINX,16,17
+    3,GRUBBIN,15,19
+    3,EMOLGA,15,19
+    3,DEDENNE,16,18
+#-------------------------------
+[111,2] # Route 8-9 middle part After Gym 2
+Land,21
+    14,WEEPINBELL,21,22
+    8,FLAAFFY,20,23
+    8,LUXIO,21,22
+    7,PICHU,20,23
+    7,PICHU_1,20,23
+    7,EXEGGCUTE,21,22
+    7,EXEGGCUTE_1,21,22
+    6,HELIOPTILE,19,21
+    6,BLITZLE,21
+    6,MAGNEMITE,20,22
+    6,TADBULB,21
+    6,WATTREL,21,22
+    4,CHARJABUG,21,23
+    4,EMOLGA,21,22
+    4,DEDENNE,21,22
+DarkGrass,21
+    19,AUDINO,20,25
+    16,MAGNEMITE,20,23
+    16,GLOOM,23
+    10,TADBULB,23,25
+    10,FLAAFFY,22,24
+    10,LUXIO,23,24
+    5,PICHU,23,25
+    5,PICHU_1,23,25
+    5,CHARJABUG,23,24
+    5,EMOLGA,24
+    5,DEDENNE,24
+#-------------------------------
+[089] # Route 10 Pre-Gym 1
+Land,21
+    15,VULPIX,4,7
+    15,SKIDDO,5,7
+    15,SIZZLIPEDE,4,6
+    10,NIDORANfE,5,6
+    10,NIDORANmA,5,6
+    10,DIGLETT,4,5
+    5,SKORUPI,4,6
+    5,NACLI,4,6
+    5,ROCKRUFF,5,7
+    5,MUDBRAY,5,6
+    5,CHARCADET,4,7
+DarkGrass,21
+    20,AUDINO,6,9
+    15,SKIDDO,6,8
+    10,SKORUPI,5,9
+    10,ROCKRUFF,6,8
+    10,MUDBRAY,6,8
+    10,CHARCADET,5,8
+    5,APPLIN,6,9
+    5,SHINX,7,9
+    5,RIOLU,5,8
+    5,EEVEE,6,8
+#-------------------------------
+[089,1] # Route 10 Gym 1 - Gym 2
+Land,21
+    16,SKIDDO,13,15
+    16,SIZZLIPEDE,14,16
+    10,NIDORANfE,14,15
+    10,NIDORANmA,14,15
+    10,VULPIX,13,15
+    8,SKORUPI,14,16
+    8,ROCKRUFF,14
+    5,NACLI,13,16
+    5,DIGLETT,13,14
+    5,MUDBRAY,14,15
+    5,CHARCADET,15
+    2,RIOLU,12,16
+DarkGrass,21
+    19,AUDINO,13,19
+    14,SIZZLIPEDE,16,18
+    10,SKORUPI,16,19
+    10,ROCKRUFF,16,17
+    10,MUDBRAY,16,17
+    10,CHARCADET,17,18
+    7,RIOLU,16,19
+    5,LUXIO,15,19
+    5,APPLIN,13,19
+    5,SMOLIV,16
+    5,EEVEE,14,19
+#-------------------------------
+[089,2] # Route 10 After Gym 2
+Land,21
+    15,SIZZLIPEDE,19,22
+    10,NIDORINA,21,23
+    10,NIDORINO,21,23
+    10,SKIDDO,19,21
+    10,VULPIX,21,22
+    8,SKORUPI,22
+    8,ROCKRUFF,21,23
+    6,NACLI,19,22
+    6,MUDBRAY,21
+    6,CHARCADET,22,23
+    6,RIOLU,21,22
+    5,DIGLETT,19,21
+DarkGrass,21
+    19,AUDINO,20,25
+    14,SIZZLIPEDE,22,24
+    10,SKORUPI,23,25
+    10,ROCKRUFF,24
+    10,MUDBRAY,23,24
+    10,CHARCADET,24,25
+    7,RIOLU,23,24
+    5,LUXIO,22,24
+    5,APPLIN,21
+    5,SMOLIV,22,25
+    5,EEVEE,23
+#-------------------------------
+[114] # Route 11 Pre-Gym 1
+Land,21
+    15,RATTATA,4,9
+    15,HOPPIP,4,7
+    15,WINGULL,4,8
+    15,BIDOOF,5,9
+    8,TADBULB,5,7
+    8,YANMA,6,9
+    6,SOLOSIS,5,8
+    6,WIMPOD,3,7
+    4,INKAY,4,8
+    4,DEWPIDER,4,9
+    4,DODUO,4,8
+SuperRod
+    20,MAGIKARP,1,10
+    20,FEEBAS,1,10
+    15,SURSKIT,4,8
+    15,HORSEA,5,8
+    10,CARVANHA,5,8
+    10,TYNAMO,5,9
+    5,SKRELP,5,8
+    5,BASCULIN,4,8
+#-------------------------------
+[114,1] # Route 11 Gym 1 - Gym 2
+Land,21
+    15,RATTATA,13,15
+    15,WINGULL,14,16
+    15,BIDOOF,14,15
+    10,TADBULB,14
+    10,YANMA,13,16
+    9,HOPPIP,12,14
+    6,DODUO,15
+    6,SOLOSIS,13,16
+    6,WIMPOD,13,14
+    4,INKAY,14,15
+    4,DEWPIDER,14,16
+SuperRod
+    20,MAGIKARP,1,16
+    20,FEEBAS,1,16
+    15,BASCULIN,15,16
+    15,SURSKIT,14
+    10,HORSEA,13,15
+    10,SKRELP,14,15
+    5,TYNAMO,13,14
+    5,CARVANHA,14,16
+#-------------------------------
+[114,2] # Route 11 after Gym 2
+Land,21
+    16,BIBAREL,21
+    16,WINGULL,21,22
+    12,YANMA,22
+    8,TADBULB,20,21
+    8,SOLOSIS,20,23
+    8,RATTATA,21,23
+    8,RATTATA_1,21,23
+    7,SKIPLOOM,19,23
+    7,INKAY,22
+    5,DEWPIDER,20,23
+    5,DODUO,22
+SuperRod
+    20,MAGIKARP,1,16
+    20,FEEBAS,1,16
+    15,SKRELP,15,16
+    15,HORSEA,14
+    5,BASCULIN,13,15
+    5,BASCULIN_2,13,15
+    10,TYNAMO,14,15
+    5,SURSKIT,13,14
+    5,CARVANHA,14,16
+#-------------------------------
+[103] # Blossea Town Pre-Gym 1
+Land,21
+    15,BUDEW,5,8
+    15,CHERUBI,5,7
+    10,HOPPIP,4,7
+    10,COMBEE,3,6
+    10,GOSSIFLEUR,3,7
+    10,BOUNSWEET,5,7
+    10,FLABEBE,4,8
+    10,DEERLING,4,7
+    5,CUTIEFLY,5,8
+    5,ODDISH,4,7
+#-------------------------------
+[103,1] # Blossea Town Gym 1 - Gym 2
+Land,21
+    15,BOUNSWEET,14,16
+    15,FLABEBE,14,15
+    10,BUDEW,14,15
+    10,CHERUBI,12,14
+    10,COMBEE,13
+    10,CUTIEFLY,13,16
+    10,GOSSIFLEUR,14,15
+    10,HOPPIP,12,16
+    5,DEERLING,15
+    5,ODDISH,13,14
+#-------------------------------
+[103,2] # Blossea Town After Gym 2
+Land,21
+    15,STEENEE,20,23
+    15,FLOETTE,22
+    10,BUDEW,19,21
+    10,CHERUBI,20,21
+    10,CUTIEFLY,21,22
+    10,GOSSIFLEUR,22,23
+    10,DEERLING,20,21
+    10,GLOOM,22,23
+    5,SKIPLOOM,20,21
+    5,COMBEE,19,22
+#-------------------------------
+[108] # NE Cave 1F Pre-Gym 1
+Cave,5
+    13,ZUBAT,4,7
+    13,ARON,5,8
+    13,ROGGENROLA,4,7
+    10,SANDSHREW,5,7
+    10,CUBONE,5,8
+    10,TRAPINCH,5,8
+    10,ROCKRUFF,5,7
+    10,DWEBBLE,4,6
+    3,DRILBUR,6,8
+    3,RIOLU,4,7
+    2,NACLI,5,7
+    2,BELDUM,5,8
+    1,MAWILE,5,7
+#-------------------------------
+[108,1] # NE Cave 1F Gym 1 - Gym 2
+Cave,5
+    13,ZUBAT,14
+    13,TRAPINCH,14,16
+    10,DWEBBLE,13,15
+    10,ARON,15
+    10,CUBONE,13,16
+    8,ROCKRUFF,15
+    8,DRILBUR,14,16
+    8,ROGGENROLA,14
+    5,RIOLU,14,15
+    5,SANDSHREW,13
+    3,NACLI,13,14
+    3,BELDUM,14,15
+    3,MAWILE,13,16
+    1,JANGMOO,15
+#-------------------------------
+[108,2] # NE Cave 1f after Gym 2
+Cave,5
+    10,ARON,19,22
+    10,TRAPINCH,21
+    8,ZUBAT,20,23
+    8,DWEBBLE,21,22
+    8,DRILBUR,20,22
+    8,SANDSHREW,22,23
+    8,METANG,20,22
+    8,ROCKRUFF,20,21
+    5,ROGGENROLA,21,22
+    5,MAWILE,22
+    5,RIOLU,21
+    5,NACLI,19,21
+    4,CUBONE,19,23
+    4,CUBONE_1,19,23
+    4,JANGMOO,21,22
+#-------------------------------
+[109] # NE Cave 2F Pre-Gym 1
+Cave,5
+    13,NOIBAT,5,8
+    13,ARON,6,9
+    13,ROGGENROLA,5,8
+    10,GEODUDE,6,9
+    10,DIGLETT,6,8
+    10,TRAPINCH,6,9
+    10,ROCKRUFF,6,8
+    10,DWEBBLE,5,7
+    3,SKORUPI,7,9
+    3,GIBLE,5,8
+    2,FERROSEED,6,8
+    2,LARVITAR,6,9
+    1,SABLEYE,6,8
+SuperRod
+    1,MAGIKARP,1
+Water,4
+    1,MAGIKARP,1
+#-------------------------------
+[109,1] # NE Cave 2F Gym 1 - Gym 2
+Cave,5
+    13,NOIBAT,14
+    13,GEODUDE,14,16
+    10,ROCKRUFF,13,15
+    10,ROGGENROLA,15
+    10,TRAPINCH,13,16
+    8,DWEBBLE,15
+    8,DIGLETT,14,16
+    8,ARON,14
+    5,GIBLE,14,15
+    5,SKORUPI,13
+    3,FERROSEED,13,14
+    3,LARVITAR,14,15
+    3,SABLEYE,13,16
+    1,BAGON,15
+#-------------------------------
+[109,2] # NE Cave 2F After Gym 2
+Cave,5
+    10,ROGGENROLA,19,22
+    10,DWEBBLE,21
+    8,NOIBAT,20,23
+    8,TRAPINCH,21,22
+    8,SKORUPI,20,22
+    8,ROCKRUFF,22,23
+    8,ARON,20,22
+    8,DIGLETT,20,21
+    5,LARVITAR,21,22
+    5,SABLEYE,22
+    5,GIBLE,21
+    5,FERROSEED,19,21
+    4,GEODUDE,19,23
+    4,GEODUDE_1,19,23
+    4,BAGON,21,22
+#-------------------------------
+[022] # Central Plaza Pre-Gym 1
+Land,21
+    10,PIDGEY,3,7
+    10,EKANS,4,7
+    10,ZIGZAGOON,4,6
+    10,SENTRET,3,6
+    10,ELECTRIKE,4,7
+    8,YAMPER,3,6
+    8,FLETCHLING,3,5
+    8,ROOKIDEE,4,5
+    8,GROWLITHE,3,5
+    8,BLIPBUG,2,5
+    6,TINKATINK,4,7
+    1,PANSAGE,2,6
+    1,PANSEAR,2,6
+    1,PANPOUR,2,6
+    1,TOGEPI,3,6
+SuperRod
+    25,MAGIKARP,1,7
+    20,GOLDEEN,2,4
+    15,SURSKIT,2,5
+    15,REMORAID,2,7
+    10,CLAUNCHER,3,6
+    10,CORPHISH,3,7
+    5,SHELLDER,2,5
+Water,4
+    1,MAGIKARP,1
+#-------------------------------
+[022,1] # Central Plaza Gym 1 - Gym 2
+Land,21
+    10,ZIGZAGOON,13,15
+    10,SENTRET,12,14
+    10,ELECTRIKE,14,15
+    10,YAMPER,14,16
+    10,DOTTLER,13,16
+    8,PIDGEY,13
+    8,EKANS,13,14
+    7,GROWLITHE,15,16
+    7,FLETCHLING,14,15
+    7,ROOKIDEE,13,15
+    7,TINKATINK,15
+    3,TOGEPI,13,16
+    1,PANSAGE,13,14
+    1,PANSEAR,13,14
+    1,PANPOUR,13,14
+SuperRod
+    20,MAGIKARP,1,16
+    20,CLAUNCHER,14,15
+    15,SURSKIT,14
+    15,CORPHISH,13,16
+    10,REMORAID,13,14
+    10,GOLDEEN,13
+    5,SHELLDER,15
+    5,TENTACOOL,14,16
+#-------------------------------
+[022,2] # Central Plaza After Gym 2
+Land,21
+    12,GROWLITHE,21
+    12,ELECTRIKE,20,21
+    12,YAMPER,19,22
+    12,DOTTLER,19,22
+    10,FLETCHINDER,21,23
+    19,CORVISQUIRE,22
+    8,TINKATINK,21,23
+    7,LINOONE,20,22
+    7,FURRET,19,22
+    5,TOGEPI,20,23
+    2,CUFANT,20,21
+    2,TOEDSCOOL,21,22
+    1,SCYTHER,21,23
+SuperRod
+    20,MAGIKARP,1,23
+    20,CORPHISH,21,22
+    15,TENTACOOL,22
+    15,CLAUNCHER,20,23
+    10,SURSKIT,22
+    10,SHELLDER,21,23
+    10,REMORAID,21
+#-------------------------------
+[086] # Coastide Town Pre-Gym 1
+Land,21
+    15,EXEGGCUTE,4,7
+    15,DUCKLETT,5,8
+    10,AZURILL,4,6
+    10,SANDYGAST,4,7
+    10,WIMPOD,6,8
+    10,SLOWPOKE,5,7
+    5,WOOPER,5,7
+    5,WATTREL,5,8
+    5,BINACLE,5,7
+    5,PSYDUCK,4,7
+    5,WIGLETT,5,8
+    2,MAREANIE,5,7
+    2,DEWPIDER,4,7
+    1,KRABBY,5,7
+SuperRod
+    24,REMORAID,5,9
+    24,MANTYKE,4,7
+    24,SKRELP,6,9
+    20,DEWPIDER,5,8
+    20,MAREANIE,4,8
+    20,BARBOACH,4,7
+    20,CHINCHOU,4,9
+    16,KRABBY,6,8
+    16,FRILLISH,4,8
+    6,HORSEA,5,9
+    6,STARYU,4,7
+    2,QWILFISH,5,8
+    2,BASCULIN_1,5,8
+Water,4
+    1,BASCULIN,1
+#-------------------------------
+[086,1] # Coastide Town Gym 1 - Gym 2
+Land,21
+    12,EXEGGCUTE,14
+    12,SANDYGAST,13,16
+    8,DUCKLETT,13,14
+    8,AZURILL,12,14
+    8,WIMPOD,12,15
+    8,SLOWPOKE,14,15
+    6,WOOPER,13,16
+    6,WATTREL,13,14
+    6,BINACLE,14,15
+    6,DEWPIDER,13,15
+    6,MAREANIE,14
+    4,KRABBY,15
+    4,PSYDUCK,13,14
+    4,WIGLETT,13,15
+    2,PYUKUMUKU,15,16
+SuperRod
+    12,SKRELP,15
+    12,FRILLISH,13,15
+    9,DEWPIDER,13,14
+    9,MAREANIE,15,16
+    9,BASCULIN_1,14,16
+    9,QWILFISH,13,16
+    9,MANTYKE,12,14
+    8,REMORAID,13
+    5,STARYU,14,16
+    5,HORSEA,14,15
+    5,KRABBY,15
+    3,BARBOACH,13,14
+    3,CHINCHOU,14
+    2,PINCURCHIN,14,16
+#-------------------------------
+[086,2] # Coastide Town After Gym 2
+Land,21
+    10,WIMPOD,19,23
+    10,SANDYGAST,22
+    10,SLOWPOKE,20,22
+    8,BINACLE,21
+    8,PYUKUMUKU,19,21
+    8,WOOPER,21,22
+    6,WATTREL,22
+    6,DUCKLETT,20,21
+    5,EXEGGCUTE,21,23
+    5,EXEGGCUTE_1,21,23
+    5,DEWPIDER,21,22
+    5,AZURILL,19,23
+    5,MAREANIE,20,22
+    3,KRABBY,22,23
+    3,PSYDUCK,21,22
+    3,WIGLETT,19,21
+SuperRod
+    12,SKRELP,22,23
+    12,FRILLISH,21,22
+    9,DEWPIDER,20,22
+    9,MAREANIE,21
+    9,BASCULIN_1,21,23
+    9,QWILFISH,22
+    9,MANTYKE,19,21
+    8,REMORAID,21,22
+    5,STARYU,20,22
+    5,HORSEA,19,21
+    5,KRABBY,21,22
+    3,BARBOACH,20
+    3,CHINCHOU,20,22
+    2,PINCURCHIN,22,23
+#-------------------------------
+[088] # Rootfield Town Pre-Gym 1
+Land,21
+    10,PONYTA,5,8
+    10,MAREEP,4,7
+    10,WOOLOO,5,7
+    10,LECHONK,4,6
+    10,CHERUBI,5,6
+    10,SMOLIV,5,8
+    10,COTTONEE,4,8
+    10,PETILIL,4,8
+    10,EXEGGCUTE,5,7
+    6,APPLIN,5,8
+    2,MUDBRAY,4,8
+    1,MILTANK,5,7
+    1,FARFETCHD,5,8
+SuperRod
+    20,MAGIKARP,1,10
+    15,BUIZEL,5,9
+    15,PSYDUCK,5,9
+    10,CHEWTLE,6,8
+    10,LOTAD,5,8
+    10,SURSKIT,6,8
+    10,WOOPER,6,9
+    10,FEEBAS,1,10
+Water,4
+    1,MAGIKARP,1
+#-------------------------------
+[088,1] # Rootfield Town Gym 1 - Gym 2
+Land,21
+    15,WOOLOO,13,14
+    15,MAREEP,14,16
+    15,SMOLIV,12,14
+    10,APPLIN,12
+    10,LECHONK,14
+    7,MUDBRAY,13,15
+    7,MILTANK,15,16
+    7,EXEGGCUTE,13,14
+    4,COTTONEE,14
+    4,PETILIL,14
+    3,TAUROS,14,16
+    3,FARFETCHD,13,15
+SuperRod
+    20,MAGIKARP,1,16
+    15,LOMBRE,14,16
+    15,CHEWTLE,13,15
+    10,PSYDUCK,13
+    10,BUIZEL,14,15
+    10,SURSKIT,13,16
+    10,WOOPER,14
+    10,FEEBAS,1,16
+#-------------------------------
+[088,2] # Rootfield Town After Gym 2
+Land,21
+    15,WOOLOO,20
+    10,FLAAFFY,21,22
+    15,SMOLIV,19,23
+    15,APPLIN,20,21
+    8,EXEGGCUTE,20,21
+    10,MUDBRAY,21,22
+    7,MILTANK,22
+    7,OINKOLOGNE,20,22
+    2,TAUROS,22,23
+    2,TAUROS_1,22,23
+    2,FARFETCHD,20,23
+    2,FARFETCHD_1,20,23
+SuperRod
+    20,MAGIKARP,1,23
+    15,LOMBRE,22
+    15,QUAGSIRE,21,23
+    10,PSYDUCK,19,22
+    10,BUIZEL,21,23
+    10,SURSKIT,21,22
+    10,CHEWTLE,20,21
+    10,FEEBAS,1,23
+#-------------------------------
+[077] # Shardore Town Pre-Gym 1
+Land,21
+    14,BUNNELBY,4,7
+    14,ROOKIDEE,5,8
+    14,ROCKRUFF,5,7
+    12,CUBONE,3,7
+    12,DWEBBLE,3,8
+    8,MIENFOO,5,7
+    8,PHANPY,4,8
+    8,RUFFLET,5,8
+    2,DUNSPARCE,5,7
+    2,MANKEY,4,7
+    2,MACHOP,5,7
+    2,JANGMOO,5,8
+    2,NACLI,5,8
+SuperRod
+    25,MAGIKARP,1,9
+    20,POLIWAG,5,9
+    10,SHELLOS,4,8
+    10,SHELLOS_1,4,8
+    15,CLOBBOPUS,5,8
+    15,CHEWTLE,5,9
+    5,DRATINI,6,9
+Water,4
+    1,MAGIKARP,1
+#-------------------------------
+[077,1] # Shardore Town Gym 1 - Gym 2
+Land,21
+    12,ROCKRUFF,14,15
+    12,DWEBBLE,14,16
+    12,PHANPY,13,15
+    12,BUNNELBY,14
+    11,MIENFOO,14,15
+    8,CUBONE,12,14
+    8,RUFFLET,14,16
+    8,ROOKIDEE,13,15
+    4,DUNSPARCE,13,15
+    4,NACLI,12,16
+    3,MACHOP,15
+    3,MANKEY,15,16
+    3,JANGMOO,13,15
+SuperRod
+    25,MAGIKARP,1,16
+    20,POLIWAG,13,15
+    20,SHELLOS,14
+    15,CLOBBOPUS,14,16
+    15,CHEWTLE,14,15
+    5,DRATINI,13,16
+#-------------------------------
+[077,2] # Shardore Town After Gym 2
+Land,21
+    12,DIGGERSBY,20,23
+    12,CORVISQUIRE,21,22
+    12,MIENFOO,21,23
+    12,DWEBBLE,21,22
+    11,ROCKRUFF,22,23
+    8,PHANPY,20,22
+    4,CUBONE,21
+    4,CUBONE_1,21
+    4,RUFFLET,21,23
+    4,RUFFLET_1,21,23
+    4,DUNSPARCE,20,22
+    4,NACLI,21
+    3,MACHOP,22,23
+    3,MANKEY,21,22
+    3,JANGMOO,21,23
+SuperRod
+    25,MAGIKARP,1,23
+    20,POLIWAG,20,23
+    20,SHELLOS,21
+    15,CLOBBOPUS,20,23
+    15,CHEWTLE,20,21
+    5,DRATINI,22
+#-------------------------------
+[033] # Suncross Town Pre-Gym 1
+Land,21
+    20,PIDGEY,4,6
+    15,TAILLOW,4,7
+    15,TIMBURR,5,7
+    15,MAGNEMITE,3,6
+    7,TRUBBISH,4,6
+    7,KOFFING,4,6
+    7,MIMEJR,5,7
+    7,SCRAGGY,4,6
+    7,CROAGUNK,4,7
+SuperRod
+    20,MAGIKARP,1,7
+    20,PSYDUCK,2,5
+    15,GOLDEEN,2,4
+    15,TYMPOLE,3,7
+    10,POLIWAG,3,6
+    10,AZURILL,2,7
+    5,SHELLOS,3,6
+    5,SHELLOS_1,3,6
+Water,4
+    1,MAGIKARP,1
+#-------------------------------
+[033,1] # Suncross Town Gym 1 - Gym 2
+Land,21
+    15,TIMBURR,15
+    15,MAGNEMITE,14,16
+    10,TRUBBISH,13,14
+    10,KOFFING,13,14
+    8,TAILLOW,14,15
+    8,PIDGEY,14
+    8,MIMEJR,12,14
+    8,SCRAGGY,14,15
+    8,CROAGUNK,13,15
+    5,ESPURR,14
+    5,TOXEL,12,13
+SuperRod
+    20,MAGIKARP,1,16
+    20,TYMPOLE,13,16
+    15,AZURILL,13,15
+    15,PSYDUCK,13,14
+    10,POLIWAG,14
+    10,SHELLOS,14,16
+    5,GOLDEEN,13,14
+    5,CLOBBOPUS,12,16
+#-------------------------------
+[033,2] # Suncross Town After Gym 2
+Land,21
+    15,TIMBURR,21,22
+    15,MAGNEMITE,20,21
+    10,TRUBBISH,20,23
+    10,KOFFING,20,23
+    8,TAILLOW,20,21
+    8,PIDGEOTTO,21,23
+    8,SCRAGGY,20,22
+    8,CROAGUNK,21
+    5,ESPURR,22
+    5,TOXEL,20
+    4,MIMEJR,19,23
+    4,MIMEJR_1,19,23
+SuperRod
+    20,MAGIKARP,1,23
+    20,AZURILL,20,23
+    15,TYMPOLE,20,21
+    15,SHELLOS,22
+    10,POLIWAG,21,23
+    10,PSYDUCK,21
+    10,CLOBBOPUS,21,22
+#-------------------------------
+[104] # Umbrawood Forest North Pre-Gym 1
+Land,21
+    15,VENIPEDE,3,7
+    15,SHELMET,3,6
+    15,FOMANTIS,4,6
+    10,SEEDOT,2,6
+    10,PHANTUMP,3,6
+    10,NYMBLE,3,6
+    5,PANCHAM,4,7
+    5,TEDDIURSA,2,6
+    5,MORELULL,4,6
+    5,ZORUA,4,7
+    5,SHUPPET,3,7
+#-------------------------------
+[104,1] # Umbrawood Forest North Gym 1 - Gym 2
+Land,21
+    15,NUZLEAF,15,16
+    15,VENIPEDE,14,15
+    15,SHELMET,14,16
+    10,PHANTUMP,13,14
+    10,FOMANTIS,14
+    10,NYMBLE,13,16
+    5,PANCHAM,14,15
+    5,TEDDIURSA,13,14
+    5,ZORUA,14
+    5,MORELULL,13,14
+    3,SHUPPET,14,15
+    1,EMOLGA,13,16
+    1,PINECO,13,15
+#-------------------------------
+[104,2] # Umbrawood Forest North After Gym 2
+Land,21
+    15,NUZLEAF,20,21
+    15,NYMBLE,21,22
+    15,VENIPEDE,20,22
+    10,SHELMET,21
+    10,TEDDIURSA,19,23
+    10,PANCHAM,20,22
+    5,FOMANTIS,20,23
+    5,PHANTUMP,21,22
+    5,PINECO,19,22
+    3,ZORUA,21,23
+    3,ZORUA_1,21,23
+    2,EMOLGA,21,22
+    1,SHUPPET,20,21
+    1,MORELULL,21,22
+#-------------------------------
+[091] # Umbrawood Forest West Pre-Gym 1
+Land,21
+    15,VENIPEDE,3,7
+    15,KARRABLAST,3,6
+    15,MURKROW,2,6
+    10,FOMANTIS,4,6
+    10,PANCHAM,4,7
+    10,NYMBLE,3,6
+    5,PUMPKABOO,3,6
+    5,TEDDIURSA,2,6
+    5,FOONGUS,4,6
+    5,ZORUA,4,7
+    5,GASTLY,3,7
+#-------------------------------
+[091,1] # Umbrawood Forest West Gym 1 - Gym 2
+Land,21
+    30,VENIPEDE,14,15
+    30,MURKROW,14,16
+    30,KARRABLAST,13,16
+    20,PUMPKABOO,14,15
+    20,NYMBLE,13,14
+    20,PANCHAM,14
+    10,FOONGUS,12,16
+    10,TEDDIURSA,13,16
+    10,ZORUA,14,15
+    10,GASTLY,15
+    6,FOMANTIS,14
+    1,INDEEDEE,15
+    1,INDEEDEE_1,15
+    2,DREEPY,13,15
+#-------------------------------
+[091,2] # Umbrawood Forest West After Gym 2
+Land,21
+    30,VENIPEDE,20,21
+    30,MURKROW,21,22
+    30,NYMBLE,20,23
+    20,KARRABLAST,21
+    20,PANCHAM,22
+    20,FOONGUS,20,21
+    10,FOMANTIS,20
+    10,PUMPKABOO,21,22
+    5,INDEEDEE,20,23
+    5,INDEEDEE_1,20,23
+    6,ZORUA,21,23
+    6,ZORUA_1,21,23
+    4,DREEPY,21,22
+    2,TEDDIURSA,20,23
+    2,FOMANTIS,21
+#-------------------------------
+[092] # Umbrawood Town Pre-Gym 1
+Land,21
+    15,VENIPEDE,4,8
+    15,KARRABLAST,4,7
+    15,SHELMET,4,7
+    10,PANCHAM,5,8
+    10,MURKROW,3,7
+    10,MISDREAVUS,3,7
+    9,TEDDIURSA,4,8
+    4,ZORUA,5,8
+    4,MORELULL,4,7
+    4,GASTLY,4,8
+    4,SHUPPET,4,8
+DarkGrass,21
+    20,AUDINO,6,11
+    15,VENIPEDE,7,11
+    15,ZORUA,7,10
+    15,GASTLY,6,11
+    15,TEDDIURSA,7,11
+    12,FOONGUS,6,10
+    2,HERACROSS,6,10
+    2,PINECO,6,10
+    2,PINSIR,7,11
+    2,DREEPY,6,11
+#-------------------------------
+[092,1] # Umbrawood Town Gym 1 - Gym 2
+Land,21
+    12,VENIPEDE,14,15
+    12,KARRABLAST,13,16
+    12,SHELMET,13,16
+    12,MURKROW,15
+    12,MISDREAVUS,14,16
+    8,PANCHAM,13,14
+    8,TEDDIURSA,14
+    5,ZORUA,14,15
+    5,GASTLY,13,15
+    5,SHUPPET,14,16
+    3,MORELULL,14
+    2,FOONGUS,12,16
+    2,PINECO,13,15
+    2,DREEPY,13,14
+DarkGrass,21
+    18,AUDINO,13,19
+    14,MISDREAVUS,17,18
+    14,ZORUA,17,19
+    14,SHUPPET,17,19
+    14,PANCHAM,17,18
+    10,FOONGUS,15,18
+    6,PINECO,16,17
+    6,DREEPY,16,17
+    2,HERACROSS,15,19
+    2,PINSIR,15,19
+#-------------------------------
+[092,2] # Umbrawood Town After Gym 2
+Land,21
+    12,VENIPEDE,21
+    12,MURKROW,22,23
+    11,MISDREAVUS,21,22
+    11,PANCHAM,21,23
+    11,GASTLY,22
+    8,KARRABLAST,20,21
+    8,SHELMET,20,21
+    5,ZORUA,21
+    5,PINECO,21,22
+    5,DREEPY,20,23
+    3,FOONGUS,21
+    3,TEDDIURSA,20,22
+    2,MORELULL,21
+    2,HERACROSS,21,23
+    2,PINSIR,21,23
+DarkGrass,21
+    32,AUDINO,20,25
+    28,MURKROW,24,25
+    28,VENIPEDE,23,24
+    20,GASTLY,24
+    20,KARRABLAST,22,23
+    20,SHELMET,22,23
+    16,PINECO,23,24
+    16,DREEPY,24
+    8,HERACROSS,23,25
+    8,PINSIR,23,25
+    2,INDEEDEE,21,25
+    2,INDEEDEE_1,21,25

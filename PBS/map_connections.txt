@@ -1,0 +1,66 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# old Route 1 (5) - Lappet Town (2)
+5,South,4,2,North,0
+# Safari Zone outside (66) - Lappet Town (2)
+66,East,0,2,West,0
+# oldRoute 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Safari Zone outside (66) - old Route 1 (5)
+66,North,18,5,South,0
+# oldRoute 6 (44) - old Route 1 (5)
+44,South,43,5,North,0
+# Cedolan City (7) - old Route 1 (5)
+7,South,0,5,North,2
+# oldRoute 7 (47) - old Route 1 (5)
+47,South,0,5,North,62
+# Cedolan City (7) - oldRoute 6 (44)
+7,West,5,44,East,0
+# Lerucean Town (23) - Cedolan City (7)
+23,West,78,7,East,0
+# oldRoute 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# oldRoute 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# oldRoute 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# oldRoute 2 (21) - oldRoute 7 (47)
+21,East,77,47,West,0
+# Central Plaza (22) - Route 4 (78)
+22,East,6,78,West,0
+# Route 7 (42) - Central Plaza (22)
+42,East,1,22,West,0
+# Route 1 (32) - Central Plaza (22)
+32,South,0,22,North,4
+# Route 5 (94) - Central Plaza (22)
+94,North,0,22,South,2
+# oldRoute 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Ingido Plateau outside (35) - oldRoute 3 (31)
+35,East,10,31,West,0
+# oldRoute 4 (39) - Ingido Plateau outside (35)
+39,East,0,35,West,11
+# oldRoute 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# oldRoute 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Shardore Town (77) - Route 7 (42)
+77,East,0,42,West,5
+# Battle Frontier (52) - oldRoute 7 (47)
+52,West,0,47,East,8
+# oldRoute 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Route 10 (89) - Route 3 (84)
+89,East,0,84,West,54
+# Umbrawood Forest West (91) - Umbrawood Town (92)
+91,East,0,92,West,10
+# Umbrawood Town (92) - Umbrawood Forest North (104)
+92,North,6,104,South,0
+# Route 9 (110) - Route 8 (105)
+110,North,0,105,South,135
+# Route 8/9 halfway (111) - Route 8 (105)
+111,North,0,105,South,85
+# Route 8/9 halfway (111) - Route 9 (110)
+111,East,0,110,West,0
+# Coastide Town (86) - Lumino City (80)
+86,12,175,80,0,0

@@ -1,0 +1,4 @@
+Name         = Advanced AI System
+Version      = 1.5.3
+Essentials   = 21.1
+Credits      = Nononever
