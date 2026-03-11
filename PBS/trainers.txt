@@ -557,14 +557,14 @@ Pokemon = VULPIX,15
 #-------------------------------
 [YOUNGSTER,Lavy,1]
 LoseText = Thanks! That was a good battle!
-Pokemon = ZUBAT,9
+Pokemon = ZUBAT,6
     Moves = ABSORB,ASTONISH,SUPERSONIC
     AbilityIndex = 0
     Gender = female
     Nature = ADAMANT
     IV = 10,10,10,10,10,10
     EV = 0,0,0,0,0,0
-Pokemon = MISDREAVUS,7
+Pokemon = MISDREAVUS,6
     Moves = CONFUSION,GROWL
     AbilityIndex = 0
     Gender = male
