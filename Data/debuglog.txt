@@ -2761,3 +2761,1916 @@
 "AAA"
 
 "You got $10,000 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Vixi!"
+"Test Sprite Vixi sent out Gastly!"
+"Go! Um town!"
+[Round order] The opposing Gastly (1), Um town (0)
+
+===== Round 1 =====
+
+[AI] Gastly (1) is considering using Lick against Um town (0)...
+     + 10: function code modifier (against target)
+     +  9: damaging move (predicted damage 15 = 37% of target's HP)
+[AI] Gastly (1) is considering using Payback against Um town (0)...
+     + 10: damaging move (predicted damage 16 = 40% of target's HP)
+[AI] Gastly (1) is considering using Hypnosis against Um town (0)...
+     move will not affect Um town (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Mean Look against Um town (0)...
+     move will not affect Um town (0)
+     - 80: move will fail
+[AI] Move choices for Gastly (1):
+   *  84.6% to use Lick (target 0): score 161
+   *  15.4% to use Payback (target 0): score 152
+   *   0.0% to use Hypnosis (target 0): score 20
+   *   0.0% to use Mean Look (target 0): score 20
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Um town (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Um town lost 14 HP (40 -> 26)
+"It's super effective!"
+[Use move] Um town (0) used Astonish
+"Um town used Astonish!"
+[HP change] The opposing Gastly lost 21 HP (35 -> 14)
+"It's super effective!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Gastly (1) is considering using Lick against Um town (0)...
+     + 10: function code modifier (against target)
+     + 14: damaging move (predicted damage 15 = 57% of target's HP)
+[AI] Gastly (1) is considering using Payback against Um town (0)...
+     + 15: damaging move (predicted damage 16 = 61% of target's HP)
+[AI] Gastly (1) is considering using Hypnosis against Um town (0)...
+     move will not affect Um town (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Mean Look against Um town (0)...
+     move will not affect Um town (0)
+     - 80: move will fail
+[AI] Move choices for Gastly (1):
+   *  84.6% to use Lick (target 0): score 159
+   *  15.4% to use Payback (target 0): score 150
+   *   0.0% to use Hypnosis (target 0): score 20
+   *   0.0% to use Mean Look (target 0): score 20
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Um town (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Um town lost 13 HP (26 -> 13)
+"It's super effective!"
+[Use move] Um town (0) used Astonish
+"Um town used Astonish!"
+[HP change] The opposing Gastly lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Gastly fainted!"
+"Um town got 174 Exp. Points!"
+
+[End of round 2]
+"Test Sprite Vixi sent out Dreepy!"
+
+===== Round 3 =====
+
+[AI] Dreepy (1) is considering using Astonish against Um town (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 21 = 161% of target's HP)
+     + 10: predicted to KO the target
+[AI] Dreepy (1) is considering using Infestation against Um town (0)...
+     + 10: function code modifier (against target)
+     +  3: damaging move (predicted damage 2 = 15% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against Um town (0)...
+     + 10: function code modifier (against target)
+[AI] Dreepy (1) is considering using Bite against Um town (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 26 = 200% of target's HP)
+     + 10: predicted to KO the target
+[AI] Move choices for Dreepy (1):
+   *  50.0% to use Astonish (target 0): score 176
+   *   0.0% to use Infestation (target 0): score 134
+   *   0.0% to use Thunder Wave (target 0): score 110
+   *  50.0% to use Bite (target 0): score 176
+   => will use Astonish (target 0)
+
+[Round order] The opposing Dreepy (1), Um town (0)
+
+"OK, Um town! Come back!"
+"You're in charge, R2!"
+[Use move] The opposing Dreepy (1) used Astonish
+"The opposing Dreepy used Astonish!"
+[Target immune] R2's type immunity
+"It doesn't affect R2..."
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Dreepy (1) is considering using Astonish against R2 (0)...
+     move will not affect R2 (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Infestation against R2 (0)...
+     + 18: function code modifier (against target)
+     +  1: damaging move (predicted damage 3 = 5% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R2 (0)...
+     + 10: function code modifier (against target)
+[AI] Dreepy (1) is considering using Bite against R2 (0)...
+     + 15: function code modifier (against target)
+     +  3: damaging move (predicted damage 8 = 14% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *   0.0% to use Astonish (target 0): score 53
+   *  52.4% to use Infestation (target 0): score 152
+   *   0.0% to use Thunder Wave (target 0): score 110
+   *  47.6% to use Bite (target 0): score 151
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), R2 (0)
+
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] R2 lost 7 HP (56 -> 49)
+[Use move] R2 (0) used Disarming Voice
+"R2 used Disarming Voice!"
+[HP change] The opposing Dreepy lost 20 HP (34 -> 14)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+   => will switch with Sableye
+
+[Round order] The opposing Dreepy (1), R2 (0)
+
+"Test Sprite Vixi withdrew Dreepy!"
+"Test Sprite Vixi sent out Sableye!"
+[Use move] R2 (0) used Disarming Voice
+"R2 used Disarming Voice!"
+[HP change] The opposing Sableye lost 12 HP (40 -> 28)
+"It's super effective!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+[AI] Sableye (1) is considering using Fake Out against R2 (0)...
+     + 15: function code modifier (against target)
+     +  3: damaging move (predicted damage 7 = 14% of target's HP)
+[AI] Sableye (1) is considering using Shadow Sneak against R2 (0)...
+     move will not affect R2 (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against R2 (0)...
+     +  3: damaging move (predicted damage 7 = 14% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     + 16: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Fake Out (target 0): score 138
+   *   0.0% to use Shadow Sneak (target 0): score 40
+   *   0.0% to use Scratch (target 0): score 123
+   *   0.0% to use Leer: score 116
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Sableye (1), R2 (0)
+
+"R2, come back!"
+"Go for it, Plaza!"
+[Use move] The opposing Sableye (1) used Fake Out
+"The opposing Sableye used Fake Out!"
+[HP change] Plaza lost 11 HP (35 -> 24)
+
+[End of round 6]
+
+===== Round 7 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Plaza (0)...
+     + 17: damaging move (predicted damage 17 = 70% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Sableye (1) is considering using Scratch against Plaza (0)...
+     + 11: damaging move (predicted damage 11 = 45% of target's HP)
+     -  8: can trigger the target's ability
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     + 14: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *  75.0% to use Shadow Sneak (target 0): score 136
+   *  25.0% to use Scratch (target 0): score 130
+   *   0.0% to use Leer: score 114
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Sableye (1), Plaza (0)
+
+[Use move] The opposing Sableye (1) used Shadow Sneak
+"The opposing Sableye used Shadow Sneak!"
+[HP change] Plaza lost 16 HP (24 -> 8)
+[Midbattle Global] low HP music begins
+[Ability triggered] Plaza's Static
+"The opposing Sableye is paralyzed! It may be unable to move!"
+[Use move] Plaza (0) used Thunder Wave
+"Plaza used Thunder Wave!"
+"The opposing Sableye is already paralyzed!"
+[Move failed] In function code ParalyzeTargetIfNotTypeImmune's def pbFailsAgainstTarget?
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Plaza (0)...
+     +  8: target at low HP and move has priority over faster target
+     + 30: damaging move (predicted damage 17 = 212% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Sableye (1) is considering using Scratch against Plaza (0)...
+     + 30: damaging move (predicted damage 11 = 137% of target's HP)
+     + 10: predicted to KO the target
+     -  8: can trigger the target's ability
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     +  3: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *  78.6% to use Shadow Sneak (target 0): score 160
+   *  21.4% to use Scratch (target 0): score 152
+   *   0.0% to use Leer: score 103
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Sableye (1), Plaza (0)
+
+"Good job, Plaza! Come back!"
+"Go for it, Um for w!"
+[Midbattle Global] low HP music ended
+[Use move] The opposing Sableye (1) used Shadow Sneak
+"The opposing Sableye used Shadow Sneak!"
+[Target immune] Um for w's type immunity
+"It doesn't affect Um for w..."
+
+[End of round 8]
+
+===== Round 9 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against Um for w (0)...
+     +  4: damaging move (predicted damage 8 = 18% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     + 13: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *   0.0% to use Shadow Sneak (target 0): score 49
+   * 100.0% to use Scratch (target 0): score 133
+   *   0.0% to use Leer: score 113
+   => will use Scratch (target 0)
+
+[Round order] Um for w (0), the opposing Sableye (1)
+
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Sableye lost 8 HP (28 -> 20)
+[HP change] The opposing Sableye gained 10 HP (20 -> 30)
+"The opposing Sableye restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Sableye consumed its held Oran Berry
+[Use move] The opposing Sableye (1) used Scratch
+"The opposing Sableye used Scratch!"
+[HP change] Um for w lost 8 HP (43 -> 35)
+
+[End of round 9]
+[Ability triggered] Um for w's Pickup
+"Um for w found one Oran Berry!"
+
+===== Round 10 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against Um for w (0)...
+     +  5: damaging move (predicted damage 8 = 22% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     + 11: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *   0.0% to use Shadow Sneak (target 0): score 44
+   * 100.0% to use Scratch (target 0): score 129
+   *   0.0% to use Leer: score 111
+   => will use Scratch (target 0)
+
+[Round order] Um for w (0), the opposing Sableye (1)
+
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Sableye lost 9 HP (30 -> 21)
+[Use move] The opposing Sableye (1) used Scratch
+"The opposing Sableye used Scratch!"
+[HP change] Um for w lost 8 HP (35 -> 27)
+
+[End of round 10]
+
+===== Round 11 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against Um for w (0)...
+     +  7: damaging move (predicted damage 8 = 29% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     +  6: function code modifier (against target)
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *   0.0% to use Shadow Sneak (target 0): score 44
+   * 100.0% to use Scratch (target 0): score 131
+   *   0.0% to use Leer: score 106
+   => will use Scratch (target 0)
+
+[Round order] Um for w (0), the opposing Sableye (1)
+
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Sableye lost 9 HP (21 -> 12)
+[Use move] The opposing Sableye (1) used Scratch
+"The opposing Sableye used Scratch!"
+[HP change] Um for w lost 7 HP (27 -> 20)
+[HP change] Um for w gained 10 HP (20 -> 30)
+"Um for w restored a little HP using its Oran Berry!"
+[Item consumed] Um for w consumed its held Oran Berry
+
+[End of round 11]
+
+===== Round 12 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against Um for w (0)...
+     +  6: damaging move (predicted damage 8 = 26% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     +  4: function code modifier (against target)
+     +  8: user at low HP and move has priority over faster target
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *   0.0% to use Shadow Sneak (target 0): score 44
+   * 100.0% to use Scratch (target 0): score 130
+   *   0.0% to use Leer: score 112
+   => will use Scratch (target 0)
+
+[Round order] Um for w (0), the opposing Sableye (1)
+
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Sableye lost 8 HP (12 -> 4)
+[Use move] The opposing Sableye (1) used Scratch
+"The opposing Sableye used Scratch!"
+[HP change] Um for w lost 7 HP (30 -> 23)
+
+[End of round 12]
+
+===== Round 13 =====
+
+[AI] Sableye (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Sableye (1) is considering using Shadow Sneak against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Sableye (1) is considering using Scratch against Um for w (0)...
+     +  8: damaging move (predicted damage 8 = 34% of target's HP)
+[AI] Sableye (1) is considering using Leer...
+     +  5: lowering the target's Defense by 1
+     +  8: user at low HP and move has priority over faster target
+[AI] Move choices for Sableye (1):
+   *   0.0% to use Fake Out: score 20
+   *   0.0% to use Shadow Sneak (target 0): score 40
+   * 100.0% to use Scratch (target 0): score 128
+   *   0.0% to use Leer: score 108
+   => will use Scratch (target 0)
+
+[Round order] Um for w (0), the opposing Sableye (1)
+
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Sableye lost 4 HP (4 -> 0)
+"The opposing Sableye fainted!"
+"R2 got 373 Exp. Points!"
+"Um for w got 373 Exp. Points!"
+"Plaza got 373 Exp. Points!"
+
+[End of round 13]
+"Test Sprite Vixi sent out Dreepy!"
+
+===== Round 14 =====
+
+[AI] Dreepy (1) is considering using Astonish against Um for w (0)...
+     move will not affect Um for w (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Infestation against Um for w (0)...
+     + 18: function code modifier (against target)
+     +  4: damaging move (predicted damage 4 = 17% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against Um for w (0)...
+     + 10: function code modifier (against target)
+[AI] Dreepy (1) is considering using Bite against Um for w (0)...
+     + 15: function code modifier (against target)
+     + 10: damaging move (predicted damage 10 = 43% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *   0.0% to use Astonish (target 0): score 42
+   *  41.2% to use Infestation (target 0): score 144
+   *   0.0% to use Thunder Wave (target 0): score 110
+   *  58.8% to use Bite (target 0): score 147
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), Um for w (0)
+
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] Um for w lost 9 HP (23 -> 14)
+[Use move] Um for w (0) used Payback
+"Um for w used Payback!"
+[HP change] The opposing Dreepy lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Dreepy fainted!"
+"Um for w got 152 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Test Sprite Vixi!"
+"aaa"
+
+"You got $1,400 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Vixi!"
+"Test Sprite Vixi sent out Gastly!"
+"Go! Cyndaquil!"
+[Round order] The opposing Gastly (1), Cyndaquil (0)
+
+===== Round 1 =====
+
+[AI] Gastly (1) is considering using Lick against Cyndaquil (0)...
+     + 10: function code modifier (against target)
+     +  6: damaging move (predicted damage 9 = 25% of target's HP)
+[AI] Gastly (1) is considering using Payback against Cyndaquil (0)...
+     +  6: damaging move (predicted damage 9 = 25% of target's HP)
+[AI] Gastly (1) is considering using Hypnosis against Cyndaquil (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against Cyndaquil (0)...
+[AI] Move choices for Gastly (1):
+   *  91.7% to use Lick (target 0): score 152
+   *   8.3% to use Payback (target 0): score 142
+   *   0.0% to use Hypnosis (target 0): score 105
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Cyndaquil (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Cyndaquil lost 8 HP (35 -> 27)
+"Cyndaquil is paralyzed! It may be unable to move!"
+[Use move] Cyndaquil (0) used Ember
+"Cyndaquil used Ember!"
+[HP change] The opposing Gastly lost 13 HP (35 -> 22)
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Gastly (1) is considering using Lick against Cyndaquil (0)...
+     +  8: damaging move (predicted damage 9 = 33% of target's HP)
+[AI] Gastly (1) is considering using Payback against Cyndaquil (0)...
+     +  8: damaging move (predicted damage 9 = 33% of target's HP)
+[AI] Gastly (1) is considering using Hypnosis against Cyndaquil (0)...
+     move will not affect Cyndaquil (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Mean Look against Cyndaquil (0)...
+[AI] Move choices for Gastly (1):
+   *  50.0% to use Lick (target 0): score 138
+   *  50.0% to use Payback (target 0): score 138
+   *   0.0% to use Hypnosis (target 0): score 20
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Cyndaquil (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Cyndaquil lost 9 HP (27 -> 18)
+[Use move] Cyndaquil (0) used Ember
+"Cyndaquil used Ember!"
+[HP change] The opposing Gastly lost 13 HP (22 -> 9)
+
+[End of round 2]
+
+===== Round 3 =====
+
+   => will switch with Dreepy
+
+[Round order] The opposing Gastly (1), Cyndaquil (0)
+
+"Test Sprite Vixi withdrew Gastly!"
+"Test Sprite Vixi sent out Dreepy!"
+[Use move] Cyndaquil (0) used Ember
+"Cyndaquil used Ember!"
+[HP change] The opposing Dreepy lost 7 HP (34 -> 27)
+"It's not very effective..."
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Dreepy (1) is considering using Astonish against Cyndaquil (0)...
+     + 23: function code modifier (against target)
+     + 15: damaging move (predicted damage 11 = 61% of target's HP)
+[AI] Dreepy (1) is considering using Infestation against Cyndaquil (0)...
+     + 18: function code modifier (against target)
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against Cyndaquil (0)...
+     move will not affect Cyndaquil (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against Cyndaquil (0)...
+     + 23: function code modifier (against target)
+     + 18: damaging move (predicted damage 13 = 72% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *  42.1% to use Astonish (target 0): score 160
+   *   0.0% to use Infestation (target 0): score 142
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  57.9% to use Bite (target 0): score 163
+   => will use Astonish (target 0)
+
+[Round order] The opposing Dreepy (1), Cyndaquil (0)
+
+"Cyndaquil, come back!"
+"Go for it, R1!"
+[Use move] The opposing Dreepy (1) used Astonish
+"The opposing Dreepy used Astonish!"
+[HP change] R1 lost 9 HP (36 -> 27)
+
+[End of round 4]
+
+===== Round 5 =====
+
+[AI] Dreepy (1) is considering using Astonish against R1 (0)...
+     + 15: function code modifier (against target)
+     +  8: damaging move (predicted damage 9 = 33% of target's HP)
+[AI] Dreepy (1) is considering using Infestation against R1 (0)...
+     + 18: function code modifier (against target)
+     +  1: damaging move (predicted damage 2 = 7% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R1 (0)...
+     + 10: function code modifier (against target)
+[AI] Dreepy (1) is considering using Bite against R1 (0)...
+     + 15: function code modifier (against target)
+     +  4: damaging move (predicted damage 5 = 18% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *  44.0% to use Astonish (target 0): score 158
+   *  28.0% to use Infestation (target 0): score 154
+   *   0.0% to use Thunder Wave (target 0): score 110
+   *  28.0% to use Bite (target 0): score 154
+   => will use Infestation (target 0)
+
+[Round order] The opposing Dreepy (1), R1 (0)
+
+[Use move] The opposing Dreepy (1) used Infestation
+"The opposing Dreepy used Infestation!"
+[HP change] R1 lost 2 HP (27 -> 25)
+"It's not very effective..."
+"R1 has been afflicted with an infestation by the opposing Dreepy!"
+[Use move] R1 (0) used Bite
+"R1 used Bite!"
+[HP change] The opposing Dreepy lost 12 HP (27 -> 15)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Dreepy!"
+[Item consumed] The opposing Dreepy consumed its held Colbur Berry
+
+[End of round 5]
+[HP change] R1 lost 4 HP (25 -> 21)
+"R1 is hurt by Infestation!"
+
+===== Round 6 =====
+
+   => will switch with Zorua
+
+[Round order] The opposing Dreepy (1), R1 (0)
+
+"Test Sprite Vixi withdrew Dreepy!"
+"Test Sprite Vixi sent out Gastly!"
+[Use move] R1 (0) used Bite
+"R1 used Bite!"
+[HP change] The opposing Gastly lost 22 HP (36 -> 14)
+"It's super effective!"
+"The opposing Zorua's illusion wore off!"
+[HP change] The opposing Zorua gained 10 HP (14 -> 24)
+"The opposing Zorua restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Zorua consumed its held Oran Berry
+
+[End of round 6]
+
+===== Round 7 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against R1 (0)...
+     + 13: damaging move (predicted damage 11 = 52% of target's HP)
+[AI] Zorua (1) is considering using Scratch against R1 (0)...
+     + 13: damaging move (predicted damage 11 = 52% of target's HP)
+[AI] Zorua (1) is considering using Hex against R1 (0)...
+     + 25: damaging move (predicted damage 21 = 100% of target's HP)
+[AI] Zorua (1) is considering using Torment against R1 (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   0.0% to use Shadow Sneak (target 0): score 135
+   *   0.0% to use Scratch (target 0): score 135
+   * 100.0% to use Hex (target 0): score 147
+   *   0.0% to use Torment (target 0): score 110
+   => will use Hex (target 0)
+
+[Round order] R1 (0), the opposing Zorua (1)
+
+[Use move] R1 (0) used Bite
+"R1 used Bite!"
+[HP change] The opposing Zorua lost 23 HP (24 -> 1)
+"It's super effective!"
+[Use move] The opposing Zorua (1) used Hex
+"The opposing Zorua flinched and couldn't move!"
+[Move failed] The opposing Zorua flinched
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against R1 (0)...
+     + 13: damaging move (predicted damage 11 = 52% of target's HP)
+[AI] Zorua (1) is considering using Scratch against R1 (0)...
+     + 13: damaging move (predicted damage 11 = 52% of target's HP)
+[AI] Zorua (1) is considering using Hex against R1 (0)...
+     + 25: damaging move (predicted damage 21 = 100% of target's HP)
+[AI] Zorua (1) is considering using Torment against R1 (0)...
+     + 10: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   0.0% to use Shadow Sneak (target 0): score 135
+   *   0.0% to use Scratch (target 0): score 135
+   * 100.0% to use Hex (target 0): score 147
+   *   0.0% to use Torment (target 0): score 110
+   => will use Hex (target 0)
+
+[Round order] The opposing Zorua (1), R1 (0)
+
+[Use move] The opposing Zorua (1) used Hex
+"The opposing Zorua used Hex!"
+[HP change] R1 lost 19 HP (21 -> 2)
+[Midbattle Global] low HP music begins
+[Use move] R1 (0) used Bite
+"R1 used Bite!"
+[HP change] The opposing Zorua lost 1 HP (1 -> 0)
+"It's super effective!"
+"The opposing Zorua fainted!"
+"R1 got 185 Exp. Points!"
+
+[End of round 8]
+"Test Sprite Vixi sent out Dreepy!"
+
+===== Round 9 =====
+
+[AI] Dreepy (1) is considering using Astonish against R1 (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 9 = 450% of target's HP)
+     + 10: predicted to KO the target
+[AI] Dreepy (1) is considering using Infestation against R1 (0)...
+     + 18: function code modifier (against target)
+     + 25: damaging move (predicted damage 2 = 100% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R1 (0)...
+     + 10: function code modifier (against target)
+[AI] Dreepy (1) is considering using Bite against R1 (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 5 = 250% of target's HP)
+     + 10: predicted to KO the target
+[AI] Move choices for Dreepy (1):
+   *  50.0% to use Astonish (target 0): score 150
+   *   0.0% to use Infestation (target 0): score 138
+   *   0.0% to use Thunder Wave (target 0): score 95
+   *  50.0% to use Bite (target 0): score 150
+   => will use Astonish (target 0)
+
+[Round order] The opposing Dreepy (1), R1 (0)
+
+"Good job, R1! Come back!"
+"Just a little more! Hang in there, R2!"
+[Midbattle Global] low HP music ended
+[Use move] The opposing Dreepy (1) used Astonish
+"The opposing Dreepy used Astonish!"
+[HP change] R2 lost 9 HP (44 -> 35)
+
+[End of round 9]
+
+===== Round 10 =====
+
+[AI] Dreepy (1) is considering using Astonish against R2 (0)...
+     + 15: function code modifier (against target)
+     +  7: damaging move (predicted damage 11 = 31% of target's HP)
+[AI] Dreepy (1) is considering using Infestation against R2 (0)...
+     + 18: function code modifier (against target)
+     +  2: damaging move (predicted damage 4 = 11% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R2 (0)...
+     move will not affect R2 (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against R2 (0)...
+     + 15: function code modifier (against target)
+     +  9: damaging move (predicted damage 13 = 37% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *  33.3% to use Astonish (target 0): score 149
+   *  25.0% to use Infestation (target 0): score 147
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  41.7% to use Bite (target 0): score 151
+   => will use Astonish (target 0)
+
+[Round order] The opposing Dreepy (1), R2 (0)
+
+[Use move] The opposing Dreepy (1) used Astonish
+"The opposing Dreepy used Astonish!"
+[HP change] R2 lost 10 HP (35 -> 25)
+[Use move] R2 (0) used Bite
+"R2 flinched and couldn't move!"
+[Move failed] R2 flinched
+
+[End of round 10]
+
+===== Round 11 =====
+
+[AI] Dreepy (1) is considering using Astonish against R2 (0)...
+     + 15: function code modifier (against target)
+     + 11: damaging move (predicted damage 11 = 44% of target's HP)
+[AI] Dreepy (1) is considering using Infestation against R2 (0)...
+     + 18: function code modifier (against target)
+     +  4: damaging move (predicted damage 4 = 16% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R2 (0)...
+     move will not affect R2 (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against R2 (0)...
+     + 15: function code modifier (against target)
+     + 13: damaging move (predicted damage 13 = 52% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *  36.4% to use Astonish (target 0): score 148
+   *  18.2% to use Infestation (target 0): score 144
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  45.5% to use Bite (target 0): score 150
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), R2 (0)
+
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] R2 lost 12 HP (25 -> 13)
+[Use move] R2 (0) used Bite
+"R2 used Bite!"
+[HP change] The opposing Dreepy lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Dreepy fainted!"
+"R1 got 152 Exp. Points!"
+"R2 got 152 Exp. Points!"
+
+[End of round 11]
+"Test Sprite Vixi sent out Gastly!"
+
+===== Round 12 =====
+
+[AI] Gastly (1) is considering using Lick against R2 (0)...
+     + 15: damaging move (predicted damage 8 = 61% of target's HP)
+[AI] Gastly (1) is considering using Payback against R2 (0)...
+     + 15: damaging move (predicted damage 8 = 61% of target's HP)
+[AI] Gastly (1) is considering using Hypnosis against R2 (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against R2 (0)...
+[AI] Move choices for Gastly (1):
+   *  50.0% to use Lick (target 0): score 133
+   *  50.0% to use Payback (target 0): score 133
+   *   0.0% to use Hypnosis (target 0): score 105
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), R2 (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] R2 lost 10 HP (13 -> 3)
+[Midbattle Global] low HP music begins
+"A critical hit!"
+[Use move] R2 (0) used Bite
+"R2 used Bite!"
+[HP change] The opposing Gastly lost 9 HP (9 -> 0)
+"It's super effective!"
+"The opposing Gastly fainted!"
+"R2 got 174 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Test Sprite Vixi!"
+"aaa"
+
+"You got $1,400 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Vixi!"
+"Test Sprite Vixi sent out Gastly!"
+"Go! R9!"
+[Round order] The opposing Gastly (1), R9 (0)
+
+===== Round 1 =====
+
+[AI] Gastly (1) is considering using Lick against R9 (0)...
+     move will not affect R9 (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Curse against R9 (0)...
+     + 10: function code modifier (against target)
+[AI] Gastly (1) is considering using Hypnosis against R9 (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against R9 (0)...
+[AI] Move choices for Gastly (1):
+   *   0.0% to use Lick (target 0): score 46
+   *  72.7% to use Curse (target 0): score 110
+   *  27.3% to use Hypnosis (target 0): score 105
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Curse (target 0)
+
+[Round order] The opposing Gastly (1), R9 (0)
+
+[Use move] The opposing Gastly (1) used Curse
+"The opposing Gastly used Curse!"
+"The opposing Gastly cut its own HP and laid a curse on R9!"
+[HP change] The opposing Gastly lost 23 HP (47 -> 24)
+[Use move] R9 (0) used Charge
+"R9 used Charge!"
+"R9 began charging power!"
+[Stat change] R9's Special Defense changed by +1 (0 -> 1)
+"R9's Special Defense rose!"
+
+[End of round 1]
+[HP change] R9 lost 13 HP (52 -> 39)
+"R9 is afflicted by the curse!"
+
+===== Round 2 =====
+
+[AI] Gastly (1) is considering using Lick against R9 (0)...
+     move will not affect R9 (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Curse against R9 (0)...
+     move will not affect R9 (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Hypnosis against R9 (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against R9 (0)...
+     + 15: function code modifier (against target)
+[AI] Move choices for Gastly (1):
+   *   0.0% to use Lick (target 0): score 42
+   *   0.0% to use Curse (target 0): score 20
+   *   0.0% to use Hypnosis (target 0): score 105
+   * 100.0% to use Mean Look (target 0): score 115
+   => will use Mean Look (target 0)
+
+[Round order] The opposing Gastly (1), R9 (0)
+
+[Use move] The opposing Gastly (1) used Mean Look
+"The opposing Gastly used Mean Look!"
+"R9 can no longer escape!"
+[Use move] R9 (0) used Thunder Shock
+"R9 used Thunder Shock!"
+[HP change] The opposing Gastly lost 18 HP (24 -> 6)
+
+[End of round 2]
+[HP change] R9 lost 13 HP (39 -> 26)
+"R9 is afflicted by the curse!"
+
+===== Round 3 =====
+
+   => will switch with Dreepy
+
+[Round order] The opposing Gastly (1), R9 (0)
+
+"Test Sprite Vixi withdrew Gastly!"
+"Test Sprite Vixi sent out Dreepy!"
+[Use move] R9 (0) used Thunder Shock
+"R9 used Thunder Shock!"
+[HP change] The opposing Dreepy lost 10 HP (46 -> 36)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] R9 lost 13 HP (26 -> 13)
+[Midbattle Global] low HP music begins
+"R9 is afflicted by the curse!"
+
+===== Round 4 =====
+
+[AI] Dreepy (1) is considering using Astonish against R9 (0)...
+     move will not affect R9 (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Infestation against R9 (0)...
+     + 28: function code modifier (against target)
+     +  7: damaging move (predicted damage 4 = 30% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against R9 (0)...
+     move will not affect R9 (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against R9 (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 19 = 146% of target's HP)
+     + 10: predicted to KO the target
+[AI] Move choices for Dreepy (1):
+   *   0.0% to use Astonish (target 0): score 18
+   *   0.0% to use Infestation (target 0): score 133
+   *   0.0% to use Thunder Wave (target 0): score 5
+   * 100.0% to use Bite (target 0): score 153
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), R9 (0)
+
+"Good job, R9! Come back!"
+"Go for it, Shard!"
+[Midbattle Global] low HP music ended
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] Shard lost 11 HP (68 -> 57)
+
+[End of round 4]
+
+===== Round 5 =====
+
+[AI] Dreepy (1) is considering using Astonish against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Infestation against Shard (0)...
+     + 18: function code modifier (against target)
+     +  1: damaging move (predicted damage 4 = 7% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against Shard (0)...
+     + 15: function code modifier (against target)
+     +  5: damaging move (predicted damage 12 = 21% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *   0.0% to use Astonish (target 0): score 47
+   *  47.4% to use Infestation (target 0): score 146
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  52.6% to use Bite (target 0): score 147
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), Shard (0)
+
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] Shard lost 11 HP (57 -> 46)
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Dreepy lost 26 HP (36 -> 10)
+
+[End of round 5]
+
+===== Round 6 =====
+
+[AI] Dreepy (1) is considering using Astonish against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Infestation against Shard (0)...
+     + 18: function code modifier (against target)
+     +  2: damaging move (predicted damage 4 = 8% of target's HP)
+[AI] Dreepy (1) is considering using Thunder Wave against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Dreepy (1) is considering using Bite against Shard (0)...
+     + 15: function code modifier (against target)
+     +  6: damaging move (predicted damage 12 = 26% of target's HP)
+[AI] Move choices for Dreepy (1):
+   *   0.0% to use Astonish (target 0): score 47
+   *  47.4% to use Infestation (target 0): score 147
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  52.6% to use Bite (target 0): score 148
+   => will use Bite (target 0)
+
+[Round order] The opposing Dreepy (1), Shard (0)
+
+[Use move] The opposing Dreepy (1) used Bite
+"The opposing Dreepy used Bite!"
+[HP change] Shard lost 11 HP (46 -> 35)
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Dreepy lost 10 HP (10 -> 0)
+"The opposing Dreepy fainted!"
+"R9 got 227 Exp. Points!"
+"Shard got 227 Exp. Points!"
+
+[End of round 6]
+"Test Sprite Vixi sent out Gastly!"
+
+===== Round 7 =====
+
+   => will switch with Zorua
+
+[Round order] The opposing Gastly (1), Shard (0)
+
+"Test Sprite Vixi withdrew Gastly!"
+"Test Sprite Vixi sent out Zorua!"
+"Shard, come back!"
+"You're in charge, R2!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against R2 (0)...
+     +  8: damaging move (predicted damage 20 = 32% of target's HP)
+[AI] Zorua (1) is considering using Scratch against R2 (0)...
+     +  8: damaging move (predicted damage 20 = 32% of target's HP)
+[AI] Zorua (1) is considering using Hex against R2 (0)...
+     + 14: damaging move (predicted damage 35 = 57% of target's HP)
+[AI] Zorua (1) is considering using Taunt against R2 (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *  22.2% to use Shadow Sneak (target 0): score 144
+   *  22.2% to use Scratch (target 0): score 144
+   *  55.6% to use Hex (target 0): score 150
+   *   0.0% to use Taunt (target 0): score 105
+   => will use Scratch (target 0)
+
+[Round order] The opposing Zorua (1), R2 (0)
+
+[Use move] The opposing Zorua (1) used Scratch
+"The opposing Zorua used Scratch!"
+[HP change] R2 lost 19 HP (61 -> 42)
+[Use move] R2 (0) used Bite
+"R2 used Bite!"
+[HP change] The opposing Zorua lost 25 HP (49 -> 24)
+"It's super effective!"
+[HP change] The opposing Zorua gained 10 HP (24 -> 34)
+"The opposing Zorua restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Zorua consumed its held Oran Berry
+
+[End of round 8]
+
+===== Round 9 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against R2 (0)...
+     + 11: damaging move (predicted damage 20 = 47% of target's HP)
+[AI] Zorua (1) is considering using Scratch against R2 (0)...
+     + 11: damaging move (predicted damage 20 = 47% of target's HP)
+[AI] Zorua (1) is considering using Hex against R2 (0)...
+     + 20: damaging move (predicted damage 35 = 83% of target's HP)
+[AI] Zorua (1) is considering using Taunt against R2 (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   8.3% to use Shadow Sneak (target 0): score 141
+   *   8.3% to use Scratch (target 0): score 141
+   *  83.3% to use Hex (target 0): score 150
+   *   0.0% to use Taunt (target 0): score 105
+   => will use Hex (target 0)
+
+[Round order] The opposing Zorua (1), R2 (0)
+
+[Use move] The opposing Zorua (1) used Hex
+"The opposing Zorua used Hex!"
+[HP change] R2 lost 32 HP (42 -> 10)
+[Midbattle Global] low HP music begins
+[Use move] R2 (0) used Nuzzle
+"R2 used Nuzzle!"
+[HP change] The opposing Zorua lost 8 HP (34 -> 26)
+"The opposing Zorua is paralyzed! It may be unable to move!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against R2 (0)...
+     + 30: damaging move (predicted damage 20 = 200% of target's HP)
+     + 10: predicted to KO the target
+[AI] Zorua (1) is considering using Scratch against R2 (0)...
+     + 30: damaging move (predicted damage 20 = 200% of target's HP)
+     + 10: predicted to KO the target
+[AI] Zorua (1) is considering using Hex against R2 (0)...
+     + 30: damaging move (predicted damage 35 = 350% of target's HP)
+     + 10: predicted to KO the target
+[AI] Zorua (1) is considering using Taunt against R2 (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *  33.3% to use Shadow Sneak (target 0): score 134
+   *  33.3% to use Scratch (target 0): score 134
+   *  33.3% to use Hex (target 0): score 134
+   *   0.0% to use Taunt (target 0): score 90
+   => will use Scratch (target 0)
+
+[Round order] The opposing Zorua (1), R2 (0)
+
+"Good job, R2! Come back!"
+"Go for it, Shard!"
+[Midbattle Global] low HP music ended
+[Use move] The opposing Zorua (1) used Scratch
+"The opposing Zorua used Scratch!"
+[HP change] Shard lost 13 HP (35 -> 22)
+
+[End of round 10]
+[Ability triggered] Shard's Pickup
+"Shard found one Oran Berry!"
+[HP change] Shard gained 10 HP (22 -> 32)
+"Shard restored a little HP using its Oran Berry!"
+[Item consumed] Shard consumed its held Oran Berry
+
+===== Round 11 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Scratch against Shard (0)...
+     + 10: damaging move (predicted damage 14 = 43% of target's HP)
+[AI] Zorua (1) is considering using Hex against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Taunt against Shard (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   0.0% to use Shadow Sneak (target 0): score 45
+   * 100.0% to use Scratch (target 0): score 135
+   *   0.0% to use Hex (target 0): score 45
+   *   0.0% to use Taunt (target 0): score 105
+   => will use Scratch (target 0)
+
+[Round order] Shard (0), the opposing Zorua (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Zorua lost 22 HP (26 -> 4)
+[Stat change] The opposing Zorua's Speed changed by -1 (0 -> -1)
+"The opposing Zorua's Speed fell!"
+[Use move] The opposing Zorua (1) used Scratch
+"The opposing Zorua used Scratch!"
+[HP change] Shard lost 13 HP (32 -> 19)
+
+[End of round 11]
+
+===== Round 12 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Scratch against Shard (0)...
+     + 18: damaging move (predicted damage 14 = 73% of target's HP)
+[AI] Zorua (1) is considering using Hex against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Taunt against Shard (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   0.0% to use Shadow Sneak (target 0): score 40
+   * 100.0% to use Scratch (target 0): score 138
+   *   0.0% to use Hex (target 0): score 40
+   *   0.0% to use Taunt (target 0): score 105
+   => will use Scratch (target 0)
+
+[Round order] Shard (0), the opposing Zorua (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[Move failed] Failed pbAccuracyCheck
+"Shard's attack missed!"
+[Use move] The opposing Zorua (1) used Scratch
+"The opposing Zorua is paralyzed! It can't move!"
+[Move failed] The opposing Zorua is paralyzed
+
+[End of round 12]
+
+===== Round 13 =====
+
+[AI] Zorua (1) is considering using Shadow Sneak against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Scratch against Shard (0)...
+     + 18: damaging move (predicted damage 14 = 73% of target's HP)
+[AI] Zorua (1) is considering using Hex against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Zorua (1) is considering using Taunt against Shard (0)...
+     +  5: function code modifier (against target)
+[AI] Move choices for Zorua (1):
+   *   0.0% to use Shadow Sneak (target 0): score 40
+   * 100.0% to use Scratch (target 0): score 138
+   *   0.0% to use Hex (target 0): score 40
+   *   0.0% to use Taunt (target 0): score 105
+   => will use Scratch (target 0)
+
+[Round order] Shard (0), the opposing Zorua (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Zorua lost 4 HP (4 -> 0)
+"The opposing Zorua fainted!"
+"Shard got 278 Exp. Points!"
+"R2 got 278 Exp. Points!"
+
+[End of round 13]
+"Test Sprite Vixi sent out Gastly!"
+
+===== Round 14 =====
+
+[AI] Gastly (1) is considering using Lick against Shard (0)...
+     move will not affect Shard (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Curse against Shard (0)...
+     - 40: function code modifier (against target)
+[AI] Gastly (1) is considering using Hypnosis against Shard (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against Shard (0)...
+[AI] Move choices for Gastly (1):
+   *   0.0% to use Lick (target 0): score 39
+   *   0.0% to use Curse (target 0): score 60
+   *  77.8% to use Hypnosis (target 0): score 105
+   *  22.2% to use Mean Look (target 0): score 100
+   => will use Hypnosis (target 0)
+
+[Round order] The opposing Gastly (1), Shard (0)
+
+"OK, Shard! Come back!"
+"Your opponent's weak! Get 'em, Quilava!"
+[Use move] The opposing Gastly (1) used Hypnosis
+"The opposing Gastly used Hypnosis!"
+"Quilava fell asleep!"
+[Status change] Quilava's sleep count is 2
+
+[End of round 14]
+
+===== Round 15 =====
+
+[AI] Gastly (1) is considering using Lick against Quilava (0)...
+     +  4: damaging move (predicted damage 9 = 16% of target's HP)
+[AI] Gastly (1) is considering using Curse against Quilava (0)...
+     - 40: function code modifier (against target)
+[AI] Gastly (1) is considering using Hypnosis against Quilava (0)...
+     move will not affect Quilava (0)
+     - 80: move will fail
+[AI] Gastly (1) is considering using Mean Look against Quilava (0)...
+[AI] Move choices for Gastly (1):
+   * 100.0% to use Lick (target 0): score 143
+   *   0.0% to use Curse (target 0): score 60
+   *   0.0% to use Hypnosis (target 0): score 20
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Quilava (0)
+
+"Quilava, switch out! Come back!"
+"Your opponent's weak! Get 'em, Sun!"
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Sun lost 5 HP (52 -> 47)
+
+[End of round 15]
+
+===== Round 16 =====
+
+[AI] Gastly (1) is considering using Lick against Sun (0)...
+     + 10: function code modifier (against target)
+     +  3: damaging move (predicted damage 6 = 12% of target's HP)
+[AI] Gastly (1) is considering using Curse against Sun (0)...
+     - 40: function code modifier (against target)
+[AI] Gastly (1) is considering using Hypnosis against Sun (0)...
+     + 15: function code modifier (against target)
+     - 10: accuracy (predicted 60%)
+[AI] Gastly (1) is considering using Mean Look against Sun (0)...
+[AI] Move choices for Gastly (1):
+   * 100.0% to use Lick (target 0): score 149
+   *   0.0% to use Curse (target 0): score 60
+   *   0.0% to use Hypnosis (target 0): score 105
+   *   0.0% to use Mean Look (target 0): score 100
+   => will use Lick (target 0)
+
+[Round order] The opposing Gastly (1), Sun (0)
+
+[Use move] The opposing Gastly (1) used Lick
+"The opposing Gastly used Lick!"
+[HP change] Sun lost 6 HP (47 -> 41)
+"Sun is paralyzed! It may be unable to move!"
+[Use move] Sun (0) used Assurance
+"Sun used Assurance!"
+[HP change] The opposing Gastly lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Gastly fainted!"
+"Shard got 261 Exp. Points!"
+"Quilava got 261 Exp. Points!"
+"Sun got 261 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Test Sprite Vixi!"
+"aaa"
+
+"You got $2,100 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Shard!"
+[Round order] Shard (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Shard (0)...
+     lowering the target's Speed isn't worthwhile
+     +  4: damaging move (predicted damage 12 = 17% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Shard (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 145
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Shard (0), the opposing Clodsire (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Clodsire lost 25 HP (89 -> 64)
+"It's super effective!"
+[Stat change] The opposing Clodsire's Speed changed by -1 (0 -> -1)
+"The opposing Clodsire's Speed fell!"
+[Use move] The opposing Clodsire (1) used Mud Shot
+"The opposing Clodsire used Mud Shot!"
+[HP change] Shard lost 11 HP (68 -> 57)
+[Stat change] Shard's Speed changed by -1 (0 -> -1)
+"Shard's Speed fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Wooper!"
+"Go! Shard!"
+[Round order] Shard (0), the opposing Wooper (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Test Sprite Mizuki!"
+"AAA"
+
+"You got $1,400 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Shard!"
+[Round order] Shard (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Shard (0)...
+     lowering the target's Speed isn't worthwhile
+     +  4: damaging move (predicted damage 12 = 17% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Shard (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 145
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Shard (0), the opposing Clodsire (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Clodsire lost 27 HP (89 -> 62)
+"It's super effective!"
+[Stat change] The opposing Clodsire's Speed changed by -1 (0 -> -1)
+"The opposing Clodsire's Speed fell!"
+[Use move] The opposing Clodsire (1) used Mud Shot
+"The opposing Clodsire used Mud Shot!"
+[HP change] Shard lost 11 HP (68 -> 57)
+[Stat change] Shard's Speed changed by -1 (0 -> -1)
+"Shard's Speed fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Shard (0)...
+     lowering the target's Speed isn't worthwhile
+     +  5: damaging move (predicted damage 12 = 21% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Shard (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 140
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Shard (0), the opposing Clodsire (1)
+
+[Use move] Shard (0) used Mud Shot
+"Shard used Mud Shot!"
+[HP change] The opposing Clodsire lost 26 HP (62 -> 36)
+"It's super effective!"
+[HP change] The opposing Clodsire gained 10 HP (36 -> 46)
+"The opposing Clodsire restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Clodsire consumed its held Oran Berry
+[Stat change] The opposing Clodsire's Speed changed by -1 (-1 -> -2)
+"The opposing Clodsire's Speed fell!"
+[Use move] The opposing Clodsire (1) used Mud Shot
+"The opposing Clodsire used Mud Shot!"
+[HP change] Shard lost 11 HP (57 -> 46)
+[Stat change] Shard's Speed changed by -1 (-1 -> -2)
+"Shard's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Test Sprite Mizuki!"
+"AAA"
+
+"You got $2,100 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Wooper!"
+"Go! Shard!"
+[Round order] Shard (0), the opposing Wooper (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Test Sprite Mizuki!"
+"AAA"
+
+"You got $1,400 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Shard!"
+[Round order] Shard (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Shard (0)...
+     lowering the target's Speed isn't worthwhile
+     +  6: damaging move (predicted damage 12 = 26% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Shard (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 143
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Shard (0), the opposing Clodsire (1)
+
+[Use move] Shard (0) used Earthquake
+"Shard used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+"Shard got 635 Exp. Points!"
+
+[End of round 1]
+"Test Sprite Mizuki sent out Mudbray!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Aaaaaa (0)...
+     lowering the target's Speed isn't worthwhile
+     +  5: damaging move (predicted damage 14 = 20% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Aaaaaa (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 149
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+"Aaaaaa got 635 Exp. Points!"
+
+[End of round 1]
+"Test Sprite Mizuki sent out Swinub!"
+
+===== Round 2 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Wooper!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Wooper (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Test Sprite Mizuki!"
+"AAA"
+
+"You got $1,400 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Aaaaaa (0)...
+     lowering the target's Speed isn't worthwhile
+     +  5: damaging move (predicted damage 14 = 20% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Aaaaaa (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 149
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+"Aaaaaa got 635 Exp. Points!"
+
+[End of round 1]
+"Test Sprite Mizuki sent out Swinub!"
+
+===== Round 2 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+
+**Exception: undefined method `can_terastallize?' for #<Battle::AI::AIBattler>
+[Advanced AI System] [023] Terastallization_Intelligence.rb:11:in `should_terastallize?'
+[Advanced AI System] [025] Mechanics_Hooks.rb:63:in `run_advanced_ai_special_actions'
+[Advanced AI System] [025] Mechanics_Hooks.rb:18:in `pbRegisterEnemySpecialAction'
+[Deluxe Battle Kit] [003] Command Menu Refactor.rb:462:in `pbDefaultChooseEnemyCommand'
+Section155:215:in `block in pbCommandPhaseLoop'
+Section155:203:in `loop'
+Section155:203:in `pbCommandPhaseLoop'
+[Deluxe Battle Kit] [003] Command Menu Refactor.rb:381:in `pbCommandPhase'
+Section148:336:in `block (2 levels) in pbBattleLoop'
+Section012:6:in `logonerr'
+Section148:336:in `block in pbBattleLoop'
+Section148:324:in `loop'
+Section148:324:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+Section148:271:in `pbStartBattle'
+Section256:521:in `block (2 levels) in start_core'
+Section257:55:in `pbSceneStandby'
+Section256:521:in `block in start_core'
+Section257:126:in `pbBattleAnimation'
+Section256:520:in `start_core'
+Section256:486:in `start'
+(eval):1:in `execute_script'
+Section033:138:in `eval'
+Section033:138:in `execute_script'
+Section034:434:in `command_111'
+Section034:29:in `execute_command'
+Section033:130:in `block in update'
+Section033:86:in `loop'
+Section033:86:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+Section032:167:in `block in update'
+Section032:166:in `loop'
+Section032:166:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+Section032:238:in `block in main'
+Section032:235:in `loop'
+Section032:235:in `main'
+Section401:35:in `mainFunctionDebug'
+Section401:18:in `block in mainFunction'
+Section014:80:in `pbCriticalCode'
+Section401:18:in `mainFunction'
+Section401:45:in `block in <main>'
+Section401:44:in `loop'
+Section401:44:in `<main>'
+-e:in `eval'
+
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+
+**Exception: undefined method `tera?' for #<Battle::AI::AIBattler>
+[Advanced AI System] [023] Terastallization_Intelligence.rb:12:in `should_terastallize?'
+[Advanced AI System] [025] Mechanics_Hooks.rb:63:in `run_advanced_ai_special_actions'
+[Advanced AI System] [025] Mechanics_Hooks.rb:18:in `pbRegisterEnemySpecialAction'
+[Deluxe Battle Kit] [003] Command Menu Refactor.rb:462:in `pbDefaultChooseEnemyCommand'
+Section155:215:in `block in pbCommandPhaseLoop'
+Section155:203:in `loop'
+Section155:203:in `pbCommandPhaseLoop'
+[Deluxe Battle Kit] [003] Command Menu Refactor.rb:381:in `pbCommandPhase'
+Section148:336:in `block (2 levels) in pbBattleLoop'
+Section012:6:in `logonerr'
+Section148:336:in `block in pbBattleLoop'
+Section148:324:in `loop'
+Section148:324:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+Section148:271:in `pbStartBattle'
+Section256:521:in `block (2 levels) in start_core'
+Section257:55:in `pbSceneStandby'
+Section256:521:in `block in start_core'
+Section257:126:in `pbBattleAnimation'
+Section256:520:in `start_core'
+Section256:486:in `start'
+(eval):1:in `execute_script'
+Section033:138:in `eval'
+Section033:138:in `execute_script'
+Section034:434:in `command_111'
+Section034:29:in `execute_command'
+Section033:130:in `block in update'
+Section033:86:in `loop'
+Section033:86:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+Section032:167:in `block in update'
+Section032:166:in `loop'
+Section032:166:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+Section032:238:in `block in main'
+Section032:235:in `loop'
+Section032:235:in `main'
+Section401:35:in `mainFunctionDebug'
+Section401:18:in `block in mainFunction'
+Section014:80:in `pbCriticalCode'
+Section401:18:in `mainFunction'
+Section401:45:in `block in <main>'
+Section401:44:in `loop'
+Section401:44:in `<main>'
+-e:in `eval'
+
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+[AI] Clodsire (1) is considering using Mud Shot against Aaaaaa (0)...
+     lowering the target's Speed isn't worthwhile
+     +  5: damaging move (predicted damage 14 = 20% of target's HP)
+[AI] Clodsire (1) is considering using Toxic Spikes...
+     + 16: function code modifier (generic)
+[AI] Clodsire (1) is considering using Yawn against Aaaaaa (0)...
+     + 15: function code modifier (against target)
+[AI] Clodsire (1) is considering using Tail Whip...
+     lowering the target's Defense isn't worthwhile
+     - 40: function code modifier (against target)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Mud Shot (target 0): score 149
+   *   0.0% to use Toxic Spikes: score 116
+   *   0.0% to use Yawn (target 0): score 115
+   *   0.0% to use Tail Whip: score 60
+   => will use Mud Shot (target 0)
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+"Aaaaaa got 635 Exp. Points!"
+
+[End of round 1]
+"Test Sprite Mizuki sent out Mudbray!"
+
+===== Round 2 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+   => will switch with Mudbray
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+"Test Sprite Mizuki withdrew Clodsire!"
+"Test Sprite Mizuki sent out Mudbray!"
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Mudbray lost 55 HP (64 -> 9)
+
+[End of round 1]
+
+===== Round 2 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Test Sprite Mizuki!"
+"Test Sprite Mizuki sent out Clodsire!"
+"Go! Aaaaaa!"
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+===== Round 1 =====
+
+   => will switch with Mudbray
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+"Test Sprite Mizuki withdrew Clodsire!"
+"Test Sprite Mizuki sent out Mudbray!"
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Mudbray lost 55 HP (64 -> 9)
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Mudbray is considering Terastallizing into the Ground-type...
+[AI] Mudbray is comparing Terastal score with party member Clodsire (score: 5)...
+[AI] Mudbray is comparing Terastal score with party member Swinub (score: 5)...
+[AI] Mudbray will not Terastallize
+[AI] Mudbray is considering using Strength against Aaaaaa (0)...
+[AI] Mudbray is considering using Double Kick against Aaaaaa (0)...
+[AI] Mudbray is considering using Bulldoze...
+[AI] Mudbray is considering using Rock Smash against Aaaaaa (0)...
+[AI] Move choices for Mudbray:
+   *   0.0% to use Strength (target 0): score 160.0
+   *   0.0% to use Double Kick (target 0): score 223.0
+   *   0.0% to use Bulldoze: score 228.0
+   * 100.0% to use Rock Smash (target 0): score 241.0
+   => will use Rock Smash (target 0)
+
+[Round order] Aaaaaa (0), the opposing Mudbray (1)
+
+"The opposing Mudbray Terastallized into the Ground-type!"
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Mudbray lost 9 HP (9 -> 0)
+"The opposing Mudbray fainted!"
+"Aaaaaa got 324 Exp. Points!"
+
+[End of round 2]
+"Test Sprite Mizuki sent out Clodsire!"
+
+===== Round 3 =====
+
+[AI] Clodsire is considering using Mud Shot against Aaaaaa (0)...
+[AI] Clodsire is considering using Toxic Spikes...
+[AI] Clodsire is considering using Yawn against Aaaaaa (0)...
+[AI] Clodsire is considering using Tail Whip...
+[AI] Move choices for Clodsire:
+   *   0.0% to use Mud Shot (target 0): score 195.5
+   * 100.0% to use Toxic Spikes: score 535
+   *   0.0% to use Yawn (target 0): score 195.0
+   *   0.0% to use Tail Whip: score 195.0
+   => will use Toxic Spikes
+
+[Round order] Aaaaaa (0), the opposing Clodsire (1)
+
+[Use move] Aaaaaa (0) used Earthquake
+"Aaaaaa used Earthquake!"
+[HP change] The opposing Clodsire lost 89 HP (89 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+"Aaaaaa got 635 Exp. Points!"
+
+[End of round 3]
+"Test Sprite Mizuki sent out Swinub!"
+
+===== Round 4 =====
+

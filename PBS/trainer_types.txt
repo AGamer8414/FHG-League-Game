@@ -434,7 +434,8 @@ SkillLevel = 90
 Name = Test Sprite
 Gender = Unknown
 BaseMoney = 100
-SkillLevel = 91
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 4,-5
 #-------------------------------
 [DOCTORDUO]

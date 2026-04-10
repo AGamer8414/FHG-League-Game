@@ -695,3 +695,6 @@ MapPosition = 0,18,8
 [121]   # Blossea Town Houses
 Name = Blossea Town
 MapPosition = 0,13,4
+#-------------------------------
+[123]   # Coastide Gym
+MapPosition = 0,13,4

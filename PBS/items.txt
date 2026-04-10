@@ -3916,9 +3916,8 @@ FieldUse = OnPokemon
 Flags = Fling_30
 Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
 #-------------------------------
-[SUPERRARECANDY]
-Name = Super Rare Candy
-NamePlural = Super Rare Candies
+[RARECANDY2]
+Name = Rare Candy 2.0
 Pocket = 2
 FieldUse = OnPokemon
 Flags = KeyItem
@@ -7643,10 +7642,9 @@ Description = A very convenient map that can be viewed anytime. It even shows yo
 [ESCAPEROPE]
 Name = Escape Rope
 NamePlural = Escape Ropes
-Pocket = 8
-Price = 0
+Pocket = 1
+Price = 600
 FieldUse = Direct
-Flags = KeyItem
 Description = A long, durable rope. Use it to escape instantly from a cave or a dungeon.
 #-------------------------------
 [COINCASE]
