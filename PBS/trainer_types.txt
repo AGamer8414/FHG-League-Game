@@ -34,12 +34,16 @@ BaseMoney = 36
 Name = Aroma Lady
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [BEAUTY]
 Name = Beauty
 Gender = Female
 BaseMoney = 56
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 SpriteScale = 1
 ShadowXY = 1,-2
 #-------------------------------
@@ -52,19 +56,24 @@ BaseMoney = 32
 Name = Bird Keeper
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [BUGCATCHER]
 Name = Bug Catcher
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [BURGLAR]
 Name = Burglar
 Gender = Male
 BaseMoney = 88
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [CHANNELER]
 Name = Channeler
@@ -80,28 +89,37 @@ BaseMoney = 24
 Name = Engineer
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [FISHERMAN]
 Name = Fisherman
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-4
 #-------------------------------
 [GAMBLER]
 Name = Gambler
 Gender = Male
 BaseMoney = 72
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [GENTLEMAN]
 Name = Gentleman
 Gender = Male
 BaseMoney = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [HIKER]
 Name = Hiker
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-10
 #-------------------------------
 [JUGGLER]
@@ -113,7 +131,8 @@ BaseMoney = 32
 Name = Lady
 Gender = Female
 BaseMoney = 160
-SkillLevel = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [PAINTER]
 Name = Painter
@@ -123,13 +142,17 @@ BaseMoney = 16
 [POKEMANIAC]
 Name = Poké Maniac
 Gender = Male
-BaseMoney = 64
+BaseMoney = 30
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-3
 #-------------------------------
 [POKEMONBREEDER]
 Name = Pokémon Breeder
 Gender = Female
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [PROFESSOR]
 Name = Professor
@@ -140,182 +163,233 @@ BaseMoney = 100
 Name = Rocker
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [RUINMANIAC]
 Name = Ruin Maniac
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [SAILOR]
 Name = Sailor
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [SCIENTIST]
 Name = Scientist
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [SUPERNERD]
 Name = Super Nerd
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TAMER]
 Name = Tamer
 Gender = Male
 BaseMoney = 40
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [BLACKBELT]
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-5
 #-------------------------------
 [CRUSHGIRL]
 Name = Battle Girl
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-4
 #-------------------------------
 [CAMPER]
 Name = Camper
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-3
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
 Gender = Female
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [COOLTRAINER_M]
 Name = Ace Trainer
 Gender = Male
 BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-5
 #-------------------------------
 [COOLTRAINER_F]
 Name = Ace Trainer
 Gender = Female
 BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-3
 #-------------------------------
 [YOUNGSTER]
 Name = Youngster
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-3
 #-------------------------------
 [LASS]
 Name = Lass
 Gender = Female
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [POKEMONRANGER_M]
 Name = Pokémon Ranger
 Gender = Male
 BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-5
 #-------------------------------
 [POKEMONRANGER_F]
 Name = Pokémon Ranger
 Gender = Female
 BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-5
 #-------------------------------
 [PSYCHIC_M]
 Name = Psychic
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [PSYCHIC_F]
 Name = Psychic
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-4
 #-------------------------------
 [SWIMMER_M]
 Name = Swimmer
 Gender = Male
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-2
 #-------------------------------
 [SWIMMER_F]
 Name = Swimmer
 Gender = Female
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [SWIMMER2_M]
 Name = Swimmer
 Gender = Male
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [SWIMMER2_F]
 Name = Swimmer
 Gender = Female
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TUBER_M]
 Name = Tuber
 Gender = Male
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TUBER_F]
 Name = Tuber
 Gender = Female
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TUBER2_M]
 Name = Tuber
 Gender = Male
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TUBER2_F]
 Name = Tuber
 Gender = Female
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [COOLCOUPLE]
 Name = Cool Couple
 Gender = Unknown
 BaseMoney = 72
-SkillLevel = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-5
 #-------------------------------
 [CRUSHKIN]
 Name = Crush Kin
 Gender = Unknown
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-4
 #-------------------------------
 [SISANDBRO]
 Name = Sis and Bro
 Gender = Unknown
 BaseMoney = 16
-SkillLevel = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TWINS]
 Name = Twins
 Gender = Unknown
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-2
 #-------------------------------
 [YOUNGCOUPLE]
 Name = Young Couple
 Gender = Unknown
 BaseMoney = 60
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-4
 #-------------------------------
 [TEAMROCKET_M]
@@ -428,13 +502,12 @@ VictoryBGM = Battle victory leader
 Name = Super Cool Dude
 Gender = Unknown
 BaseMoney = 100
-SkillLevel = 90
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [TEST]
 Name = Test Sprite
 Gender = Unknown
 BaseMoney = 100
-SkillLevel = 100
 Flags = AntiReserveLastPokemon
 ShadowXY = 4,-5
 #-------------------------------
@@ -442,5 +515,126 @@ ShadowXY = 4,-5
 Name = Doctor Duo
 Gender = Unknown
 BaseMoney = 72
-SkillLevel = 90
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-8
+#-------------------------------
+[LEADER_Mizuki]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 0,-2
+#-------------------------------
+[LEADER_Holly]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 2,-2
+#-------------------------------
+[LEADER_Risk]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 1,-5
+#-------------------------------
+[LEADER_Jack]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Vixi]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 1,-2
+#-------------------------------
+[LEADER_Frosty]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 1,-1
+#-------------------------------
+[LEADER_Destinum]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 1,-3
+#-------------------------------
+[LEADER_Skillz]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 3,-4
+#-------------------------------
+[LEADER_Swaggy]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+ShadowXY = 3,-4
+#-------------------------------
+[LEADER_Val]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Halo]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Marityne]
+Name = Elite Four
+Gender = Unknown
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Wafflez]
+Name = Elite Four
+Gender = Unknown
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Gamer]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+Flags = AntiReserveLastPokemon
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader

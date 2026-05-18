@@ -590,7 +590,7 @@ Pokemon = MISDREAVUS,15
     EV = 0,0,0,0,0,0
 #-------------------------------
 [PARASOLLADY,Lisa,1]
-LoseText = aaa
+LoseText = Do you enjoy the rain too?
 Pokemon = POLIWAG,8
     Moves = WATERGUN,POUND,HYPNOSIS
     AbilityIndex = 0
@@ -607,7 +607,7 @@ Pokemon = GOLDEEN,7
     EV = 0,0,0,0,0,0
 #-------------------------------
 [PARASOLLADY,Lisa,2]
-LoseText = aaa
+LoseText = Do you enjoy the rain too?
 Pokemon = POLIWAG,14
     Moves = WATERGUN,POUND,HYPNOSIS,MUDSHOT
     AbilityIndex = 0
@@ -624,7 +624,7 @@ Pokemon = GOLDEEN,14
     EV = 0,0,0,0,0,0
 #-------------------------------
 [CAMPER,Diziet,1]
-LoseText = Guess I'll make like a tree and leaf.
+LoseText = Guess I'll make like a tree, and leaf.
 Pokemon = VULPIX,4
     Moves = EMBER,TAILWHIP,DISABLE
     AbilityIndex = 2
@@ -641,7 +641,7 @@ Pokemon = CHIKORITA,5
     EV = 0,0,0,0,0,0
 #-------------------------------
 [CAMPER,Diziet,2]
-LoseText = Guess I'll make like a tree and leaf.
+LoseText = Guess I'll make like a tree, and leaf.
 Pokemon = VULPIX,13
     Moves = EMBER,TAILWHIP,QUICKATTACK,DISABLE
     AbilityIndex = 2
@@ -726,7 +726,7 @@ Pokemon = EEVEE,14
     EV = 0,0,0,0,0,0
 #-------------------------------
 [POKEMONRANGER_F,Sam,1]
-LoseText = aaa
+LoseText = Wow! You're pretty strong!
 Pokemon = MANKEY,7
     Moves = COVET,FURYSWIPES,LEER,FOCUSENERGY
     AbilityIndex = 0
@@ -743,7 +743,7 @@ Pokemon = TRUBBISH,8
     EV = 0,0,0,0,0,0
 #-------------------------------
 [POKEMONRANGER_F,Sam,2]
-LoseText = aaa
+LoseText = Wow! You're pretty strong!
 Pokemon = MANKEY,15
     Moves = LOWKICK,COVET,LEER,FOCUSENERGY
     AbilityIndex = 0
@@ -760,7 +760,7 @@ Pokemon = TRUBBISH,15
     EV = 0,0,0,0,0,0
 #-------------------------------
 [CYCLIST_M,Toby,1]
-LoseText = aaa
+LoseText = WOOO! HAHA YEA!
 Pokemon = VAROOM,8
     Moves = LICK,SMOG,POISONGAS,TAUNT
     AbilityIndex = 0
@@ -770,7 +770,7 @@ Pokemon = VAROOM,8
     EV = 0,0,0,0,0,0
 #-------------------------------
 [CYCLIST_M,Toby,2]
-LoseText = aaa
+LoseText = WOOO! HAHA YEA!
 Pokemon = VAROOM,15
     Moves = SLUDGE,ASSURANCE,POISONGAS,TAUNT
     AbilityIndex = 0
@@ -1244,7 +1244,7 @@ Pokemon = COTTONEE,15
     EV = 0,0,0,0,0,0
 #-------------------------------
 [HIKER,Weterpete,1]
-LoseText = aaa
+LoseText = Looks like I lost... Darn!
 Pokemon = SNIVY,8
     Moves = TACKLE,VINEWHIP,WRAP,LEER
     AbilityIndex = 2
@@ -1254,8 +1254,8 @@ Pokemon = SNIVY,8
     EV = 0,0,0,0,0,0
 #-------------------------------
 [HIKER,Weterpete,2]
-LoseText = aaa
-Pokemon = PIDGEY,13
+LoseText = Looks like I lost... Darn!
+Pokemon = PIDGEY,14
     Moves = TACKLE,QUICKATTACK,GUST,SANDATTACK
     AbilityIndex = 0
     Gender = female
@@ -1271,7 +1271,7 @@ Pokemon = SNIVY,14
     EV = 0,0,0,0,0,0
 #-------------------------------
 [YOUNGCOUPLE,Claude & Lucy,1]
-LoseText = aaa
+LoseText = No matter what, we'll be here for each other!
 Pokemon = PICHU,7
     Moves = THUNDERSHOCK,TAILWHIP,PLAYNICE
     AbilityIndex = 0
@@ -1288,7 +1288,7 @@ Pokemon = BLITZLE,7
     EV = 0,0,0,0,0,0
 #-------------------------------
 [YOUNGCOUPLE,Claude & Lucy,2]
-LoseText = aaa
+LoseText = No matter what, we'll be here for each other!
 Pokemon = PIKACHU,14
     Moves = ELECTROBALL,NUZZLE,TAILWHIP,PLAYNICE
     AbilityIndex = 0
@@ -1582,7 +1582,7 @@ Pokemon = INKAY,14
     EV = 0,0,0,0,0,0
 #-------------------------------
 [HIKER,Walter,1]
-LoseText = aaa
+LoseText = No matter how strong you think you are, always be sure to take care of yourself!
 Pokemon = GLIGAR,8
     Moves = POISONSTING,HARDEN,SANDATTACK
     AbilityIndex = 2
@@ -1592,7 +1592,7 @@ Pokemon = GLIGAR,8
     EV = 0,0,0,0,0,0
 #-------------------------------
 [HIKER,Walter,2]
-LoseText = aaa
+LoseText = No matter how strong you think you are, always be sure to take care of yourself!
 Pokemon = GLIGAR,16
     Moves = QUICKATTACK,FURYCUTTER,HARDEN,KNOCKOFF
     AbilityIndex = 2
@@ -1623,7 +1623,7 @@ Pokemon = SKORUPI,17
 #-------------------------------
 [COOLTRAINER_F,Ruby,1]
 Items = MEGARING
-LoseText = aaa
+LoseText = That was the power of Mega Evolution!
 Pokemon = MIENFOO,18
     Moves = FAKEOUT,REVERSAL,POUND,DETECT
     AbilityIndex = 0
@@ -1641,7 +1641,7 @@ Pokemon = SABLEYE,19
     EV = 0,0,0,0,0,0
 #-------------------------------
 [LASS,Emily,1]
-LoseText = aaa
+LoseText = I think I've gotten a bit stronger!
 Pokemon = SANDSHREW,6
     Moves = POISONSTING,SCRATCH,DEFENSECURL,SANDATTACK
     AbilityIndex = 0
@@ -1658,7 +1658,7 @@ Pokemon = ZUBAT,8
     EV = 0,0,0,0,0,0
 #-------------------------------
 [LASS,Emily,2]
-LoseText = aaa
+LoseText = I think I've gotten a bit stronger!
 Pokemon = SANDSHREW,14
     Moves = ROLLOUT,SCRATCH,FURYCUTTER,DEFENSECURL
     AbilityIndex = 0
@@ -1983,10 +1983,6 @@ Pokemon = MISDREAVUS,14
     IV = 10,10,10,10,10,10
     EV = 0,0,0,0,0,0
 #-------------------------------
-[PSYCHIC_F,Placeholder,1]
-LoseText = aaa
-Pokemon = PIKACHU,5
-#-------------------------------
 [SWIMMER_M,Alan,1]
 LoseText = AAA
 Pokemon = CHINCHOU,11
@@ -2060,7 +2056,7 @@ Pokemon = CARVANHA,20
     EV = 0,0,0,0,0,0
 #-------------------------------
 [AROMALADY,Becky,1]
-LoseText = aaa
+LoseText = Looks like you really want that hint!
 Pokemon = BOUNSWEET,12
     Moves = RAZORLEAF,RAPIDSPIN,PLAYNICE
     AbilityIndex = 1
@@ -2076,7 +2072,7 @@ Pokemon = BELLSPROUT,11
     EV = 0,0,0,0,0,0
 #-------------------------------
 [AROMALADY,Becky,2]
-LoseText = aaa
+LoseText = Looks like you really want that hint!
 Pokemon = STEENEE,19
     Moves = RAZORLEAF,RAPIDSPIN,PLAYNICE,FLAIL
     AbilityIndex = 1
@@ -2092,7 +2088,7 @@ Pokemon = BELLSPROUT,19
     EV = 0,0,0,0,0,0
 #-------------------------------
 [POKEMONBREEDER2,Bobby,1]
-LoseText = aaa
+LoseText = Very well. I shall give you your well deserved hint.
 Pokemon = BRAMBLIN,12
     Moves = ABSORB,ASTONISH,RAPIDSPIN,DEFENSECURL
     AbilityIndex = 0
@@ -2102,7 +2098,7 @@ Pokemon = BRAMBLIN,12
     EV = 0,0,0,0,0,0
 #-------------------------------
 [POKEMONBREEDER2,Bobby,2]
-LoseText = aaa
+LoseText = Very well. I shall give you your well deserved hint.
 Pokemon = BRAMBLIN,20
     Moves = ABSORB,ASTONISH,RAPIDSPIN,DEFENSECURL
     AbilityIndex = 0
@@ -2112,7 +2108,7 @@ Pokemon = BRAMBLIN,20
     EV = 0,0,0,0,0,0
 #-------------------------------
 [AROMALADY,Rosa,1]
-LoseText = aaa
+LoseText = Wonderful job!
 Pokemon = COTTONEE,11
     Moves = ABSORB,FAIRYWIND,STUNSPORE
     AbilityIndex = 0
@@ -2128,7 +2124,7 @@ Pokemon = PETILIL,11
     EV = 0,0,0,0,0,0
 #-------------------------------
 [AROMALADY,Rosa,2]
-LoseText = aaa
+LoseText = Wonderful job!
 Pokemon = COTTONEE,19
     Moves = ABSORB,FAIRYWIND,STUNSPORE,GROWTH
     AbilityIndex = 0
@@ -2143,23 +2139,171 @@ Pokemon = PETILIL,11
     IV = 10,10,10,10,10,10
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Mizuki,1]
+[PSYCHIC_F,Morgan,1]
+LoseText = You have passed the first half of my test.
+Pokemon = SABLEYE,12
+    Moves = SHADOWSNEAK,SCRATCH,FAKEOUT,LEER
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Morgan,2]
+LoseText = You have passed the first half of my test.
+Pokemon = SABLEYE,19
+    Moves = SHADOWSNEAK,SCRATCH,DISABLE,LEER
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Ed,1]
+LoseText = My Pokémon couldn't stand up to your might...
+Pokemon = PHANTUMP,11
+    Moves = ASTONISH,BRANCHPOKE,TACKLE,LEECHSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PUMPKABOO,11
+    Moves = SHADOWSNEAK,ASTONISH,CONFUSERAY,TRICKORTREAT
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_M,Ed,2]
+LoseText = My Pokémon couldn't stand up to your might...
+Pokemon = PHANTUMP,19
+    Moves = ASTONISH,BRANCHPOKE,CONFUSERAY,LEECHSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PUMPKABOO,19
+    Moves = SHADOWSNEAK,RAZORLEAF,LEECHSEED,TRICKORTREAT
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Lisa,1]
+LoseText = So much power!
+Pokemon = MISDREAVUS,12
+    Moves = ASTONISH,CONFUSION,GROWL
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Lisa,2]
+LoseText = So much power!
+Pokemon = MISDREAVUS,12
+    Moves = ASTONISH,CONFUSION,GROWL,CONFUSERAY
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Rachel,1]
+LoseText = So, what did you think of the battle court?
+Pokemon = MIMEJR,12
+    Moves = DISARMINGVOICE,CONFUSION,ENCORE,COPYCAT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Rachel,2]
+LoseText = So, what did you think of the battle court?
+Pokemon = MIMEJR,20
+    Moves = DISARMINGVOICE,CONFUSION,ENCORE,PROTECT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Tiffany,1]
+LoseText = My Pokémon didn't stand a chance...
+Pokemon = JIGGLYPUFF,11
+    Moves = DISARMINGVOICE,COVET,CHARM,SING
+    AbilityIndex = 1
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = COTTONEE,11
+    Moves = FAIRYWIND,ABSORB,STUNSPORE
+    AbilityIndex = 1
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[LASS,Tiffany,2]
+LoseText = My Pokémon didn't stand a chance...
+Pokemon = JIGGLYPUFF,19
+    Moves = DISARMINGVOICE,COVET,CHARM,SING
+    AbilityIndex = 1
+    Gender = female
+    Nature = TIMID
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = COTTONEE,19
+    Moves = FAIRYWIND,ABSORB,STUNSPORE,GROWTH
+    AbilityIndex = 1
+    Gender = female
+    Nature = GENTLE
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[AROMALADY,Flo,1]
+LoseText = Nope, you seem wide awake.
+Pokemon = FLABEBE,12
+    Moves = FAIRYWIND,VINEWHIP,TACKLE,SAFEGUARD
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[AROMALADY,Flo,2]
+LoseText = Nope, you seem wide awake.
+Pokemon = FLABEBE,20
+    Moves = FAIRYWIND,RAZORLEAF,WISH,SAFEGUARD
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[PSYCHIC_F,Placeholder,1]
+LoseText = aaa
+Pokemon = PIKACHU,5
+#-------------------------------
+[LEADER_Mizuki,Mizuki,1]
 LoseText = AAA
 Pokemon = WOOPER,14
-    Moves = MUDSHOT,TOXICSPIKES,TAILWHIP,POISONTAIL
-    Item = ORANBERRY
     Form = 1
+    Moves = MUDSHOT,TOXICSPIKES,TAILWHIP,POISONTAIL
     AbilityIndex = 1
-    Nature = RELAXED
+    Item = ORANBERRY
     Gender = female
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = SWINUB,14
     Moves = BULLDOZE,MUDSLAP,POWDERSNOW,TACKLE
-    Item = RINDOBERRY
     AbilityIndex = 2
-    Nature = SERIOUS
+    Item = RINDOBERRY
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = MUDBRAY,14
@@ -2170,25 +2314,25 @@ Pokemon = MUDBRAY,14
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Mizuki,2]
+[LEADER_Mizuki,Mizuki,2]
 Items = TERAORB
 LoseText = AAA
 Pokemon = CLODSIRE,21
-    Moves = MUDSHOT,TOXICSPIKES,YAWN,TAILWHIP
-    Item = ORANBERRY
     Form = 1
+    Moves = MUDSHOT,TOXICSPIKES,YAWN,TAILWHIP
     AbilityIndex = 1
-    Nature = RELAXED
+    Item = ORANBERRY
     Gender = female
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GROUND
 Pokemon = SWINUB,21
     Moves = BULLDOZE,MUDSLAP,POWDERSNOW,ICESHARD
-    Item = RINDOBERRY
     AbilityIndex = 2
-    Nature = SERIOUS
+    Item = RINDOBERRY
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GROUND
@@ -2201,39 +2345,39 @@ Pokemon = MUDBRAY,21
     EV = 0,0,0,0,0,0
     TeraType = GROUND
 #-------------------------------
-[TEST,Holly,1]
+[LEADER_Holly,Holly,1]
 LoseText = aaa
 Pokemon = IMPIDIMP,14
     Moves = FAKEOUT,FLATTER,BITE,TAUNT
     AbilityIndex = 0
-    Nature = RELAXED
     Gender = male
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = CLEFAIRY,14
     Moves = DRAININGKISS,POUND,WISH,ENCORE
     AbilityIndex = 1
     Item = KEBIABERRY
-    Nature = CALM
     Gender = female
+    Nature = CALM
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = TINKATINK,14
-    Moves = ROCKSMASH,COVET,FAIRYWIND,METALCLAW
+    Moves = ROCKSMASH,COVET,DRAININGKISS,METALCLAW
     AbilityIndex = 1
     Item = ORANBERRY
     Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Holly,2]
+[LEADER_Holly,Holly,2]
 Items = TERAORB
 LoseText = aaa
 Pokemon = IMPIDIMP,21
     Moves = DRAININGKISS,SWAGGER,BITE,TAUNT
     AbilityIndex = 0
-    Nature = RELAXED
     Gender = male
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = FAIRY
@@ -2241,8 +2385,8 @@ Pokemon = CLEFAIRY,21
     Moves = DRAININGKISS,POUND,WISH,ENCORE
     AbilityIndex = 1
     Item = KEBIABERRY
-    Nature = CALM
     Gender = female
+    Nature = CALM
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = FAIRY
@@ -2255,39 +2399,39 @@ Pokemon = TINKATINK,14
     EV = 0,0,0,0,0,0
     TeraType = FAIRY
 #-------------------------------
-[TEST,Rifk,1]
+[LEADER_Risk,Risk,1]
 LoseText = aaa
 Pokemon = JANGMOO,14
     Moves = TACKLE,DRAGONTAIL,LEER,SCARYFACE
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = GIBLE,14
     Moves = DRAGONBREATH,TACKLE,SANDATTACK
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = DEINO,14
     Moves = TACKLE,BITE,DRAGONTAIL,ROAR
     Item = ROSELIBERRY
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Rifk,2]
-LoseText = aaa
+[LEADER_Risk,Risk,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = JANGMOO,21
     Moves = HEADBUTT,DRAGONTAIL,WORKUP,SCARYFACE
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = DRAGON
@@ -2295,63 +2439,63 @@ Pokemon = GIBLE,21
     Moves = SANDTOMB,DRAGONBREATH,BULLDOZE,SANDATTACK
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = DRAGON
 Pokemon = DEINO,21
     Moves = HEADBUTT,BITE,DRAGONTAIL,ROAR
     Item = ROSELIBERRY
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = DRAGON
 #-------------------------------
-[TEST,Jack,1]
+[LEADER_Jack,Jack,1]
 LoseText = aaa
 Pokemon = CROAGUNK,14
     Moves = POISONSTING,LOWKICK,MUDSLAP,TAUNT
     AbilityIndex = 1
     Item = PAYAPABERRY
-    Nature = JOLLY
     Gender = male
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = SCRAGGY,14
     Moves = LOWKICK,LEER,PAYBACK,HEADBUTT
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = MIENFOO,14
     Moves = LOWKICK,AERIALACE,DETECT,FAKEOUT
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Jack,2]
-LoseText = aaa
+[LEADER_Jack,Jack,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = CROAGUNK,21
     Moves = POISONSTING,LOWKICK,MUDSLAP,TAUNT
     AbilityIndex = 1
     Item = PAYAPABERRY
-    Nature = JOLLY
     Gender = male
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = FIGHTING
 Pokemon = SCRAGGY,21
     Moves = LOWKICK,LEER,PAYBACK,TORMENT
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = female
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = FIGHTING
@@ -2359,53 +2503,53 @@ Pokemon = MIENFOO,21
     Moves = LOWSWEEP,AERIALACE,DETECT,FAKEOUT
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = FIGHTING
 #-------------------------------
-[TEST,Vixi,1]
+[LEADER_Vixi,Vixi,1]
 LoseText = aaa
 Pokemon = GASTLY,14
     Moves = LICK,PAYBACK,HYPNOSIS,MEANLOOK
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = ZORUA,14
+    Form = 1
     Moves = SHADOWSNEAK,SCRATCH,HEX,TORMENT
     Item = ORANBERRY
-    Form = 1
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = DREEPY,14
     Moves = ASTONISH,INFESTATION,THUNDERWAVE,BITE
     AbilityIndex = 0
     Item = COLBURBERRY
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Vixi,2]
-LoseText = aaa
+[LEADER_Vixi,Vixi,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = GASTLY,21
     Moves = LICK,CURSE,HYPNOSIS,MEANLOOK
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GHOST
 Pokemon = ZORUA,21
+    Form = 1
     Moves = SHADOWSNEAK,SCRATCH,HEX,TAUNT
     Item = ORANBERRY
-    Form = 1
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GHOST
@@ -2413,47 +2557,47 @@ Pokemon = DREEPY,21
     Moves = ASTONISH,INFESTATION,THUNDERWAVE,BITE
     AbilityIndex = 0
     Item = COLBURBERRY
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GHOST
 #-------------------------------
-[TEST,Frosty,1]
+[LEADER_Frosty,Frosty,1]
 LoseText = aaa
 Pokemon = ELECTRIKE,14
     Moves = SPARK,TACKLE,HOWL,THUNDERWAVE
     AbilityIndex = 0
-    Nature = SERIOUS
     Gender = female
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = TADBULB,14
     Moves = TACKLE,THUNDERSHOCK,WATERGUN,MUDSLAP
     AbilityIndex = 0
     Item = SHUCABERRY
-    Nature = SASSY
     Gender = male
+    Nature = SASSY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = PIKACHU,14
+    Form = 1
     Moves = ELECTROBALL,QUICKATTACK,THUNDERWAVE,GRASSKNOT
     AbilityIndex = 0
-    Form = 1
     Item = ORANBERRY
-    Nature = JOLLY
     Gender = male
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Frosty,2]
-LoseText = aaa
+[LEADER_Frosty,Frosty,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = ELECTRIKE,21
     Moves = SHOCKWAVE,BITE,LEER,THUNDERWAVE
     AbilityIndex = 0
-    Nature = SERIOUS
     Gender = female
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = ELECTRIC
@@ -2461,23 +2605,23 @@ Pokemon = BELLIBOLT,21
     Moves = TACKLE,THUNDERSHOCK,WATERGUN,CHARGE
     AbilityIndex = 0
     Item = SHUCABERRY
-    Nature = SASSY
     Gender = male
+    Nature = SASSY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = ELECTRIC
 Pokemon = PIKACHU,21
+    Form = 1
     Moves = ELECTROBALL,QUICKATTACK,THUNDERWAVE,GRASSKNOT
     AbilityIndex = 0
-    Form = 1
     Item = ORANBERRY
-    Nature = JOLLY
     Gender = male
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = ELECTRIC
 #-------------------------------
-[TEST,Destinum,1]
+[LEADER_Destinum,Destinum,1]
 LoseText = aaa
 Pokemon = BELDUM,14
     Moves = TACKLE
@@ -2488,8 +2632,8 @@ Pokemon = BELDUM,14
 Pokemon = FERROSEED,14
     Moves = METALCLAW,PINMISSILE,TACKLE,HARDEN
     Item = OCCABERRY
-    Nature = IMPISH
     Gender = male
+    Nature = IMPISH
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = HONEDGE,14
@@ -2500,9 +2644,9 @@ Pokemon = HONEDGE,14
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Destinum,2]
-LoseText = aaa
+[LEADER_Destinum,Destinum,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = METANG,21
     Moves = TACKLE,CONFUSION,METALCLAW,MAGNETRISE
     AbilityIndex = 0
@@ -2513,8 +2657,8 @@ Pokemon = METANG,21
 Pokemon = FERROSEED,21
     Moves = METALCLAW,PINMISSILE,INGRAIN,HARDEN
     Item = OCCABERRY
-    Nature = IMPISH
     Gender = male
+    Nature = IMPISH
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = STEEL
@@ -2527,40 +2671,40 @@ Pokemon = HONEDGE,21
     EV = 0,0,0,0,0,0
     TeraType = STEEL
 #-------------------------------
-[TEST,Skillz,1]
+[LEADER_Skillz,Skillz,1]
 LoseText = aaa
 Pokemon = SLOWPOKE,14
     Moves = WATERGUN,CONFUSION,TACKLE,YAWN
     AbilityIndex = 1
-    Nature = RELAXED
     Gender = female
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = MAREANIE,14
     Moves = POUNCE,ACIDSPRAY,CHILLINGWATER,BITE
     AbilityIndex = 1
     Item = WACANBERRY
-    Nature = SASSY
     Gender = female
+    Nature = SASSY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = MUDKIP,14
     Moves = WATERGUN,ROCKSMASH,ROCKTHROW,GROWL
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Skillz,2]
-LoseText = aaa
+[LEADER_Skillz,Skillz,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = SLOWPOKE,21
     Moves = WATERPULSE,CONFUSION,HEADBUTT,YAWN
     AbilityIndex = 1
-    Nature = RELAXED
     Gender = female
+    Nature = RELAXED
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = WATER
@@ -2568,8 +2712,8 @@ Pokemon = MAREANIE,21
     Moves = RECOVER,ACIDSPRAY,CHILLINGWATER,BITE
     AbilityIndex = 1
     Item = WACANBERRY
-    Nature = SASSY
     Gender = female
+    Nature = SASSY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = WATER
@@ -2577,45 +2721,45 @@ Pokemon = MARSHTOMP,21
     Moves = WATERPULSE,MUDSHOT,ROCKTHROW,GROWL
     AbilityIndex = 0
     Item = ORANBERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = WATER
 #-------------------------------
-[TEST,Swaggy,1]
+[LEADER_Swaggy,Swaggy,1]
 LoseText = aaa
 Pokemon = HOPPIP,14
     Moves = BULLETSEED,POISONPOWDER,STUNSPORE,STRENGTHSAP
     AbilityIndex = 2
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = BULBASAUR,14
     Moves = RAZORLEAF,TACKLE,GROWTH,LEECHSEED
     AbilityIndex = 0
     Item = COBABERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = FERROSEED,14
     Moves = TACKLE,BULLETSEED,HARDEN,PINMISSILE
     Item = ORANBERRY
-    Nature = IMPISH
     Gender = male
+    Nature = IMPISH
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Swaggy,2]
-LoseText = aaa
+[LEADER_Swaggy,Swaggy,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = SKIPLOOM,21
     Moves = BULLETSEED,POISONPOWDER,LEECHSEED,STRENGTHSAP
     AbilityIndex = 2
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GRASS
@@ -2623,63 +2767,63 @@ Pokemon = IVYSAUR,21
     Moves = SEEDBOMB,TAKEDOWN,GROWTH,LEECHSEED
     AbilityIndex = 0
     Item = COBABERRY
-    Nature = SERIOUS
     Gender = male
+    Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GRASS
 Pokemon = FERROSEED,21
     Moves = INGRAIN,BULLETSEED,HARDEN,PINMISSILE
     Item = ORANBERRY
-    Nature = IMPISH
     Gender = male
+    Nature = IMPISH
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = GRASS
 #-------------------------------
-[TEST,Val,1]
+[LEADER_Val,Val,1]
 LoseText = aaa
 Pokemon = LILLIPUP,14
     Moves = TACKLE,BITE,WORKUP,LEER
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = BUNEARY,14
     Moves = POUND,DOUBLEKICK,ENCORE,BABYDOLLEYES
     AbilityIndex = 2
     Item = CHOPLEBERRY
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 Pokemon = TEDDIURSA,14
     Moves = COVET,PAYBACK,BABYDOLLEYES,LICK
     AbilityIndex = 1
     Item = ORANBERRY
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
 #-------------------------------
-[TEST,Val,2]
-LoseText = aaa
+[LEADER_Val,Val,2]
 Items = TERAORB
+LoseText = aaa
 Pokemon = TEDDIURSA,21
     Moves = COVET,PAYBACK,BABYDOLLEYES,LICK
     AbilityIndex = 1
     Item = ORANBERRY
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = NORMAL
 Pokemon = HERDIER,21
     Moves = RETALIATE,BITE,WORKUP,LEER
     AbilityIndex = 0
-    Nature = ADAMANT
     Gender = male
+    Nature = ADAMANT
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = NORMAL
@@ -2687,56 +2831,8 @@ Pokemon = LOPUNNY,21
     Moves = QUICKATTACK,LOWKICK,ENCORE,BABYDOLLEYES
     AbilityIndex = 2
     Item = CHOPLEBERRY
-    Nature = JOLLY
     Gender = female
+    Nature = JOLLY
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = NORMAL
-#-------------------------------
-[TEST,AAAAA]
-Items = MEGARING,TERAORB,ZRING
-LoseText = AAA
-Pokemon = MEOWSCARADA,100
-    Moves = FLOWERTRICK,TRIPLEAXEL,PLAYROUGH,UTURN
-    AbilityIndex = 2
-    Item = CHOICESCARF
-    Nature = JOLLY
-    IV = 31,31,31,31,31,31
-    TeraType = DARK
-Pokemon = MANDIBUZZ,100
-    Moves = FOULPLAY,ROOST,DEFOG,UTURN
-    AbilityIndex = 1
-    Item = ROCKYHELMET
-    Nature = IMPISH
-    IV = 31,31,31,31,31,31
-    EV = 248,0,244,16,0,0
-    TeraType = DARK
-Pokemon = TINGLU,100
-    Moves = EARTHQUAKE,RUINATION,STEALTHROCK,WHIRLWIND
-    Item = LEFTOVERS
-    Nature = CAREFUL
-    IV = 31,31,31,31,31,31
-    EV = 248,0,8,0,0,252
-    TeraType = DARK
-Pokemon = SABLEYE,100
-    Moves = KNOCKOFF,WILLOWISP,PROTECT,RECOVER
-    AbilityIndex = 2
-    Item = SABLENITE
-    Nature = CAREFUL
-    IV = 31,31,31,31,31,31
-    EV = 248,0,144,0,0,116
-Pokemon = WEAVILE,100
-    Moves = ICICLECRASH,KNOCKOFF,ICESHARD,SWORDSDANCE
-    AbilityIndex = 0
-    Item = ICIUMZ
-    Nature = JOLLY
-    IV = 31,31,31,31,31,31
-    EV = 0,252,0,252,0,4
-    TeraType = DARK
-Pokemon = HYDREIGON,100
-    Moves = DARKPULSE,FLAMETHROWER,SUBSTITUTE,NASTYPLOT
-    Item = LEFTOVERS
-    Nature = TIMID
-    IV = 0,31,31,31,31,31
-    EV = 0,0,0,252,252,4
-    TeraType = DARK

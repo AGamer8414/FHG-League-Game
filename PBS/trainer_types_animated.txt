@@ -155,277 +155,365 @@ BaseMoney = 60
 Name = Scientist
 Gender = Female
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [POKEMONBREEDER2]
 Name = Pokémon Breeder
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = -1,-8
 #-------------------------------
 [BACKPACKER_M]
 Name = Backpacker
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [BACKPACKER_F]
 Name = Backpacker
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [POKEFAN_M]
 Name = Poké Fan
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-5
 #-------------------------------
 [POKEFAN_F]
 Name = Poké Fan
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [PRESCHOOLER_M]
 Name = Preschooler
 Gender = Male
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [PRESCHOOLER_F]
 Name = Preschooler
 Gender = Female
 BaseMoney = 4
-SkillLevel = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [NURSERYAIDE]
 Name = Nursery Aide
 Gender = Female
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 4,-5
 #-------------------------------
 [SCHOOLKID_M]
 Name = School Kid
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-4
 #-------------------------------
 [SCHOOLKID_F]
 Name = School Kid
 Gender = Female
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [RICHBOY]
 Name = Rich Boy
 Gender = Male
 BaseMoney = 160
-SkillLevel = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [SOCIALITE]
 Name = Socialite
 Gender = Female
 BaseMoney = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [PARASOLLADY]
 Name = Parasol Lady
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [CLERK_M]
 Name = Clerk
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [CLERK2_M]
 Name = Clerk
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-2
 #-------------------------------
 [CLERK_F]
 Name = Clerk
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [JANITOR]
 Name = Janitor
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-12
 #-------------------------------
 [MAID]
 Name = Maid
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [BAKER]
 Name = Baker
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [WAITER]
 Name = Waiter
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [WAITRESS]
 Name = Waitress
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [DOCTOR]
 Name = Doctor
 Gender = Male
 BaseMoney = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 1,-4
 #-------------------------------
 [NURSE]
 Name = Nurse
 Gender = Female
 BaseMoney = 56
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [WORKER]
 Name = Worker
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 2,-3
 #-------------------------------
 [WORKER_Snow]
 Name = Worker
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [DEPOTAGENT]
 Name = Depot Agent
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [PILOT]
 Name = Pilot
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [POLICEMAN]
 Name = Police Man
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [HOOLIGANS]
 Name = Hooligans
 Gender = Unknown
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-5
 #-------------------------------
 [GUITARIST]
 Name = Guitarist
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [MUSICIAN]
 Name = Musician
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [DANCER]
 Name = Dancer
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-14
 #-------------------------------
 [ARTIST]
 Name = Artist
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-4
 #-------------------------------
 [HARLEQUIN]
 Name = Harlequin
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [CYCLIST_M]
 Name = Cyclist
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-6
 #-------------------------------
 [CYCLIST_F]
 Name = Cyclist
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-8
 #-------------------------------
 [SMASHER]
 Name = Smasher
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [STRIKER]
 Name = Striker
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [INFIELDER]
 Name = Infielder
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 #-------------------------------
 [HOOPSTER]
 Name = Hoopster
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-1
 #-------------------------------
 [LINEBACKER]
 Name = Linebacker
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-7
 #-------------------------------
 [BACKERS_M]
 Name = Backers
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-9
 #-------------------------------
 [BACKERS_F]
 Name = Backers
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-5
 #-------------------------------
 [VETERAN_M]
 Name = Veteran
 Gender = Male
 BaseMoney = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-2
 #-------------------------------
 [VETERAN_F]
 Name = Veteran
 Gender = Female
 BaseMoney = 72
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
 ShadowXY = 0,-3
 #-------------------------------
 [ROCKETADMIN_Archer]

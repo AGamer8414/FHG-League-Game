@@ -3923,6 +3923,13 @@ FieldUse = OnPokemon
 Flags = KeyItem
 Description = A special type of Rare Candy. It raises the level of a single Pokémon by one.
 #-------------------------------
+[SUPERRARECANDY]
+Name = Rare Candy 2.0
+Pocket = 2
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = A special type of Rare Candy. It raises the level of a single Pokémon by one.
+#-------------------------------
 [MASTERBALL]
 Name = Master Ball
 NamePlural = Master Balls
