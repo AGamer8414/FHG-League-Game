@@ -119,9 +119,9 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [YOUNGSTER,CatKid,1]
 LoseText = Meow meow.
-Pokemon = SKITTY,4
+Pokemon = SKITTY,3
     Moves = FAKEOUT,TACKLE,GROWL,TAILWHIP
-    AbilityIndex = 0
+    AbilityIndex = 2
     Gender = female
     Nature = SASSY
     IV = 10,10,10,10,10,10
@@ -131,7 +131,7 @@ Pokemon = SKITTY,4
 LoseText = Meow meow.
 Pokemon = SKITTY,13
     Moves = FAKEOUT,TACKLE,SING,DISARMINGVOICE
-    AbilityIndex = 0
+    AbilityIndex = 2
     Gender = female
     Nature = SASSY
     IV = 10,10,10,10,10,10
@@ -2836,3 +2836,47 @@ Pokemon = LOPUNNY,21
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
     TeraType = NORMAL
+#-------------------------------
+[POKEMONTRAINER_Athy,Athy,1]
+LoseText = aaa
+Pokemon = FENNEKIN,5
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONTRAINER_Athy,Athy,2]
+LoseText = aaa
+Pokemon = POPPLIO,5
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONTRAINER_Athy,Athy,3]
+LoseText = aaa
+Pokemon = SPRIGATITO,5
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONTRAINER_ErinNora,Erin & Nora]
+LoseText = aaa
+Pokemon = HOUNDOUR,5
+    Moves = EMBER,LEER,HOWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = SEWADDLE,5
+    Moves = TACKLE,STRINGSHOT
+    AbilityIndex = 1
+    Gender = female
+    Nature = SERIOUS
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0

@@ -638,3 +638,17 @@ BaseMoney = 100
 Flags = AntiReserveLastPokemon
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
+#-------------------------------
+[POKEMONTRAINER_Athy]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
+#-------------------------------
+[POKEMONTRAINER_ErinNora]
+Name = Pokémon Trainers
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
