@@ -527,6 +527,6 @@ Description = A proof copy of the exploration notes, along with Briar's thoughts
 [MININGTOOLS]
 Name = Mining Tool Set
 Pocket = 1
-Price = 3000
+Price = 2000
 Flags = Fling_100
 Description = Tool set that can be used to mine for valuable items underground.

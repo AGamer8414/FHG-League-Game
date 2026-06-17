@@ -2346,7 +2346,7 @@ Pokemon = MUDBRAY,21
     TeraType = GROUND
 #-------------------------------
 [LEADER_Holly,Holly,1]
-LoseText = aaa
+LoseText = We never finish learning, and I'm sure I learned something from you... you're good!
 Pokemon = IMPIDIMP,14
     Moves = FAKEOUT,FLATTER,BITE,TAUNT
     AbilityIndex = 0
@@ -2372,7 +2372,7 @@ Pokemon = TINKATINK,14
 #-------------------------------
 [LEADER_Holly,Holly,2]
 Items = TERAORB
-LoseText = aaa
+LoseText = We never finish learning, and I'm sure I learned something from you... you're good!
 Pokemon = IMPIDIMP,21
     Moves = DRAININGKISS,SWAGGER,BITE,TAUNT
     AbilityIndex = 0

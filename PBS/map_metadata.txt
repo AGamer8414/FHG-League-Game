@@ -108,6 +108,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,12
+BattleBack = field
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -165,9 +166,8 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,11
-BattleBack = NewForest
+BattleBack = field
 MapSize = 0,
-Environment = None
 #-------------------------------
 [033]   # Suncross Town
 Name = Suncross Town
@@ -175,6 +175,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,15,12
+BattleBack = city
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -235,6 +236,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,10,12
+BattleBack = field
 MapSize = 3,111
 #-------------------------------
 [043]   # Shardore Town Pokemon Center
@@ -450,6 +452,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,9,12
+BattleBack = rocky
 MapSize = 0,
 Environment = None
 #-------------------------------
@@ -459,6 +462,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,14,12
+BattleBack = field
 #-------------------------------
 [079]   # Route 2
 Name = Route 2
@@ -466,6 +470,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,14,9
+BattleBack = field
 MapSize = 3,111010010
 #-------------------------------
 [080]   # Lumino City
@@ -474,6 +479,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,12,9
+BattleBack = city
 MapSize = 2,1111
 #-------------------------------
 [081]   # Suncross Town Gates
@@ -496,6 +502,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,5
+BattleBack = field
 MapSize = 1,1111
 #-------------------------------
 [085]   # Mining research building
@@ -508,6 +515,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,4
+BattleBack = field
 #-------------------------------
 [087]   # Coastide Town Gates
 Name = Gate
@@ -520,6 +528,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,8,7
+BattleBack = field
 MapSize = 2,11
 #-------------------------------
 [089]   # Route 10
@@ -528,6 +537,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,10,7
+BattleBack = field
 MapSize = 3,111
 #-------------------------------
 [090]   # Rootfield Town Gates
@@ -540,6 +550,7 @@ Name = Umbrawood Forest (West)
 ShowArea = true
 Bicycle = true
 MapPosition = 0,16,8
+BattleBack = forest
 MapSize = 2,11
 #-------------------------------
 [092]   # Umbrawood Town
@@ -547,6 +558,7 @@ Name = Umbrawood Town
 ShowArea = true
 Bicycle = true
 MapPosition = 0,18,8
+BattleBack = forest
 #-------------------------------
 [093]   # Pokemon Academy Interior
 Name = Pokemon Academy
@@ -558,6 +570,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,13
+BattleBack = field
 #-------------------------------
 [095]   # Umbrawood Town Upper
 Name = Umbrawood Town
@@ -580,6 +593,7 @@ MapPosition = 0,12,9
 [099]   # Blossea Gym
 Name = Blossea Gym
 MapPosition = 0,17,3
+BattleBack = indoor2
 #-------------------------------
 [100]   # Starter Selection Park
 Name = Pokemon Academy
@@ -601,12 +615,14 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,17,3
+BattleBack = field
 #-------------------------------
 [104]   # Umbrawood Forest North
 Name = Umbrawood Forest (North)
 ShowArea = true
 Bicycle = true
 MapPosition = 0,18,7
+BattleBack = forest
 #-------------------------------
 [105]   # Route 8
 Name = Route 8
@@ -614,6 +630,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,14,4
+BattleBack = field
 MapSize = 4,1111
 #-------------------------------
 [106]   # Blossea Town Gate
@@ -627,9 +644,11 @@ MapPosition = 0,13,4
 #-------------------------------
 [108]   # NE Cave 1
 Name = NE Cave
+BattleBack = cave1
 #-------------------------------
 [109]   # NE Cave 2
 Name = NE Cave
+BattleBack = cave2
 #-------------------------------
 [110]   # Route 9
 Name = Route 9
@@ -637,13 +656,15 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,18,6
+BattleBack = field
 MapSize = 2,11
 #-------------------------------
 [111]   # Route 8/9 halfway
-Name = Route 8/9 halfway
+Name = Route 9
 Outdoor = true
 Bicycle = true
 MapPosition = 0,17,6
+BattleBack = field
 MapSize = 0,
 #-------------------------------
 [112]   # Route 6
@@ -652,6 +673,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,16,12
+BattleBack = field
 #-------------------------------
 [113]   # Rootfield Town houses
 Name = Rootfield Town
@@ -663,6 +685,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,7,7
+BattleBack = field
 #-------------------------------
 [115]   # Suncross Town Pokemon Center
 Name = Suncross Town
@@ -691,10 +714,16 @@ MapPosition = 0,17,3
 [120]   # Umbrawood Gym
 Name = Umbrawood Gym
 MapPosition = 0,18,8
+BattleBack = indoor2
 #-------------------------------
 [121]   # Blossea Town Houses
 Name = Blossea Town
 MapPosition = 0,13,4
 #-------------------------------
 [123]   # Coastide Gym
+Name = Coastide Gym
 MapPosition = 0,13,4
+BattleBack = indoor2
+#-------------------------------
+[124]   # Rootfield Gym
+BattleBack = indoor1
