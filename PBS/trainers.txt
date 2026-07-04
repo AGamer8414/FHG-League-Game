@@ -2880,3 +2880,165 @@ Pokemon = SEWADDLE,5
     Nature = SERIOUS
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREADMIN_Salfy,Salfy,1]
+LoseText = aaa
+Pokemon = SANDILE,11
+    Moves = SANDTOMB,POWERTRIP,HONECLAWS,SANDATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = NIDORANmA,11
+    Moves = POISONSTING,PECK,LEER,FOCUSENERGY
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = GROWLITHE,11
+    Moves = EMBER,BITE,HOWL,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREADMIN_Salfy,Salfy,2]
+LoseText = aaa
+Pokemon = SANDILE,19
+    Moves = SANDTOMB,POWERTRIP,HONECLAWS,SANDATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = NIDORINO,19
+    Moves = POISONTAIL,PECK,LEER,FOCUSENERGY
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = GROWLITHE,19
+    Moves = FLAMEWHEEL,BITE,HOWL,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREGRUNT_M,Grunt,1]
+LoseText = aaa
+Pokemon = SALANDIT,10
+    Moves = EMBER,SMOG,SCRATCH,POISONGAS
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = BLITZLE,11
+    Moves = SHOCKWAVE,QUICKATTACK,TAILWHIP,CHARGE
+    AbilityIndex = 1
+    Gender = male
+    Nature = LONELY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREGRUNT_M,Grunt,2]
+LoseText = aaa
+Pokemon = SALANDIT,18
+    Moves = EMBER,POISONFANG,SCRATCH,POISONGAS
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = BLITZLE,19
+    Moves = SHOCKWAVE,FLAMECHARGE,THUNDERWAVE,CHARGE
+    AbilityIndex = 1
+    Gender = male
+    Nature = LONELY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREGRUNT_F,Grunt,1]
+LoseText = aaa
+Pokemon = PANSEAR,11
+    Moves = INCINERATE,SCRATCH,LICK,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = KOFFING,10
+    Moves = SMOG,TACKLE,POISONGAS
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREGRUNT_F,Grunt,2]
+LoseText = aaa
+Pokemon = PANSEAR,19
+    Moves = INCINERATE,BITE,YAWN,FURYSWIPES
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = KOFFING,18
+    Moves = CLEARSMOG,ASSURANCE,TACKLE,POISONGAS
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREADMIN_OtherAdmin,Admin,1]
+LoseText = aaa
+Pokemon = TRUBBISH,11
+    Moves = ACIDSPRAY,POUND,POISONGAS,AMNESIA
+    AbilityIndex = 2
+    Gender = male
+    Nature = IMPISH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = MURKROW,11
+    Moves = THIEF,GUST,PECK,ASTONISH
+    AbilityIndex = 2
+    Gender = female
+    Nature = LONELY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = DARUMAKA,11
+    Moves = TACKLE,EMBER,BITE,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[WILDFIREADMIN_OtherAdmin,Admin,2]
+LoseText = aaa
+Pokemon = TRUBBISH,19
+    Moves = ACIDSPRAY,POUND,TOXICSPIKES,AMNESIA
+    AbilityIndex = 2
+    Gender = male
+    Nature = IMPISH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = MURKROW,19
+    Moves = THIEF,WINGATTACK,ASTONISH,HAZE
+    AbilityIndex = 2
+    Gender = female
+    Nature = LONELY
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+Pokemon = DARUMAKA,19
+    Moves = BITE,FIREPUNCH,WORKUP,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0

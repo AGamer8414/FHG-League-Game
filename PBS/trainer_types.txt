@@ -652,3 +652,33 @@ Gender = Female
 BaseMoney = 60
 SkillLevel = 100
 Flags = AntiReserveLastPokemon
+#-------------------------------
+[WILDFIREADMIN_Salfy]
+Name = Wildfire Admin
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
+#-------------------------------
+[WILDFIREADMIN_OtherAdmin]
+Name = Wildfire Admin
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
+#-------------------------------
+[WILDFIREGRUNT_M]
+Name = Wildfire
+Gender = Male
+BaseMoney = 40
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
+ShadowXY = 1,-2
+#-------------------------------
+[WILDFIREGRUNT_F]
+Name = Wildfire
+Gender = Female
+BaseMoney = 40
+SkillLevel = 100
+Flags = AntiReserveLastPokemon
+ShadowXY = 1,-3

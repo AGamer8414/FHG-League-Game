@@ -515,7 +515,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,4
-BattleBack = field
+BattleBack = beach
 #-------------------------------
 [087]   # Coastide Town Gates
 Name = Gate
@@ -638,7 +638,7 @@ Name = Gate
 Bicycle = true
 MapPosition = 0,17,3
 #-------------------------------
-[107]   # Coastide Town hotel
+[107]   # Coastide Town Interiors
 Name = Coastide Town
 MapPosition = 0,13,4
 #-------------------------------
@@ -726,4 +726,5 @@ MapPosition = 0,13,4
 BattleBack = indoor2
 #-------------------------------
 [124]   # Rootfield Gym
+Name = Rootfield Gym
 BattleBack = indoor1
