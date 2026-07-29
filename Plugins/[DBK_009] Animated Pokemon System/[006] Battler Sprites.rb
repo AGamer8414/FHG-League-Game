@@ -239,6 +239,7 @@ class Battle::Scene::BattlerSprite < RPG::Sprite
       @shadowVisible = @pkmn.species_data.shows_shadow?(back)
     end
     pbSetPosition
+    @_iconBitmap.update_pokemon_sprite if animated?
   end
   
   #-----------------------------------------------------------------------------
@@ -294,6 +295,10 @@ class Battle::Scene::BattlerSprite < RPG::Sprite
     @updating = false
     self.set_status_pattern(@battler) if !@substitute
     self.update_plugin_pattern
+    if animated?
+      @_iconBitmap.update_pokemon_sprite
+      shadowSprite.iconBitmap.update_pokemon_sprite if shadowSprite
+    end
     update_mosaic
   end
 end
@@ -392,8 +397,9 @@ class Battle::Scene
     pkmnSprite.setPokemonBitmap(pkmn, battler, back)
     shadowSprite.setPokemonBitmap(pkmn, pkmnSprite)
     if pkmnSprite.prepare_mosaic && pkmnSprite.vanishMode == 0
-      pkmnSprite.mosaic_duration = 0.50 
+      pkmnSprite.mosaic_duration = 0.5
       pkmnSprite.prepare_mosaic = false
+	  pbPauseScene(0.5)
     end
     return if vanishMode.nil? || pkmnSprite.vanishMode == vanishMode
     pkmnSprite.vanishMode = vanishMode
@@ -489,6 +495,18 @@ class Battle::Battler
   end
 end
 
+#-------------------------------------------------------------------------------
+# Safari Zone compatibility.
+#-------------------------------------------------------------------------------
+class Battle::FakeBattler
+  def battlerSprite; return @battle.battlerSprite; end
+  def shadowSprite;  return @battle.shadowSprite;  end
+end
+
+class SafariBattle
+  def battlerSprite; return @scene.sprites["pokemon_1"]; end
+  def shadowSprite;  return @scene.sprites["shadow_1"];  end
+end
 
 ################################################################################
 #

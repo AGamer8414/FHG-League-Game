@@ -145,9 +145,12 @@ class Battle
 end
 
 #-------------------------------------------------------------------------------
-# Mega Evolution battler eligibility check.
+# Battler Mega Evolution properties.
 #-------------------------------------------------------------------------------
 class Battle::Battler
+  #-----------------------------------------------------------------------------
+  # Updates to battler mega utilities.
+  #-----------------------------------------------------------------------------
   def hasMega?
     return false if shadowPokemon? || @effects[PBEffects::Transform]
     return false if wild? && @battle.wildBattleMode != :mega
@@ -162,6 +165,32 @@ class Battle::Battler
     @pokemon.makeUnmega if mega?
     self.form_update(true)
     @battle.scene.pbRevertBattlerEnd
+  end
+  
+  #-----------------------------------------------------------------------------
+  # Tracks the index of the last used "power" move.
+  #-----------------------------------------------------------------------------
+  alias dx_pbUseMove pbUseMove
+  def pbUseMove(choice, specialUsage = false)
+    @powerMoveIndex = pbSetPowerMoveIndex(choice, specialUsage)
+    dx_pbUseMove(choice, specialUsage)
+    used_move = GameData::Move.try_get(@lastMoveUsed)
+    pbResetPowerMoveIndex(used_move)
+  end
+  
+  #-----------------------------------------------------------------------------
+  # Displays updates to battler's moves in the fight menu.
+  #-----------------------------------------------------------------------------
+  def display_mega_moves
+    mega_moves = MultipleForms.call("getMegaMoves", @pokemon)
+    return if !mega_moves
+    for i in 0...@moves.length
+      @baseMoves.push(@moves[i])
+      new_id = mega_moves[@moves[i].id]
+      next if !new_id || !GameData::Move.exists?(new_id)
+      @pokemon.moves[i].id = new_id
+      @moves[i] = Battle::Move.from_pokemon_move(@battle, @pokemon.moves[i])
+    end
   end
 end
 

@@ -426,9 +426,9 @@ FrontSprite = -2,0
 ShadowSprite = 4,32,19
 #-------------------------------
 [CAMERUPT,1]
-BackSprite = 9,41
-FrontSprite = 1,10
-ShadowSprite = 2,0,4
+BackSprite = 10,48
+FrontSprite = 1,21
+ShadowSprite = 2,0,0
 #-------------------------------
 [ALTARIA,1]
 BackSprite = 9,58

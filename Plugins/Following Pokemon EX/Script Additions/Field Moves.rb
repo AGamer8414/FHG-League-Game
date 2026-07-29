@@ -29,6 +29,30 @@ def pbStartSurfing(*args)
   FollowingPkmn.toggle_off(true) if surf_anim_1 != surf_anim_2
   ret = __followingpkmn__pbStartSurfing(*args)
   FollowingPkmn.toggle(old_toggled, false)
+  
+  # Simply move the follower one step in the player's direction
+  if FollowingPkmn.active?
+    event = FollowingPkmn.get_event
+    if event
+      case $game_player.direction
+      when 2 then event.move_down    # Player facing down
+      when 4 then event.move_left    # Player facing left
+      when 6 then event.move_right   # Player facing right
+      when 8 then event.move_up      # Player facing up
+      end
+      # Wait for the movement to complete
+      while event.moving?
+        Graphics.update
+        Input.update
+        pbUpdateSceneMap
+      end
+    end
+  end
+  
+  # Fix surf animation immediately by recalculating bush depth
+  FollowingPkmn.get_event&.calculate_bush_depth
+  # Refresh sprite to use swimming sprites if available
+  FollowingPkmn.refresh(false) if FollowingPkmn.active?
   return ret
 end
 
@@ -41,10 +65,36 @@ def pbEndSurf(*args)
   surf_anim_1 = FollowingPkmn.active?
   ret = __followingpkmn__pbEndSurf(*args)
   return false if !ret
+  
+  # Let Following Pokemon use its normal follow logic when player exits water
   $PokemonGlobal.current_surfing = nil
   FollowingPkmn.refresh_internal
   surf_anim_2 = FollowingPkmn.active?
   $PokemonGlobal.call_refresh = [true, (surf_anim_1 != surf_anim_2), 1]
+  
+  # Simply move the follower one step in the player's direction
+  if FollowingPkmn.active?
+    event = FollowingPkmn.get_event
+    if event
+      case $game_player.direction
+      when 2 then event.move_down    # Player facing down
+      when 4 then event.move_left    # Player facing left
+      when 6 then event.move_right   # Player facing right
+      when 8 then event.move_up      # Player facing up
+      end
+      # Wait for the movement to complete
+      while event.moving?
+        Graphics.update
+        Input.update
+        pbUpdateSceneMap
+      end
+    end
+  end
+  
+  # Fix surf animation immediately by recalculating bush depth
+  FollowingPkmn.get_event&.calculate_bush_depth
+  # Refresh sprite to use normal sprites after surfing
+  FollowingPkmn.refresh(false) if FollowingPkmn.active?
   return ret
 end
 
@@ -60,6 +110,8 @@ def pbDive(*args)
   ret = __followingpkmn__pbDive(*args)
   $PokemonGlobal.current_diving = old_diving if !ret || !pkmn
   $game_temp.no_follower_field_move = false
+  # Fix dive animation immediately by recalculating bush depth
+  FollowingPkmn.get_event&.calculate_bush_depth if ret
   return ret
 end
 
@@ -74,6 +126,8 @@ def pbSurfacing(*args)
   ret = __followingpkmn__pbSurfacing(*args)
   $PokemonGlobal.current_diving = old_diving if !ret
   $game_temp.no_follower_field_move = false
+  # Fix surfacing animation immediately by recalculating bush depth
+  FollowingPkmn.get_event&.calculate_bush_depth if ret
   return ret
 end
 

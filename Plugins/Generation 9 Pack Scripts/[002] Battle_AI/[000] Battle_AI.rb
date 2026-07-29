@@ -5,19 +5,21 @@
 ################################################################################
 class Battle::AI
   GEN_9_BASE_ABILITY_RATINGS = {
-    9  => [:ORICHALCUMPULSE, :HADRONENGINE],
-    8  => [:THERMALEXCHANGE],
-    7  => [:EARTHEATER, :TOXICDEBRIS, :PROTOSYNTHESIS, :QUARKDRIVE, :SUPERSWEETSYRUP, :MINDSEYE],
-    6  => [:SUPREMEOVERLORD, :SEEDSOWER, :OPPORTUNIST],
+    9  => [:ORICHALCUMPULSE, :HADRONENGINE, :MEGASOL],
+    8  => [:THERMALEXCHANGE,:DRAGONIZE, :EELEVATE],
+    7  => [:EARTHEATER, :TOXICDEBRIS, :PROTOSYNTHESIS, :QUARKDRIVE, :SUPERSWEETSYRUP,
+           :MINDSEYE],
+    6  => [:SUPREMEOVERLORD, :SEEDSOWER, :OPPORTUNIST, :SPICYSPRAY],
     5  => [:ARMORTAIL, :ROCKYPAYLOAD, :SHARPNESS, :LINGERINGAROMA, :CUDCHEW, 
-           :TOXICCHAIN, :POISONPUPPETEER],
+           :TOXICCHAIN, :POISONPUPPETEER, :FIREMANE],
     4  => [:PURIFYINGSALT, :WELLBAKEDBODY, :ANGERSHELL, :ELECTROMORPHOSIS, :WINDPOWER],
     3  => [:WINDRIDER, :HOSPITALITY,
            :TABLETSOFRUIN, :SWORDOFRUIN, :VESSELOFRUIN, :BEADSOFRUIN
           ],
     1  => [:EMBODYASPECT, :EMBODYASPECT_1, :EMBODYASPECT_2, :EMBODYASPECT_3,
            :TERASHIFT, :TERASHELL, :TERAFORMZERO
-          ]
+          ],
+    0  => [:PIERCINGDRILL]
 
   }
 
@@ -32,6 +34,8 @@ class Battle::AI
     3  => [:HOPOBERRY, :MIRRORHERB, :COVERTCLOAK],
     2  => [:CLEARAMULET],
   }
+
+  HP_HEAL_ITEMS[:CANARIBREAD] = 100
 
   #===============================================================================
   # Battle_AI
@@ -353,7 +357,7 @@ class Battle::AI::AIMove
     # Ability effects that alter damage
     if user.ability_active?
       case user.ability_id
-      when :AERILATE, :GALVANIZE, :PIXILATE, :REFRIGERATE
+      when :AERILATE, :GALVANIZE, :PIXILATE, :REFRIGERATE, :DRAGONIZE
         multipliers[:power_multiplier] *= 1.2 if type == :NORMAL   # NOTE: Not calc_type.
       when :ANALYTIC
         if rough_priority(user) <= 0
@@ -626,6 +630,13 @@ class Battle::AI::AIMove
       return 100 if @ai.target.effects[PBEffects::GlaiveRush] > 0
     end
     return paldea_rough_accuracy
+  end
+
+  # Added evasion check for Nihil Light
+  alias za_apply_rough_accuracy_modifiers apply_rough_accuracy_modifiers
+  def apply_rough_accuracy_modifiers(user, target, calc_type, modifiers)
+    za_apply_rough_accuracy_modifiers(user, target, calc_type, modifiers)
+    modifiers[:evasion_stage] = 0 if function_code == "IgnoreTargetDefSpDefEvaStatStagesHitFairyType"   # Nihil Light
   end
 end
 

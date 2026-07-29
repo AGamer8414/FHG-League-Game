@@ -2382,7 +2382,7 @@ ShadowSprite = 0,3,2
 BackSprite = 2,16
 FrontSprite = 0,4
 ShadowSprite = 0,12,8
-AnimationSpeed = 2,1
+AnimationSpeed = 3,2
 #-------------------------------
 [MAGNEZONE]
 BackSprite = 0,37
@@ -3941,8 +3941,8 @@ ShadowSprite = 0,-9,-8
 #-------------------------------
 [SALAZZLE]
 BackSprite = -1,62
-FrontSprite = 1,16,1
-ShadowSprite = 1,1,0
+FrontSprite = 0,34
+ShadowSprite = 0,1,-10
 #-------------------------------
 [STUFFUL]
 BackSprite = 8,53
@@ -4687,13 +4687,3 @@ ShadowSprite = 2,4,1
 BackSprite = 0,60
 FrontSprite = 3,11
 ShadowSprite = 2,-2,8
-#-------------------------------
-[TEST]
-BackSprite = 4,10
-FrontSprite = 7,5
-ShadowSprite = 2,0,5
-#-------------------------------
-[CAMERUPT,1,female]
-BackSprite = 7,38
-FrontSprite = 0,17
-ShadowSprite = 2,1,0

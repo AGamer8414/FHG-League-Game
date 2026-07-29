@@ -15,7 +15,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_NORMAL
-Description = These shards have the power to change a Pokémon's Tera Type to Normal. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [FIRETERASHARD]
 Name = Fire Tera Shard
@@ -24,7 +24,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_FIRE
-Description = These shards have the power to change a Pokémon's Tera Type to Fire. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [WATERTERASHARD]
 Name = Water Tera Shard
@@ -33,7 +33,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_WATER
-Description = These shards have the power to change a Pokémon's Tera Type to Water. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [ELECTRICTERASHARD]
 Name = Electric Tera Shard
@@ -42,7 +42,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_ELECTRIC
-Description = These shards have the power to change a Pokémon's Tera Type to Electric. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [GRASSTERASHARD]
 Name = Grass Tera Shard
@@ -51,7 +51,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_GRASS
-Description = These shards have the power to change a Pokémon's Tera Type to Grass. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [ICETERASHARD]
 Name = Ice Tera Shard
@@ -60,7 +60,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_ICE
-Description = These shards have the power to change a Pokémon's Tera Type to Ice. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [FIGHTINGTERASHARD]
 Name = Fighting Tera Shard
@@ -69,7 +69,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_FIGHTING
-Description = These shards have the power to change a Pokémon's Tera Type to Fighting. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [POISONTERASHARD]
 Name = Poison Tera Shard
@@ -78,7 +78,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_POISON
-Description = These shards have the power to change a Pokémon's Tera Type to Poison. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [GROUNDTERASHARD]
 Name = Ground Tera Shard
@@ -87,7 +87,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_GROUND
-Description = These shards have the power to change a Pokémon's Tera Type to Ground. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [FLYINGTERASHARD]
 Name = Flying Tera Shard
@@ -96,7 +96,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_FLYING
-Description = These shards have the power to change a Pokémon's Tera Type to Flying. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [PSYCHICTERASHARD]
 Name = Psychic Tera Shard
@@ -105,7 +105,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_PSYCHIC
-Description = These shards have the power to change a Pokémon's Tera Type to Psychic. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [BUGTERASHARD]
 Name = Bug Tera Shard
@@ -114,7 +114,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_BUG
-Description = These shards have the power to change a Pokémon's Tera Type to Bug. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [ROCKTERASHARD]
 Name = Rock Tera Shard
@@ -123,7 +123,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_ROCK
-Description = These shards have the power to change a Pokémon's Tera Type to Rock. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [GHOSTTERASHARD]
 Name = Ghost Tera Shard
@@ -132,7 +132,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_GHOST
-Description = These shards have the power to change a Pokémon's Tera Type to Ghost. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [DRAGONTERASHARD]
 Name = Dragon Tera Shard
@@ -141,7 +141,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_DRAGON
-Description = These shards have the power to change a Pokémon's Tera Type to Dragon. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [DARKTERASHARD]
 Name = Dark Tera Shard
@@ -150,7 +150,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_DARK
-Description = These shards have the power to change a Pokémon's Tera Type to Dark. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [STEELTERASHARD]
 Name = Steel Tera Shard
@@ -159,7 +159,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_STEEL
-Description = These shards have the power to change a Pokémon's Tera Type to Steel. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [FAIRYTERASHARD]
 Name = Fairy Tera Shard
@@ -168,7 +168,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_FAIRY
-Description = These shards have the power to change a Pokémon's Tera Type to Fairy. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [STELLARTERASHARD]
 Name = Stellar Tera Shard
@@ -177,7 +177,7 @@ Pocket = 1
 Price = 2000
 FieldUse = OnPokemon
 Flags = Fling_30,TeraShard_STELLAR
-Description = These shards have the power to change a Pokémon's Tera Type to Stellar. Can be found when mining.
+Description = On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
 #-------------------------------
 [MYSTERYTERAJEWEL]
 Name = Mystery Tera Jewel

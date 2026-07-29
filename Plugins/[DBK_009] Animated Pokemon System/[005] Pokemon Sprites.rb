@@ -80,7 +80,7 @@ class PokemonSprite < Sprite
   alias animated_setSpeciesBitmap setSpeciesBitmap
   def setSpeciesBitmap(species, gender = 0, form = 0, shiny = false, shadow = false, back = false, egg = false)
     animated_setSpeciesBitmap(species, gender, form, shiny, shadow, back, egg)
-    species_id = GameData::Species.get_species_form(species, form).id
+    species_id = (species) ? GameData::Species.get_species_form(species, form).id : nil
     pbSetDisplay([], species_id, back)
   end
   
@@ -166,7 +166,7 @@ class PokemonSprite < Sprite
     self.y = v[1] || 0
     offset = findCenter(self.bitmap)
     sp_metrics = Settings::POKEMON_UI_METRICS
-    species_offset = (species) ? sp_metrics[species] : sp_metrics[@pkmn.species_data.id]
+    species_offset = (species) ? sp_metrics[species] : (@pkmn) ? sp_metrics[@pkmn.species_data.id] : nil
     if species_offset
       offset[0] = (back) ? (offset[0] - species_offset[0]) : (offset[0] + species_offset[0])
       offset[1] += species_offset[1]

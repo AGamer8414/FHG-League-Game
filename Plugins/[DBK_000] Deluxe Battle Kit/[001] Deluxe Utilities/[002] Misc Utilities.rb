@@ -164,7 +164,7 @@ class Battle::Battler
   #-----------------------------------------------------------------------------
   # Utility for resetting a battler's moves back to its original moveset.
   #-----------------------------------------------------------------------------
-  def display_base_moves
+  def display_base_moves(reset_pokemon_moves = false)
     return if @baseMoves.empty?
     for i in 0...@moves.length
       next if !@baseMoves[i]
@@ -172,6 +172,10 @@ class Battle::Battler
         @moves[i] = @baseMoves[i]
       else
         @moves[i] = Battle::Move.from_pokemon_move(@battle, @baseMoves[i])
+      end
+      if reset_pokemon_moves
+        next if @pokemon.moves[i].id == @baseMoves[i].id
+        @pokemon.moves[i].id = @baseMoves[i].id
       end
     end
     @baseMoves.clear
@@ -291,14 +295,14 @@ class Battle::Battler
     pbUpdate(true)
     @hp = @totalhp - oldDmg
     @effects[PBEffects::WeightChange] = 0 if Settings::MECHANICS_GENERATION >= 6
-    @mosaicChange = true if defined?(@mosaicChange)
+    self.battlerSprite.prepare_mosaic = true if defined?(self.battlerSprite)
     @battle.scene.pbChangePokemon(self, @pokemon)
     @battle.scene.pbRefreshOne(@index)
-    @battle.pbDisplay(msg) if msg && msg != ""
+    @battle.pbDisplay(msg) if !nil_or_empty?(msg)
     PBDebug.log("[Form changed] #{pbThis} changed from form #{oldForm} to form #{newForm}")
     @battle.pbSetSeen(self)
     pbOnLosingAbility(old_ability)
-    pbTriggerAbilityOnGainingIt
+    pbTriggerAbilityOnGainingIt if old_ability != @ability_id
     @battle.pbCalculatePriority(false, [@index]) if !movedThisRound?
     @battle.scene.pbAnimateSubstitute(self, :show)
   end

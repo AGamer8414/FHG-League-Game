@@ -47,20 +47,75 @@ module FollowingPkmn
     return false
   end
   #-----------------------------------------------------------------------------
-  # Script Command for checking whether the current follower is waterborne
+  # Script Command for checking if a swimming sprite exists for the Pokemon
   #-----------------------------------------------------------------------------
-  def self.waterborne_follower?
+  def self.has_swimming_sprite?
     return false if !FollowingPkmn.can_check?
     pkmn = FollowingPkmn.get_pokemon
     return false if !pkmn
-    return true if pkmn.hasType?(:WATER)
-    # Don't follow if the Pokemon is manually selected
-    return false if FollowingPkmn::SURFING_FOLLOWERS_EXCEPTIONS.any? do |s|
-      s == pkmn.species || s.to_s == "#{pkmn.species}_#{pkmn.form}"
+    
+    # Check if swimming sprite exists
+    shiny = pkmn.shiny?
+    shiny = pkmn.superVariant if (pkmn.respond_to?(:superVariant) && !pkmn.superVariant.nil? && pkmn.superShiny?)
+    
+    # Check for swimming sprite first
+    folder = shiny ? "Swimming Shiny" : "Swimming"
+    ret = GameData::Species.check_graphic_file("Graphics/Characters/", pkmn.species, pkmn.form,
+                                               pkmn.gender, shiny, pkmn.shadow, folder)
+    return true if !nil_or_empty?(ret)
+    
+    # Check for levitate sprite (for airborne Pokemon over water)
+    folder = shiny ? "Levitates Shiny" : "Levitates"
+    ret = GameData::Species.check_graphic_file("Graphics/Characters/", pkmn.species, pkmn.form,
+                                               pkmn.gender, shiny, pkmn.shadow, folder)
+    return !nil_or_empty?(ret)
+  end
+  #-----------------------------------------------------------------------------
+  # Script Command for checking whether the current follower is waterborne
+  #-----------------------------------------------------------------------------
+  def self.waterborne_follower?
+    return false if defined?(@@checking_waterborne) && @@checking_waterborne
+    @@checking_waterborne = true
+    begin
+      return false if !FollowingPkmn.can_check?
+      pkmn = FollowingPkmn.get_pokemon
+      return false if !pkmn
+      
+      # Always follow if Pokemon is water type
+      return true if pkmn.hasType?(:WATER)
+      
+      # Always follow if the Pokemon has a swimming or levitate sprite available
+      # This takes priority over the exceptions list
+      return true if FollowingPkmn.has_swimming_sprite?
+      
+      # Check exceptions list before checking airborne
+      return false if FollowingPkmn::SURFING_FOLLOWERS_EXCEPTIONS.any? do |s|
+        s == pkmn.species || s.to_s == "#{pkmn.species}_#{pkmn.form}"
+      end
+      
+      # Follow if the Pokemon flies or levitates (and not in exceptions)
+      return true if FollowingPkmn.airborne_follower?
+      
+      return false
+    ensure
+      @@checking_waterborne = false
     end
-    # Follow if the Pokemon flies or levitates
-    return true if FollowingPkmn.airborne_follower?
-    return false
+  end
+  #-----------------------------------------------------------------------------
+  # Script Command for checking whether the current follower should use swimming sprites
+  #-----------------------------------------------------------------------------
+  def self.should_use_swimming_sprites?
+    return false if !FollowingPkmn.can_check? || !FollowingPkmn.active?
+    # Use swimming sprites only when player is actually surfing AND the follower is on water
+    return false if !$PokemonGlobal.surfing || !FollowingPkmn.waterborne_follower?
+    
+    # Check if the follower is actually on a water tile
+    event = FollowingPkmn.get_event
+    return false if !event
+    
+    # Check the terrain tag of the follower's current position
+    terrain_tag = $map_factory.getTerrainTag(event.map.map_id, event.x, event.y)
+    return terrain_tag.can_surf
   end
   #-----------------------------------------------------------------------------
   # Forcefully refresh Following Pokemon sprite with animation (if specified)
@@ -81,8 +136,6 @@ module FollowingPkmn
       anim_id   = FollowingPkmn.const_get(anim_name) if FollowingPkmn.const_defined?(anim_name)
       if event && anim_id
         $scene.spriteset.addUserAnimation(anim_id, event.x, event.y, false, 1)
-        pbMoveRoute($game_player, [PBMoveRoute::WAIT, 2])
-        pbWait(0.2)
       end
     end
     FollowingPkmn.change_sprite(first_pkmn) if ret
@@ -106,8 +159,9 @@ module FollowingPkmn
   def self.change_sprite(pkmn)
     shiny = pkmn.shiny?
     shiny = pkmn.superVariant if (pkmn.respond_to?(:superVariant) && !pkmn.superVariant.nil? && pkmn.superShiny?)
+    swimming = FollowingPkmn.should_use_swimming_sprites?
     fname = GameData::Species.ow_sprite_filename(pkmn.species, pkmn.form,
-      pkmn.gender, shiny, pkmn.shadow)
+      pkmn.gender, shiny, pkmn.shadow, swimming)
     fname.gsub!("Graphics/Characters/", "")
     FollowingPkmn.get_event&.character_name = fname
     FollowingPkmn.get_data&.character_name  = fname

@@ -58,7 +58,7 @@ module Settings
   #-----------------------------------------------------------------------------
   # Sets the number of Tera Shards required to change a Pokemon's Tera type.
   #-----------------------------------------------------------------------------
-  TERA_SHARDS_REQUIRED = 1
+  TERA_SHARDS_REQUIRED = 50
   
   #-----------------------------------------------------------------------------
   # Species that are blacklisted from being compatible with the move Tera Blast.

@@ -16,7 +16,22 @@ end
 #-------------------------------------------------------------------------------
 module GameData
   class Species
-    def self.ow_sprite_filename(species, form = 0, gender = 0, shiny = false, shadow = false)
+    def self.ow_sprite_filename(species, form = 0, gender = 0, shiny = false, shadow = false, swimming = false)
+      # Prioritize Levitate sprites if swimming (to show flying over water)
+      if swimming
+        # Check for levitate sprites (for airborne Pokemon)
+        folder = shiny ? "Levitates Shiny" : "Levitates"
+        ret = self.check_graphic_file("Graphics/Characters/", species, form,
+                                      gender, shiny, shadow, folder)
+        return ret if !nil_or_empty?(ret)
+
+        folder = shiny ? "Swimming Shiny" : "Swimming"
+        ret = self.check_graphic_file("Graphics/Characters/", species, form,
+                                      gender, shiny, shadow, folder)
+        return ret if !nil_or_empty?(ret)
+      end
+      
+      # Fall back to regular follower sprites
       ret = self.check_graphic_file("Graphics/Characters/", species, form,
                                     gender, shiny, shadow, "Followers")
       ret = "Graphics/Characters/Followers/" if nil_or_empty?(ret)
@@ -55,15 +70,28 @@ class Game_Follower
   end
 end
 
+#===============================================================================
+# Options Categories - Fallback if not defined
+#===============================================================================
+module OptionsCategories
+  BATTLE = :battle
+  AUDIO = :audio
+  GRAPHICS = :graphics
+  GAMEPLAY = :gameplay
+  PLUGINS = :plugins
+  SYSTEM = :system
+end unless defined?(OptionsCategories)
+
 #-------------------------------------------------------------------------------
 # New option in the Options menu to toggle Following Pokemon
 #-------------------------------------------------------------------------------
 MenuHandlers.add(:options_menu, :follower_toggle, {
   "name"        => _INTL("Following Pokemon"),
-  "order"       => 999,
+  "order"       => 10,
   "type"        => EnumOption,
   "parameters"  => [_INTL("On"), _INTL("Off")],
   "description" => _INTL("Let the first Pokemon in your party follow you in the overworld."),
+  "category"    => OptionsCategories::PLUGINS,
   "condition"   => proc { FollowingPkmn.can_check? && FollowingPkmn.get_event && FollowingPkmn::SHOW_TOGGLE_IN_OPTIONS },
   "get_proc"    => proc { next ($PokemonGlobal&.follower_toggled ? 0 : 1) },
   "set_proc"    => proc { |value, _scene|
@@ -74,13 +102,16 @@ MenuHandlers.add(:options_menu, :follower_toggle, {
   }
 })
 
-class PokemonOptionScreen
-  alias __followingpkmn__pbStartScreen pbStartScreen unless method_defined?(:__followingpkmn__pbStartScreen)
-  def pbStartScreen(*args)
-    __followingpkmn__pbStartScreen(*args)
-    pbRefreshSceneMap
-  end
-end
+#-------------------------------------------------------------------------------
+# Extend PokemonOptionScreen to refresh scene map after options
+#-------------------------------------------------------------------------------
+# class PokemonOptionScreen
+#   alias __followingpkmn__pbStartScreen pbStartScreen unless method_defined?(:__followingpkmn__pbStartScreen)
+#   def pbStartScreen(*args)
+#     __followingpkmn__pbStartScreen(*args)
+#     pbRefreshSceneMap
+#   end
+# end
 
 #-------------------------------------------------------------------------------
 # New trigger method for Named Events that returns the value of the callback

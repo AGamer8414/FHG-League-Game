@@ -3042,3 +3042,67 @@ Pokemon = DARUMAKA,19
     Nature = BASHFUL
     IV = 20,20,20,20,20,20
     EV = 0,0,0,0,0,0
+#-------------------------------
+[SCIENTIST,Thomas,1]
+LoseText = I never calculated for that sequence!
+Pokemon = ARON,11
+    Moves = METALCLAW,ROCKTOMB,TACKLE,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = TINKATINK,12
+    Moves = METALCLAW,FAIRYWIND,COVET,BABYDOLLEYES
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[SCIENTIST,Thomas,2]
+LoseText = I never calculated for that sequence!
+Pokemon = ARON,19
+    Moves = METALCLAW,ROCKTOMB,HEADBUTT,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = TINKATINK,20
+    Moves = METALCLAW,ROCKSMASH,COVET,BABYDOLLEYES
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[SCIENTIST2,Marie,1]
+LoseText = Well done, trainer!
+Pokemon = MAGNEMITE,11
+    Moves = GYROBALL,THUNDERSHOCK,TACKLE,SUPERSONIC
+    AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PAWNIARD,12
+    Moves = METALCLAW,FURYCUTTER,SCRATCH,LEER
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[SCIENTIST2,Marie,2]
+LoseText = Well done, trainer!
+Pokemon = MAGNEMITE,20
+    Moves = GYROBALL,THUNDERSHOCK,TACKLE,SUPERSONIC
+    AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0
+Pokemon = PAWNIARD,20
+    Moves = METALCLAW,FURYCUTTER,SCRATCH,LEER
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 10,10,10,10,10,10
+    EV = 0,0,0,0,0,0

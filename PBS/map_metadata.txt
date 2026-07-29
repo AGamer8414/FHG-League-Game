@@ -728,3 +728,17 @@ BattleBack = indoor2
 [124]   # Rootfield Gym
 Name = Rootfield Gym
 BattleBack = indoor1
+#-------------------------------
+[125]   # Lumino Gym
+Name = Lumino City
+MapPosition = 0,13,10
+BattleBack = indoor1
+#-------------------------------
+[126]   # Suncross Gym
+Name = Suncross Town
+MapPosition = 0,15,12
+BattleBack = indoor1
+#-------------------------------
+[127]   # Suncross Gym First room
+Name = Suncross Town
+MapPosition = 0,15,12

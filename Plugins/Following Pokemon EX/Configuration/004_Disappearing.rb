@@ -35,7 +35,14 @@ EventHandlers.add(:following_pkmn_appear, :surfing, proc { |pkmn|
   if ($PokemonGlobal.surfing && !$game_temp.ending_surf) ||
      (FollowingPkmn.get_event&.terrain_tag&.can_surf && FollowingPkmn.active?)
     # Don't follow if this is the Pokemon currently being ridden
-    next false if pkmn == $PokemonGlobal.current_surfing
+    # UNLESS it's the only Pokemon in the party (then show it swimming)
+    if pkmn == $PokemonGlobal.current_surfing
+      able_count = $player.able_pokemon_count
+      # If we have more than 1 able Pokemon, hide the surfing one
+      next false if able_count > 1
+      # If it's the only Pokemon, let it follow with swimming sprite
+      next true if able_count == 1
+    end
     # Follow if the Pokemon is water type, levitates or is manually removed
     next true if FollowingPkmn.waterborne_follower?
     # Don't Follow

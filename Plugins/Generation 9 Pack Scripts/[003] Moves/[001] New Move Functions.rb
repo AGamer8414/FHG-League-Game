@@ -365,7 +365,7 @@ class Battle::Move::HitTenTimes < Battle::Move
   def multiHitMove?; return true; end
 
   def pbNumHits(user, targets)
-    return 4 + rand(7) if user.hasActiveItem?(:LOADEDDICE)
+    return 4 + @battle.pbRandom(7) if user.hasActiveItem?(:LOADEDDICE)
     return 10
   end
 
@@ -427,7 +427,8 @@ class Battle::Move::AddMoneyGainedFromBattleLowerUserSpAtk1 < Battle::Move
   attr_reader :statDown
   def initialize(battle, move)
     super
-    @statDown = [:SPECIAL_ATTACK, 1]
+    qty = Settings::CHAMPIONS_MECHANICS ? 2 : 1
+    @statDown = [:SPECIAL_ATTACK, qty]
   end
   
   def pbEndOfMoveUsageEffect(user, targets, numHits, switchedBattlers)
@@ -708,7 +709,7 @@ end
 #-------------------------------------------------------------------------------
 class Battle::Move::RemoveUserBindingAndEntryHazardsPoisonTarget < Battle::Move::PoisonTarget
   def pbEffectAfterAllHits(user, target)
-    return if user.fainted? || target.damageState.unaffected
+    return if (user.fainted? && Settings::CHAMPIONS_MECHANICS) || target.damageState.unaffected
     if user.effects[PBEffects::Trapping] > 0
       trapMove = GameData::Move.get(user.effects[PBEffects::TrappingMove]).name
       trapUser = @battle.battlers[user.effects[PBEffects::TrappingUser]]
@@ -777,6 +778,14 @@ class Battle::Move::SwitchOutUserStartHailWeather < Battle::Move::StartHailWeath
   def pbDisplayUseMessage(user)
     @battle.pbDisplayBrief(_INTL("{1} is preparing to tell a chillingly bad joke!", user.pbThis))
     super
+  end
+
+  def pbMoveFailed?(user, targets)
+    # The user will still switch out even if there is already snow on the field when the move is used. 
+    # If there are no other teammates to switch to, it will only change the weather to snow.
+    cannot_switch = !@battle.pbCanChooseNonActive?(user.index)
+    return super if cannot_switch
+    return false
   end
   
   def pbEndOfMoveUsageEffect(user, targets, numHits, switchedBattlers)
